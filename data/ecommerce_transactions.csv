@@ -1,0 +1,1501 @@
+Order_ID,Order_Date,Customer_ID,Product_ID,Quantity,Discount,Amount,Rating,Payment_Method,Customer_Name,City,Customer_Segment,Age,Product,Category,Unit_Price,Profit
+O00001,2026-04-16,C0204,P011,4,0.1,10796.4,5,Cash,Customer_0204,Hyderabad,Professional,29,Running Shoes,Fashion,2999,1671.73
+O00002,2026-07-28,C0276,P029,1,0.15,764.15,3,Debit Card,Customer_0276,Hyderabad,Student,29,Table Clock,Home,899,201.32
+O00003,2026-03-24,C0196,P016,1,0.15,7649.15,5,UPI,Customer_0196,Madurai,Professional,44,Office Chair,Furniture,8999,1219.4
+O00004,2026-06-18,C0044,P003,4,0.15,11896.6,2,Net Banking,Customer_0044,Madurai,Business,39,Smart Watch,Electronics,3499,1870.11
+O00005,2026-04-03,C0106,P025,4,0.15,5096.6,5,Credit Card,Customer_0106,Coimbatore,Business,34,Perfume,Beauty,1499,1349.85
+O00006,2026-03-10,C0185,P016,2,0.1,16198.2,4,Cash,Customer_0185,Bengaluru,Business,36,Office Chair,Furniture,8999,4200.29
+O00007,2026-02-01,C0062,P011,1,0.05,2849.05,5,Debit Card,Customer_0062,Delhi,Business,46,Running Shoes,Fashion,2999,825.22
+O00008,2026-05-22,C0047,P022,1,0.15,594.15,3,UPI,Customer_0047,Madurai,Business,29,Shampoo,Beauty,699,105.88
+O00009,2026-04-29,C0293,P010,1,0.05,664.05,4,Debit Card,Customer_0293,Coimbatore,Business,54,Phone Case,Accessories,699,123.67
+O00010,2026-05-11,C0032,P027,3,0.15,634.95,5,Cash,Customer_0032,Mumbai,Business,47,Pen Set,Stationery,249,159.71
+O00011,2026-03-04,C0078,P003,4,0.05,13296.2,4,Net Banking,Customer_0078,Coimbatore,Student,52,Smart Watch,Electronics,3499,2258.61
+O00012,2026-05-11,C0099,P008,2,0.0,4598.0,4,Cash,Customer_0099,Bengaluru,Professional,55,USB-C Hub,Electronics,2299,1114.47
+O00013,2026-03-29,C0163,P017,3,0.0,22497.0,4,Debit Card,Customer_0163,Delhi,Business,31,Study Table,Furniture,7499,4942.64
+O00014,2026-08-03,C0167,P024,4,0.05,2276.2,4,Cash,Customer_0167,Madurai,Student,30,Sunscreen,Beauty,599,530.74
+O00015,2026-03-30,C0210,P011,3,0.15,7647.45,4,Debit Card,Customer_0210,Chennai,Professional,32,Running Shoes,Fashion,2999,1399.26
+O00016,2026-08-11,C0198,P019,2,0.05,1328.1,5,Credit Card,Customer_0198,Madurai,Professional,49,Water Bottle,Home,699,352.79
+O00017,2026-08-08,C0061,P006,4,0.0,15996.0,4,Cash,Customer_0061,Mumbai,Business,41,Mechanical Keyboard,Electronics,3999,4299.68
+O00018,2026-06-30,C0139,P005,4,0.15,4416.6,5,Credit Card,Customer_0139,Coimbatore,Student,30,Gaming Mouse,Electronics,1299,718.24
+O00019,2026-05-07,C0141,P016,1,0.05,8549.05,4,Net Banking,Customer_0141,Bengaluru,Professional,40,Office Chair,Furniture,8999,2180.74
+O00020,2026-03-26,C0135,P014,1,0.15,679.15,3,Cash,Customer_0135,Madurai,Student,24,T-Shirt,Fashion,799,180.27
+O00021,2026-01-04,C0164,P005,2,0.15,2208.3,5,Credit Card,Customer_0164,Delhi,Business,28,Gaming Mouse,Electronics,1299,276.09
+O00022,2026-01-20,C0165,P022,4,0.1,2516.4,4,Cash,Customer_0165,Bengaluru,Professional,50,Shampoo,Beauty,699,486.54
+O00023,2026-06-16,C0011,P010,1,0.1,629.1,5,Net Banking,Customer_0011,Hyderabad,Student,39,Phone Case,Accessories,699,169.65
+O00024,2026-04-08,C0183,P006,3,0.15,10197.45,5,UPI,Customer_0183,Madurai,Business,49,Mechanical Keyboard,Electronics,3999,2399.98
+O00025,2026-06-08,C0108,P008,1,0.05,2184.05,5,Debit Card,Customer_0108,Coimbatore,Professional,36,USB-C Hub,Electronics,2299,632.51
+O00026,2026-02-28,C0205,P030,1,0.15,2549.15,5,UPI,Customer_0205,Chennai,Professional,42,Travel Bag,Accessories,2999,393.48
+O00027,2026-04-24,C0292,P007,2,0.1,2878.2,5,UPI,Customer_0292,Madurai,Student,23,Laptop Stand,Electronics,1599,448.8
+O00028,2026-03-25,C0243,P022,1,0.1,629.1,4,Cash,Customer_0243,Delhi,Professional,19,Shampoo,Beauty,699,171.91
+O00029,2026-02-07,C0067,P011,2,0.15,5098.3,5,Credit Card,Customer_0067,Coimbatore,Student,20,Running Shoes,Fashion,2999,919.85
+O00030,2026-02-13,C0100,P014,2,0.0,1598.0,5,Cash,Customer_0100,Pune,Professional,31,T-Shirt,Fashion,799,227.22
+O00031,2026-06-08,C0167,P008,2,0.15,3908.3,5,Credit Card,Customer_0167,Madurai,Student,30,USB-C Hub,Electronics,2299,1131.85
+O00032,2026-03-01,C0244,P030,4,0.1,10796.4,4,UPI,Customer_0244,Bengaluru,Professional,32,Travel Bag,Accessories,2999,2471.43
+O00033,2026-08-19,C0249,P006,4,0.1,14396.4,5,Credit Card,Customer_0249,Pune,Professional,47,Mechanical Keyboard,Electronics,3999,2703.44
+O00034,2026-01-19,C0072,P020,4,0.1,16196.4,5,Debit Card,Customer_0072,Mumbai,Student,24,Coffee Maker,Home Appliances,4499,4509.59
+O00035,2026-06-13,C0284,P003,4,0.1,12596.4,4,Debit Card,Customer_0284,Coimbatore,Business,27,Smart Watch,Electronics,3499,3316.94
+O00036,2026-02-20,C0114,P017,4,0.15,25496.6,3,Cash,Customer_0114,Bengaluru,Business,53,Study Table,Furniture,7499,6113.48
+O00037,2026-05-27,C0231,P008,3,0.1,6207.3,5,Debit Card,Customer_0231,Delhi,Professional,45,USB-C Hub,Electronics,2299,1086.33
+O00038,2026-01-06,C0099,P006,4,0.1,14396.4,1,UPI,Customer_0099,Bengaluru,Professional,55,Mechanical Keyboard,Electronics,3999,1873.71
+O00039,2026-08-22,C0025,P024,4,0.1,2156.4,5,Credit Card,Customer_0025,Coimbatore,Student,47,Sunscreen,Beauty,599,372.65
+O00040,2026-06-05,C0148,P027,3,0.05,709.65,5,Net Banking,Customer_0148,Bengaluru,Professional,54,Pen Set,Stationery,249,108.08
+O00041,2026-03-06,C0095,P006,2,0.0,7998.0,5,UPI,Customer_0095,Bengaluru,Student,22,Mechanical Keyboard,Electronics,3999,1650.76
+O00042,2026-03-21,C0146,P006,4,0.0,15996.0,5,Credit Card,Customer_0146,Mumbai,Professional,38,Mechanical Keyboard,Electronics,3999,2816.64
+O00043,2026-01-24,C0242,P030,3,0.1,8097.3,5,Credit Card,Customer_0242,Coimbatore,Business,48,Travel Bag,Accessories,2999,2302.39
+O00044,2026-02-21,C0141,P026,2,0.1,358.2,5,Debit Card,Customer_0141,Bengaluru,Professional,40,Notebook,Stationery,199,63.64
+O00045,2026-08-01,C0256,P019,2,0.1,1258.2,5,Cash,Customer_0256,Madurai,Student,41,Water Bottle,Home,699,238.23
+O00046,2026-09-05,C0066,P019,3,0.1,1887.3,5,Cash,Customer_0066,Chennai,Student,21,Water Bottle,Home,699,326.89
+O00047,2026-09-04,C0220,P001,1,0.05,1899.05,5,Credit Card,Customer_0220,Mumbai,Professional,30,Wireless Earbuds,Electronics,1999,285.33
+O00048,2026-08-09,C0131,P022,4,0.1,2516.4,3,Cash,Customer_0131,Hyderabad,Student,28,Shampoo,Beauty,699,405.27
+O00049,2026-01-04,C0166,P030,3,0.0,8997.0,4,Debit Card,Customer_0166,Pune,Student,33,Travel Bag,Accessories,2999,1609.53
+O00050,2026-05-30,C0166,P021,4,0.1,1796.4,3,Credit Card,Customer_0166,Pune,Student,33,Face Wash,Beauty,499,505.22
+O00051,2026-05-01,C0133,P013,1,0.1,1349.1,5,Credit Card,Customer_0133,Hyderabad,Business,39,Backpack,Accessories,1499,376.45
+O00052,2026-06-15,C0226,P023,1,0.15,679.15,5,Debit Card,Customer_0226,Pune,Student,44,Moisturizer,Beauty,799,105.36
+O00053,2026-06-16,C0247,P008,4,0.0,9196.0,3,UPI,Customer_0247,Pune,Professional,53,USB-C Hub,Electronics,2299,2528.69
+O00054,2026-03-19,C0092,P022,4,0.0,2796.0,3,Net Banking,Customer_0092,Chennai,Student,55,Shampoo,Beauty,699,672.64
+O00055,2026-02-04,C0203,P025,4,0.15,5096.6,4,Net Banking,Customer_0203,Chennai,Student,45,Perfume,Beauty,1499,927.6
+O00056,2026-04-18,C0016,P005,2,0.15,2208.3,5,Cash,Customer_0016,Madurai,Business,41,Gaming Mouse,Electronics,1299,294.85
+O00057,2026-06-07,C0243,P024,4,0.1,2156.4,2,Debit Card,Customer_0243,Delhi,Professional,19,Sunscreen,Beauty,599,494.63
+O00058,2026-02-25,C0293,P019,4,0.15,2376.6,5,Debit Card,Customer_0293,Coimbatore,Business,54,Water Bottle,Home,699,443.43
+O00059,2026-01-26,C0014,P014,3,0.1,2157.3,3,Debit Card,Customer_0014,Madurai,Student,47,T-Shirt,Fashion,799,527.96
+O00060,2026-02-18,C0086,P025,1,0.15,1274.15,3,Credit Card,Customer_0086,Chennai,Student,42,Perfume,Beauty,1499,369.79
+O00061,2026-06-14,C0085,P025,1,0.0,1499.0,5,Credit Card,Customer_0085,Delhi,Student,43,Perfume,Beauty,1499,199.48
+O00062,2026-02-02,C0127,P005,2,0.0,2598.0,5,Net Banking,Customer_0127,Chennai,Professional,41,Gaming Mouse,Electronics,1299,561.48
+O00063,2026-02-23,C0186,P018,2,0.05,2468.1,4,Credit Card,Customer_0186,Coimbatore,Professional,39,Desk Lamp,Home,1299,380.94
+O00064,2026-07-21,C0201,P011,1,0.1,2699.1,5,Credit Card,Customer_0201,Delhi,Student,52,Running Shoes,Fashion,2999,692.34
+O00065,2026-02-03,C0120,P025,3,0.05,4272.15,3,UPI,Customer_0120,Madurai,Student,18,Perfume,Beauty,1499,1252.62
+O00066,2026-02-03,C0122,P015,1,0.1,1619.1,5,Credit Card,Customer_0122,Hyderabad,Business,46,Hoodie,Fashion,1799,233.31
+O00067,2026-05-31,C0211,P030,3,0.0,8997.0,4,UPI,Customer_0211,Bengaluru,Business,20,Travel Bag,Accessories,2999,2642.32
+O00068,2026-02-02,C0277,P027,4,0.0,996.0,5,Cash,Customer_0277,Bengaluru,Student,18,Pen Set,Stationery,249,298.3
+O00069,2026-04-25,C0102,P014,3,0.0,2397.0,4,Credit Card,Customer_0102,Mumbai,Student,37,T-Shirt,Fashion,799,527.65
+O00070,2026-08-31,C0074,P003,1,0.1,3149.1,4,UPI,Customer_0074,Pune,Professional,44,Smart Watch,Electronics,3499,864.57
+O00071,2026-01-16,C0095,P017,4,0.15,25496.6,4,UPI,Customer_0095,Bengaluru,Student,22,Study Table,Furniture,7499,5338.63
+O00072,2026-05-06,C0207,P028,4,0.0,1996.0,5,Debit Card,Customer_0207,Pune,Professional,42,Calculator,Stationery,499,247.54
+O00073,2026-06-05,C0227,P009,2,0.0,5998.0,3,Net Banking,Customer_0227,Delhi,Student,45,Webcam,Electronics,2999,1132.92
+O00074,2026-06-12,C0025,P021,3,0.15,1272.45,5,Net Banking,Customer_0025,Coimbatore,Student,47,Face Wash,Beauty,499,243.02
+O00075,2026-03-17,C0128,P020,4,0.15,15296.6,3,UPI,Customer_0128,Chennai,Professional,31,Coffee Maker,Home Appliances,4499,3534.94
+O00076,2026-08-07,C0056,P008,2,0.15,3908.3,4,Credit Card,Customer_0056,Bengaluru,Business,26,USB-C Hub,Electronics,2299,751.19
+O00077,2026-04-16,C0037,P021,3,0.15,1272.45,4,UPI,Customer_0037,Pune,Student,26,Face Wash,Beauty,499,215.46
+O00078,2026-03-22,C0171,P010,4,0.1,2516.4,5,Debit Card,Customer_0171,Coimbatore,Business,42,Phone Case,Accessories,699,595.67
+O00079,2026-09-02,C0203,P028,2,0.15,848.3,3,UPI,Customer_0203,Chennai,Student,45,Calculator,Stationery,499,215.79
+O00080,2026-01-24,C0284,P006,4,0.0,15996.0,5,Debit Card,Customer_0284,Coimbatore,Business,27,Mechanical Keyboard,Electronics,3999,3026.44
+O00081,2026-07-27,C0094,P008,2,0.0,4598.0,5,Net Banking,Customer_0094,Hyderabad,Student,50,USB-C Hub,Electronics,2299,1229.4
+O00082,2026-05-24,C0105,P027,3,0.0,747.0,4,Cash,Customer_0105,Bengaluru,Student,52,Pen Set,Stationery,249,106.28
+O00083,2026-08-11,C0230,P001,1,0.1,1799.1,5,Debit Card,Customer_0230,Madurai,Business,52,Wireless Earbuds,Electronics,1999,287.16
+O00084,2026-01-27,C0103,P026,2,0.05,378.1,5,Credit Card,Customer_0103,Delhi,Professional,22,Notebook,Stationery,199,80.57
+O00085,2026-08-05,C0080,P019,1,0.1,629.1,5,Debit Card,Customer_0080,Hyderabad,Professional,47,Water Bottle,Home,699,143.56
+O00086,2026-01-30,C0143,P017,3,0.05,21372.15,5,Net Banking,Customer_0143,Pune,Student,25,Study Table,Furniture,7499,5906.19
+O00087,2026-09-07,C0051,P009,1,0.1,2699.1,2,Debit Card,Customer_0051,Chennai,Business,38,Webcam,Electronics,2999,362.49
+O00088,2026-06-29,C0068,P003,3,0.1,9447.3,4,Credit Card,Customer_0068,Pune,Student,50,Smart Watch,Electronics,3499,2648.04
+O00089,2026-08-11,C0189,P006,2,0.15,6798.3,3,UPI,Customer_0189,Mumbai,Business,27,Mechanical Keyboard,Electronics,3999,1333.17
+O00090,2026-01-24,C0248,P013,2,0.15,2548.3,4,Debit Card,Customer_0248,Pune,Professional,53,Backpack,Accessories,1499,648.18
+O00091,2026-02-10,C0096,P027,3,0.1,672.3,5,Net Banking,Customer_0096,Bengaluru,Business,33,Pen Set,Stationery,249,187.08
+O00092,2026-06-02,C0211,P002,1,0.0,2499.0,3,Net Banking,Customer_0211,Bengaluru,Business,20,Bluetooth Speaker,Electronics,2499,586.05
+O00093,2026-01-13,C0245,P015,1,0.1,1619.1,4,Cash,Customer_0245,Mumbai,Business,33,Hoodie,Fashion,1799,388.31
+O00094,2026-05-05,C0211,P018,4,0.15,4416.6,4,Net Banking,Customer_0211,Bengaluru,Business,20,Desk Lamp,Home,1299,758.07
+O00095,2026-01-30,C0104,P009,3,0.15,7647.45,3,Net Banking,Customer_0104,Chennai,Professional,54,Webcam,Electronics,2999,1306.62
+O00096,2026-05-05,C0143,P007,3,0.0,4797.0,4,Net Banking,Customer_0143,Pune,Student,25,Laptop Stand,Electronics,1599,581.1
+O00097,2026-01-15,C0215,P011,1,0.05,2849.05,4,Credit Card,Customer_0215,Bengaluru,Business,31,Running Shoes,Fashion,2999,727.54
+O00098,2026-07-16,C0199,P021,2,0.1,898.2,4,UPI,Customer_0199,Chennai,Professional,39,Face Wash,Beauty,499,216.51
+O00099,2026-01-02,C0299,P024,4,0.15,2036.6,4,Cash,Customer_0299,Mumbai,Professional,38,Sunscreen,Beauty,599,300.9
+O00100,2026-05-17,C0251,P024,2,0.1,1078.2,3,UPI,Customer_0251,Coimbatore,Student,30,Sunscreen,Beauty,599,190.51
+O00101,2026-04-22,C0152,P012,1,0.15,2124.15,5,Debit Card,Customer_0152,Bengaluru,Business,39,Casual Sneakers,Fashion,2499,499.88
+O00102,2026-05-28,C0177,P024,4,0.15,2036.6,5,Cash,Customer_0177,Coimbatore,Student,47,Sunscreen,Beauty,599,483.88
+O00103,2026-03-16,C0062,P001,1,0.15,1699.15,2,Debit Card,Customer_0062,Delhi,Business,46,Wireless Earbuds,Electronics,1999,441.11
+O00104,2026-02-13,C0167,P015,4,0.1,6476.4,3,UPI,Customer_0167,Madurai,Student,30,Hoodie,Fashion,1799,1349.57
+O00105,2026-03-04,C0042,P005,4,0.15,4416.6,5,Cash,Customer_0042,Madurai,Business,18,Gaming Mouse,Electronics,1299,1166.71
+O00106,2026-08-11,C0287,P021,3,0.1,1347.3,4,Credit Card,Customer_0287,Madurai,Professional,25,Face Wash,Beauty,499,208.68
+O00107,2026-01-20,C0165,P028,1,0.05,474.05,5,Debit Card,Customer_0165,Bengaluru,Professional,50,Calculator,Stationery,499,137.24
+O00108,2026-03-31,C0036,P008,2,0.05,4368.1,3,Debit Card,Customer_0036,Mumbai,Business,43,USB-C Hub,Electronics,2299,1044.27
+O00109,2026-02-20,C0102,P030,2,0.05,5698.1,5,UPI,Customer_0102,Mumbai,Student,37,Travel Bag,Accessories,2999,912.4
+O00110,2026-02-15,C0078,P013,4,0.15,5096.6,5,Net Banking,Customer_0078,Coimbatore,Student,52,Backpack,Accessories,1499,716.76
+O00111,2026-04-25,C0115,P001,3,0.1,5397.3,3,UPI,Customer_0115,Hyderabad,Professional,36,Wireless Earbuds,Electronics,1999,648.32
+O00112,2026-05-01,C0260,P014,4,0.1,2876.4,5,Net Banking,Customer_0260,Hyderabad,Business,49,T-Shirt,Fashion,799,606.1
+O00113,2026-01-15,C0184,P017,3,0.0,22497.0,4,Cash,Customer_0184,Coimbatore,Professional,46,Study Table,Furniture,7499,3465.45
+O00114,2026-01-10,C0286,P002,1,0.1,2249.1,5,UPI,Customer_0286,Chennai,Student,37,Bluetooth Speaker,Electronics,2499,666.78
+O00115,2026-06-15,C0207,P014,1,0.15,679.15,4,Net Banking,Customer_0207,Pune,Professional,42,T-Shirt,Fashion,799,144.13
+O00116,2026-09-02,C0074,P014,1,0.15,679.15,5,Net Banking,Customer_0074,Pune,Professional,44,T-Shirt,Fashion,799,84.41
+O00117,2026-06-16,C0056,P018,2,0.1,2338.2,5,Net Banking,Customer_0056,Bengaluru,Business,26,Desk Lamp,Home,1299,511.63
+O00118,2026-02-08,C0173,P027,1,0.15,211.65,3,Debit Card,Customer_0173,Hyderabad,Business,18,Pen Set,Stationery,249,46.83
+O00119,2026-07-02,C0055,P025,1,0.05,1424.05,2,Cash,Customer_0055,Bengaluru,Student,49,Perfume,Beauty,1499,254.46
+O00120,2026-04-23,C0182,P016,2,0.1,16198.2,4,Debit Card,Customer_0182,Delhi,Professional,33,Office Chair,Furniture,8999,4640.92
+O00121,2026-04-10,C0070,P006,4,0.1,14396.4,5,UPI,Customer_0070,Coimbatore,Business,26,Mechanical Keyboard,Electronics,3999,3938.39
+O00122,2026-07-22,C0139,P006,3,0.0,11997.0,4,Net Banking,Customer_0139,Coimbatore,Student,30,Mechanical Keyboard,Electronics,3999,2018.39
+O00123,2026-06-23,C0237,P029,4,0.1,3236.4,4,Net Banking,Customer_0237,Delhi,Student,40,Table Clock,Home,899,687.96
+O00124,2026-08-12,C0079,P019,2,0.1,1258.2,3,Credit Card,Customer_0079,Delhi,Student,45,Water Bottle,Home,699,250.18
+O00125,2026-08-23,C0164,P025,3,0.1,4047.3,5,Cash,Customer_0164,Delhi,Business,28,Perfume,Beauty,1499,927.84
+O00126,2026-02-03,C0261,P005,1,0.1,1169.1,5,Debit Card,Customer_0261,Bengaluru,Student,54,Gaming Mouse,Electronics,1299,284.46
+O00127,2026-07-28,C0193,P024,2,0.0,1198.0,5,Cash,Customer_0193,Coimbatore,Professional,42,Sunscreen,Beauty,599,157.1
+O00128,2026-05-11,C0170,P011,3,0.0,8997.0,4,Credit Card,Customer_0170,Delhi,Professional,54,Running Shoes,Fashion,2999,1435.98
+O00129,2026-09-01,C0065,P027,2,0.1,448.2,5,Cash,Customer_0065,Coimbatore,Business,32,Pen Set,Stationery,249,131.0
+O00130,2026-02-19,C0294,P023,2,0.05,1518.1,3,Debit Card,Customer_0294,Chennai,Business,35,Moisturizer,Beauty,799,216.72
+O00131,2026-08-05,C0131,P012,1,0.0,2499.0,5,Net Banking,Customer_0131,Hyderabad,Student,28,Casual Sneakers,Fashion,2499,538.86
+O00132,2026-02-03,C0241,P023,4,0.05,3036.2,4,Net Banking,Customer_0241,Mumbai,Professional,53,Moisturizer,Beauty,799,580.57
+O00133,2026-07-27,C0259,P001,2,0.15,3398.3,2,Debit Card,Customer_0259,Chennai,Business,36,Wireless Earbuds,Electronics,1999,748.7
+O00134,2026-06-23,C0018,P030,2,0.15,5098.3,5,Cash,Customer_0018,Chennai,Business,32,Travel Bag,Accessories,2999,631.53
+O00135,2026-03-01,C0078,P012,2,0.1,4498.2,5,Cash,Customer_0078,Coimbatore,Student,52,Casual Sneakers,Fashion,2499,1341.17
+O00136,2026-08-20,C0242,P020,2,0.1,8098.2,5,Net Banking,Customer_0242,Coimbatore,Business,48,Coffee Maker,Home Appliances,4499,1605.96
+O00137,2026-04-23,C0137,P018,4,0.1,4676.4,5,Net Banking,Customer_0137,Coimbatore,Student,47,Desk Lamp,Home,1299,1360.72
+O00138,2026-05-16,C0003,P026,4,0.05,756.2,5,Net Banking,Customer_0003,Bengaluru,Business,52,Notebook,Stationery,199,220.0
+O00139,2026-02-05,C0250,P009,3,0.0,8997.0,5,Debit Card,Customer_0250,Madurai,Professional,34,Webcam,Electronics,2999,2231.01
+O00140,2026-05-22,C0112,P020,1,0.0,4499.0,4,Credit Card,Customer_0112,Madurai,Business,24,Coffee Maker,Home Appliances,4499,997.22
+O00141,2026-03-11,C0043,P014,4,0.05,3036.2,5,UPI,Customer_0043,Bengaluru,Business,52,T-Shirt,Fashion,799,588.71
+O00142,2026-08-31,C0232,P017,2,0.15,12748.3,5,UPI,Customer_0232,Madurai,Professional,33,Study Table,Furniture,7499,3565.3
+O00143,2026-04-17,C0011,P018,1,0.15,1104.15,4,Credit Card,Customer_0011,Hyderabad,Student,39,Desk Lamp,Home,1299,262.63
+O00144,2026-04-09,C0018,P014,1,0.1,719.1,4,Debit Card,Customer_0018,Chennai,Business,32,T-Shirt,Fashion,799,125.31
+O00145,2026-08-27,C0082,P014,1,0.1,719.1,5,Credit Card,Customer_0082,Bengaluru,Student,52,T-Shirt,Fashion,799,213.3
+O00146,2026-01-10,C0087,P024,3,0.15,1527.45,5,Credit Card,Customer_0087,Chennai,Professional,34,Sunscreen,Beauty,599,224.05
+O00147,2026-07-14,C0033,P025,4,0.15,5096.6,5,UPI,Customer_0033,Hyderabad,Professional,26,Perfume,Beauty,1499,1470.13
+O00148,2026-01-05,C0031,P028,3,0.05,1422.15,5,Net Banking,Customer_0031,Pune,Student,49,Calculator,Stationery,499,402.96
+O00149,2026-08-29,C0119,P030,4,0.0,11996.0,5,Credit Card,Customer_0119,Bengaluru,Business,45,Travel Bag,Accessories,2999,2277.89
+O00150,2026-03-19,C0184,P030,1,0.0,2999.0,4,Net Banking,Customer_0184,Coimbatore,Professional,46,Travel Bag,Accessories,2999,613.48
+O00151,2026-04-28,C0034,P029,1,0.0,899.0,5,Cash,Customer_0034,Coimbatore,Business,53,Table Clock,Home,899,110.94
+O00152,2026-06-02,C0139,P004,1,0.05,1424.05,5,Debit Card,Customer_0139,Coimbatore,Student,30,Power Bank,Electronics,1499,388.62
+O00153,2026-04-20,C0013,P020,1,0.1,4049.1,4,Cash,Customer_0013,Bengaluru,Professional,40,Coffee Maker,Home Appliances,4499,979.81
+O00154,2026-02-17,C0169,P029,1,0.1,809.1,3,Net Banking,Customer_0169,Coimbatore,Professional,22,Table Clock,Home,899,168.83
+O00155,2026-05-20,C0075,P009,1,0.15,2549.15,5,UPI,Customer_0075,Delhi,Business,21,Webcam,Electronics,2999,503.33
+O00156,2026-06-12,C0271,P001,4,0.1,7196.4,4,UPI,Customer_0271,Delhi,Professional,37,Wireless Earbuds,Electronics,1999,935.92
+O00157,2026-04-02,C0132,P022,1,0.1,629.1,4,UPI,Customer_0132,Hyderabad,Professional,19,Shampoo,Beauty,699,143.37
+O00158,2026-07-17,C0271,P011,3,0.05,8547.15,2,Net Banking,Customer_0271,Delhi,Professional,37,Running Shoes,Fashion,2999,2012.89
+O00159,2026-03-28,C0004,P018,2,0.15,2208.3,5,Cash,Customer_0004,Bengaluru,Business,45,Desk Lamp,Home,1299,418.67
+O00160,2026-06-11,C0142,P017,2,0.05,14248.1,3,Cash,Customer_0142,Mumbai,Business,52,Study Table,Furniture,7499,3371.3
+O00161,2026-01-10,C0052,P020,3,0.05,12822.15,2,Credit Card,Customer_0052,Delhi,Student,25,Coffee Maker,Home Appliances,4499,1853.01
+O00162,2026-08-15,C0090,P004,1,0.1,1349.1,5,Net Banking,Customer_0090,Madurai,Student,21,Power Bank,Electronics,1499,198.53
+O00163,2026-04-12,C0258,P004,4,0.1,5396.4,2,Credit Card,Customer_0258,Hyderabad,Professional,20,Power Bank,Electronics,1499,1614.83
+O00164,2026-03-15,C0098,P026,3,0.0,597.0,5,Debit Card,Customer_0098,Coimbatore,Business,20,Notebook,Stationery,199,141.77
+O00165,2026-03-11,C0193,P020,1,0.1,4049.1,4,Cash,Customer_0193,Coimbatore,Professional,42,Coffee Maker,Home Appliances,4499,877.17
+O00166,2026-07-10,C0088,P020,4,0.15,15296.6,4,Credit Card,Customer_0088,Delhi,Professional,45,Coffee Maker,Home Appliances,4499,2363.16
+O00167,2026-05-08,C0190,P027,4,0.1,896.4,5,Net Banking,Customer_0190,Coimbatore,Student,44,Pen Set,Stationery,249,109.01
+O00168,2026-03-10,C0084,P026,1,0.15,169.15,3,Net Banking,Customer_0084,Hyderabad,Professional,49,Notebook,Stationery,199,40.21
+O00169,2026-07-30,C0253,P029,2,0.1,1618.2,4,UPI,Customer_0253,Hyderabad,Student,31,Table Clock,Home,899,465.77
+O00170,2026-03-25,C0291,P012,3,0.1,6747.3,4,Cash,Customer_0291,Chennai,Professional,38,Casual Sneakers,Fashion,2499,1075.33
+O00171,2026-02-12,C0106,P013,4,0.1,5396.4,4,Debit Card,Customer_0106,Coimbatore,Business,34,Backpack,Accessories,1499,818.08
+O00172,2026-06-07,C0112,P002,4,0.1,8996.4,5,UPI,Customer_0112,Madurai,Business,24,Bluetooth Speaker,Electronics,2499,1452.25
+O00173,2026-01-20,C0271,P006,4,0.1,14396.4,5,Credit Card,Customer_0271,Delhi,Professional,37,Mechanical Keyboard,Electronics,3999,3990.57
+O00174,2026-09-01,C0158,P001,1,0.05,1899.05,5,Cash,Customer_0158,Hyderabad,Business,54,Wireless Earbuds,Electronics,1999,561.27
+O00175,2026-01-09,C0117,P029,2,0.0,1798.0,4,Debit Card,Customer_0117,Coimbatore,Business,34,Table Clock,Home,899,447.2
+O00176,2026-04-03,C0079,P025,4,0.0,5996.0,5,Cash,Customer_0079,Delhi,Student,45,Perfume,Beauty,1499,986.74
+O00177,2026-08-31,C0240,P010,3,0.1,1887.3,4,UPI,Customer_0240,Coimbatore,Student,33,Phone Case,Accessories,699,272.58
+O00178,2026-05-27,C0190,P001,2,0.1,3598.2,4,Debit Card,Customer_0190,Coimbatore,Student,44,Wireless Earbuds,Electronics,1999,438.37
+O00179,2026-03-05,C0195,P025,1,0.0,1499.0,5,Cash,Customer_0195,Delhi,Student,40,Perfume,Beauty,1499,301.9
+O00180,2026-05-13,C0124,P014,4,0.0,3196.0,4,Debit Card,Customer_0124,Bengaluru,Student,27,T-Shirt,Fashion,799,659.41
+O00181,2026-06-30,C0177,P007,4,0.05,6076.2,5,Debit Card,Customer_0177,Coimbatore,Student,47,Laptop Stand,Electronics,1599,1039.62
+O00182,2026-06-27,C0029,P025,4,0.05,5696.2,3,UPI,Customer_0029,Pune,Professional,35,Perfume,Beauty,1499,918.32
+O00183,2026-04-26,C0145,P024,2,0.15,1018.3,5,Debit Card,Customer_0145,Madurai,Student,24,Sunscreen,Beauty,599,189.54
+O00184,2026-06-20,C0015,P024,3,0.0,1797.0,5,Debit Card,Customer_0015,Bengaluru,Professional,23,Sunscreen,Beauty,599,311.92
+O00185,2026-08-17,C0148,P027,3,0.05,709.65,5,Credit Card,Customer_0148,Bengaluru,Professional,54,Pen Set,Stationery,249,109.18
+O00186,2026-07-23,C0108,P022,3,0.05,1992.15,3,Credit Card,Customer_0108,Coimbatore,Professional,36,Shampoo,Beauty,699,429.88
+O00187,2026-07-22,C0232,P002,2,0.05,4748.1,5,UPI,Customer_0232,Madurai,Professional,33,Bluetooth Speaker,Electronics,2499,592.73
+O00188,2026-04-03,C0146,P017,3,0.15,19122.45,5,Net Banking,Customer_0146,Mumbai,Professional,38,Study Table,Furniture,7499,2556.84
+O00189,2026-02-03,C0115,P028,1,0.0,499.0,4,Cash,Customer_0115,Hyderabad,Professional,36,Calculator,Stationery,499,105.41
+O00190,2026-05-15,C0043,P019,4,0.15,2376.6,5,UPI,Customer_0043,Bengaluru,Business,52,Water Bottle,Home,699,395.86
+O00191,2026-02-02,C0121,P010,3,0.0,2097.0,4,Net Banking,Customer_0121,Pune,Student,34,Phone Case,Accessories,699,278.14
+O00192,2026-03-30,C0198,P008,2,0.05,4368.1,5,Credit Card,Customer_0198,Madurai,Professional,49,USB-C Hub,Electronics,2299,1239.88
+O00193,2026-04-21,C0042,P008,1,0.0,2299.0,5,Debit Card,Customer_0042,Madurai,Business,18,USB-C Hub,Electronics,2299,497.82
+O00194,2026-02-12,C0113,P005,2,0.1,2338.2,5,Credit Card,Customer_0113,Hyderabad,Professional,25,Gaming Mouse,Electronics,1299,660.86
+O00195,2026-03-30,C0098,P005,3,0.0,3897.0,4,Net Banking,Customer_0098,Coimbatore,Business,20,Gaming Mouse,Electronics,1299,969.4
+O00196,2026-03-12,C0280,P012,2,0.1,4498.2,5,UPI,Customer_0280,Madurai,Business,36,Casual Sneakers,Fashion,2499,763.42
+O00197,2026-05-09,C0180,P001,2,0.05,3798.1,4,Net Banking,Customer_0180,Mumbai,Business,46,Wireless Earbuds,Electronics,1999,1057.16
+O00198,2026-07-04,C0060,P007,3,0.0,4797.0,5,UPI,Customer_0060,Coimbatore,Business,37,Laptop Stand,Electronics,1599,1402.07
+O00199,2026-01-21,C0250,P004,1,0.1,1349.1,5,Net Banking,Customer_0250,Madurai,Professional,34,Power Bank,Electronics,1499,365.76
+O00200,2026-04-17,C0037,P007,1,0.15,1359.15,5,Net Banking,Customer_0037,Pune,Student,26,Laptop Stand,Electronics,1599,391.42
+O00201,2026-03-16,C0155,P011,3,0.15,7647.45,4,Cash,Customer_0155,Mumbai,Professional,43,Running Shoes,Fashion,2999,1027.53
+O00202,2026-03-18,C0117,P003,4,0.0,13996.0,5,Credit Card,Customer_0117,Coimbatore,Business,34,Smart Watch,Electronics,3499,2055.78
+O00203,2026-04-23,C0238,P020,4,0.15,15296.6,4,Debit Card,Customer_0238,Madurai,Professional,35,Coffee Maker,Home Appliances,4499,2852.52
+O00204,2026-06-05,C0219,P015,2,0.1,3238.2,5,Debit Card,Customer_0219,Chennai,Professional,54,Hoodie,Fashion,1799,941.71
+O00205,2026-07-07,C0249,P021,3,0.15,1272.45,3,Debit Card,Customer_0249,Pune,Professional,47,Face Wash,Beauty,499,252.74
+O00206,2026-05-12,C0066,P007,1,0.1,1439.1,4,UPI,Customer_0066,Chennai,Student,21,Laptop Stand,Electronics,1599,370.53
+O00207,2026-03-10,C0300,P004,4,0.05,5696.2,3,UPI,Customer_0300,Bengaluru,Student,39,Power Bank,Electronics,1499,981.61
+O00208,2026-03-16,C0033,P002,4,0.15,8496.6,4,Credit Card,Customer_0033,Hyderabad,Professional,26,Bluetooth Speaker,Electronics,2499,2099.28
+O00209,2026-07-28,C0297,P029,3,0.1,2427.3,4,Credit Card,Customer_0297,Mumbai,Business,49,Table Clock,Home,899,349.01
+O00210,2026-05-08,C0061,P006,4,0.15,13596.6,5,Cash,Customer_0061,Mumbai,Business,41,Mechanical Keyboard,Electronics,3999,3156.68
+O00211,2026-01-06,C0208,P009,1,0.15,2549.15,4,Credit Card,Customer_0208,Madurai,Professional,34,Webcam,Electronics,2999,521.81
+O00212,2026-02-25,C0210,P002,3,0.0,7497.0,2,Cash,Customer_0210,Chennai,Professional,32,Bluetooth Speaker,Electronics,2499,1890.89
+O00213,2026-06-02,C0130,P025,4,0.1,5396.4,5,UPI,Customer_0130,Pune,Business,44,Perfume,Beauty,1499,944.55
+O00214,2026-04-21,C0115,P017,2,0.1,13498.2,5,Cash,Customer_0115,Hyderabad,Professional,36,Study Table,Furniture,7499,1918.29
+O00215,2026-04-04,C0044,P007,1,0.15,1359.15,2,Net Banking,Customer_0044,Madurai,Business,39,Laptop Stand,Electronics,1599,200.07
+O00216,2026-02-19,C0163,P006,3,0.1,10797.3,3,Net Banking,Customer_0163,Delhi,Business,31,Mechanical Keyboard,Electronics,3999,2384.12
+O00217,2026-04-26,C0010,P022,3,0.0,2097.0,3,UPI,Customer_0010,Mumbai,Professional,35,Shampoo,Beauty,699,355.16
+O00218,2026-04-11,C0217,P022,3,0.1,1887.3,5,Debit Card,Customer_0217,Pune,Student,25,Shampoo,Beauty,699,408.34
+O00219,2026-07-13,C0158,P029,2,0.05,1708.1,5,Cash,Customer_0158,Hyderabad,Business,54,Table Clock,Home,899,496.65
+O00220,2026-05-09,C0122,P026,1,0.0,199.0,2,Debit Card,Customer_0122,Hyderabad,Business,46,Notebook,Stationery,199,45.18
+O00221,2026-07-25,C0062,P012,4,0.15,8496.6,3,Net Banking,Customer_0062,Delhi,Business,46,Casual Sneakers,Fashion,2499,2394.78
+O00222,2026-02-05,C0219,P007,3,0.1,4317.3,4,Net Banking,Customer_0219,Chennai,Professional,54,Laptop Stand,Electronics,1599,534.56
+O00223,2026-07-09,C0234,P011,3,0.1,8097.3,4,Net Banking,Customer_0234,Coimbatore,Professional,54,Running Shoes,Fashion,2999,1301.59
+O00224,2026-05-17,C0222,P013,4,0.1,5396.4,4,UPI,Customer_0222,Bengaluru,Business,37,Backpack,Accessories,1499,695.25
+O00225,2026-04-05,C0010,P006,3,0.0,11997.0,5,Net Banking,Customer_0010,Mumbai,Professional,35,Mechanical Keyboard,Electronics,3999,1451.69
+O00226,2026-03-20,C0028,P029,1,0.15,764.15,4,Net Banking,Customer_0028,Chennai,Student,20,Table Clock,Home,899,187.46
+O00227,2026-05-28,C0108,P016,2,0.0,17998.0,5,Credit Card,Customer_0108,Coimbatore,Professional,36,Office Chair,Furniture,8999,4314.79
+O00228,2026-05-15,C0193,P023,4,0.05,3036.2,5,Credit Card,Customer_0193,Coimbatore,Professional,42,Moisturizer,Beauty,799,905.17
+O00229,2026-01-09,C0273,P028,1,0.05,474.05,1,Debit Card,Customer_0273,Chennai,Business,24,Calculator,Stationery,499,109.93
+O00230,2026-04-18,C0142,P010,2,0.15,1188.3,5,Cash,Customer_0142,Mumbai,Business,52,Phone Case,Accessories,699,143.25
+O00231,2026-05-09,C0181,P023,4,0.0,3196.0,5,Net Banking,Customer_0181,Hyderabad,Business,48,Moisturizer,Beauty,799,538.75
+O00232,2026-02-23,C0068,P001,3,0.15,5097.45,5,Debit Card,Customer_0068,Pune,Student,50,Wireless Earbuds,Electronics,1999,915.69
+O00233,2026-09-02,C0024,P003,2,0.15,5948.3,5,Debit Card,Customer_0024,Bengaluru,Business,28,Smart Watch,Electronics,3499,1287.38
+O00234,2026-05-20,C0060,P024,3,0.1,1617.3,5,Credit Card,Customer_0060,Coimbatore,Business,37,Sunscreen,Beauty,599,224.43
+O00235,2026-09-03,C0183,P005,2,0.1,2338.2,5,Credit Card,Customer_0183,Madurai,Business,49,Gaming Mouse,Electronics,1299,497.33
+O00236,2026-08-30,C0094,P009,3,0.1,8097.3,5,Cash,Customer_0094,Hyderabad,Student,50,Webcam,Electronics,2999,2084.94
+O00237,2026-03-23,C0124,P007,4,0.1,5756.4,5,Debit Card,Customer_0124,Bengaluru,Student,27,Laptop Stand,Electronics,1599,1604.51
+O00238,2026-03-15,C0257,P015,1,0.15,1529.15,5,Cash,Customer_0257,Hyderabad,Professional,18,Hoodie,Fashion,1799,317.17
+O00239,2026-07-29,C0219,P008,3,0.05,6552.15,4,Debit Card,Customer_0219,Chennai,Professional,54,USB-C Hub,Electronics,2299,1869.77
+O00240,2026-09-02,C0020,P002,1,0.1,2249.1,5,Debit Card,Customer_0020,Bengaluru,Professional,35,Bluetooth Speaker,Electronics,2499,416.87
+O00241,2026-07-11,C0075,P029,4,0.05,3416.2,4,Net Banking,Customer_0075,Delhi,Business,21,Table Clock,Home,899,978.32
+O00242,2026-03-11,C0010,P018,3,0.05,3702.15,3,Net Banking,Customer_0010,Mumbai,Professional,35,Desk Lamp,Home,1299,578.67
+O00243,2026-03-03,C0169,P016,2,0.0,17998.0,5,Net Banking,Customer_0169,Coimbatore,Professional,22,Office Chair,Furniture,8999,4294.1
+O00244,2026-02-27,C0188,P018,2,0.0,2598.0,3,Debit Card,Customer_0188,Hyderabad,Student,32,Desk Lamp,Home,1299,402.51
+O00245,2026-07-03,C0164,P009,4,0.0,11996.0,5,Credit Card,Customer_0164,Delhi,Business,28,Webcam,Electronics,2999,2929.33
+O00246,2026-01-02,C0091,P030,2,0.15,5098.3,5,Cash,Customer_0091,Chennai,Business,38,Travel Bag,Accessories,2999,1088.38
+O00247,2026-05-03,C0071,P004,2,0.1,2698.2,4,UPI,Customer_0071,Delhi,Student,48,Power Bank,Electronics,1499,670.86
+O00248,2026-08-21,C0119,P023,1,0.05,759.05,5,UPI,Customer_0119,Bengaluru,Business,45,Moisturizer,Beauty,799,92.88
+O00249,2026-08-22,C0296,P015,2,0.15,3058.3,5,Credit Card,Customer_0296,Delhi,Professional,29,Hoodie,Fashion,1799,490.35
+O00250,2026-08-28,C0271,P012,1,0.15,2124.15,5,Credit Card,Customer_0271,Delhi,Professional,37,Casual Sneakers,Fashion,2499,373.6
+O00251,2026-08-28,C0237,P003,3,0.0,10497.0,1,Net Banking,Customer_0237,Delhi,Student,40,Smart Watch,Electronics,3499,1801.19
+O00252,2026-06-04,C0069,P023,1,0.1,719.1,4,Net Banking,Customer_0069,Coimbatore,Professional,49,Moisturizer,Beauty,799,173.38
+O00253,2026-05-15,C0178,P018,4,0.05,4936.2,5,Cash,Customer_0178,Hyderabad,Professional,51,Desk Lamp,Home,1299,918.27
+O00254,2026-03-11,C0016,P016,2,0.0,17998.0,4,Cash,Customer_0016,Madurai,Business,41,Office Chair,Furniture,8999,4878.42
+O00255,2026-06-15,C0069,P015,3,0.05,5127.15,1,Debit Card,Customer_0069,Coimbatore,Professional,49,Hoodie,Fashion,1799,1242.86
+O00256,2026-07-22,C0098,P018,3,0.05,3702.15,4,Cash,Customer_0098,Coimbatore,Business,20,Desk Lamp,Home,1299,738.78
+O00257,2026-07-31,C0024,P007,4,0.1,5756.4,3,UPI,Customer_0024,Bengaluru,Business,28,Laptop Stand,Electronics,1599,1005.21
+O00258,2026-02-17,C0207,P024,2,0.15,1018.3,4,Credit Card,Customer_0207,Pune,Professional,42,Sunscreen,Beauty,599,213.61
+O00259,2026-01-02,C0212,P030,3,0.15,7647.45,4,Debit Card,Customer_0212,Chennai,Student,30,Travel Bag,Accessories,2999,1042.94
+O00260,2026-09-02,C0257,P023,3,0.1,2157.3,5,Net Banking,Customer_0257,Hyderabad,Professional,18,Moisturizer,Beauty,799,540.85
+O00261,2026-01-03,C0029,P010,3,0.1,1887.3,5,UPI,Customer_0029,Pune,Professional,35,Phone Case,Accessories,699,458.85
+O00262,2026-06-20,C0013,P001,1,0.15,1699.15,4,Cash,Customer_0013,Bengaluru,Professional,40,Wireless Earbuds,Electronics,1999,442.7
+O00263,2026-06-25,C0033,P003,3,0.0,10497.0,5,Debit Card,Customer_0033,Hyderabad,Professional,26,Smart Watch,Electronics,3499,2347.82
+O00264,2026-04-05,C0260,P021,2,0.05,948.1,5,Cash,Customer_0260,Hyderabad,Business,49,Face Wash,Beauty,499,227.0
+O00265,2026-02-09,C0044,P028,4,0.1,1796.4,4,Net Banking,Customer_0044,Madurai,Business,39,Calculator,Stationery,499,340.48
+O00266,2026-08-22,C0020,P015,4,0.05,6836.2,5,Net Banking,Customer_0020,Bengaluru,Professional,35,Hoodie,Fashion,1799,1172.41
+O00267,2026-08-12,C0126,P027,1,0.15,211.65,5,Debit Card,Customer_0126,Hyderabad,Professional,26,Pen Set,Stationery,249,36.4
+O00268,2026-01-20,C0155,P007,1,0.0,1599.0,5,Net Banking,Customer_0155,Mumbai,Professional,43,Laptop Stand,Electronics,1599,287.59
+O00269,2026-02-21,C0152,P008,2,0.05,4368.1,4,Net Banking,Customer_0152,Bengaluru,Business,39,USB-C Hub,Electronics,2299,1082.47
+O00270,2026-04-24,C0243,P017,1,0.05,7124.05,5,Cash,Customer_0243,Delhi,Professional,19,Study Table,Furniture,7499,922.75
+O00271,2026-01-24,C0291,P019,4,0.0,2796.0,4,Net Banking,Customer_0291,Chennai,Professional,38,Water Bottle,Home,699,559.43
+O00272,2026-04-17,C0034,P004,4,0.0,5996.0,5,Debit Card,Customer_0034,Coimbatore,Business,53,Power Bank,Electronics,1499,1755.06
+O00273,2026-07-05,C0263,P007,1,0.15,1359.15,4,UPI,Customer_0263,Delhi,Professional,29,Laptop Stand,Electronics,1599,242.52
+O00274,2026-07-10,C0202,P026,2,0.0,398.0,2,Debit Card,Customer_0202,Chennai,Professional,55,Notebook,Stationery,199,78.14
+O00275,2026-06-29,C0072,P010,1,0.0,699.0,5,UPI,Customer_0072,Mumbai,Student,24,Phone Case,Accessories,699,109.2
+O00276,2026-08-28,C0274,P025,4,0.0,5996.0,4,Credit Card,Customer_0274,Coimbatore,Business,31,Perfume,Beauty,1499,1548.95
+O00277,2026-07-16,C0067,P025,2,0.15,2548.3,4,Cash,Customer_0067,Coimbatore,Student,20,Perfume,Beauty,1499,367.13
+O00278,2026-04-25,C0086,P030,4,0.15,10196.6,3,Net Banking,Customer_0086,Chennai,Student,42,Travel Bag,Accessories,2999,1273.97
+O00279,2026-02-04,C0275,P015,3,0.0,5397.0,4,Net Banking,Customer_0275,Madurai,Business,23,Hoodie,Fashion,1799,1192.54
+O00280,2026-04-11,C0085,P024,2,0.05,1138.1,5,UPI,Customer_0085,Delhi,Student,43,Sunscreen,Beauty,599,336.62
+O00281,2026-09-08,C0244,P019,3,0.15,1782.45,5,Net Banking,Customer_0244,Bengaluru,Professional,32,Water Bottle,Home,699,302.21
+O00282,2026-04-19,C0290,P007,4,0.05,6076.2,4,Debit Card,Customer_0290,Delhi,Professional,23,Laptop Stand,Electronics,1599,1772.93
+O00283,2026-02-09,C0038,P008,3,0.05,6552.15,5,UPI,Customer_0038,Delhi,Student,21,USB-C Hub,Electronics,2299,1890.98
+O00284,2026-01-09,C0082,P017,4,0.0,29996.0,4,UPI,Customer_0082,Bengaluru,Student,52,Study Table,Furniture,7499,6165.78
+O00285,2026-01-26,C0175,P007,1,0.15,1359.15,5,UPI,Customer_0175,Hyderabad,Business,51,Laptop Stand,Electronics,1599,234.73
+O00286,2026-03-04,C0042,P004,1,0.15,1274.15,4,Net Banking,Customer_0042,Madurai,Business,18,Power Bank,Electronics,1499,256.02
+O00287,2026-02-25,C0037,P023,1,0.05,759.05,4,Debit Card,Customer_0037,Pune,Student,26,Moisturizer,Beauty,799,133.03
+O00288,2026-03-01,C0221,P022,3,0.1,1887.3,4,Credit Card,Customer_0221,Bengaluru,Business,33,Shampoo,Beauty,699,460.08
+O00289,2026-06-19,C0268,P029,2,0.15,1528.3,4,UPI,Customer_0268,Madurai,Student,33,Table Clock,Home,899,450.0
+O00290,2026-05-23,C0176,P009,2,0.15,5098.3,5,UPI,Customer_0176,Delhi,Student,53,Webcam,Electronics,2999,759.45
+O00291,2026-09-06,C0271,P006,3,0.15,10197.45,5,Debit Card,Customer_0271,Delhi,Professional,37,Mechanical Keyboard,Electronics,3999,2664.84
+O00292,2026-06-28,C0094,P029,4,0.15,3056.6,3,Cash,Customer_0094,Hyderabad,Student,50,Table Clock,Home,899,500.45
+O00293,2026-02-17,C0184,P012,4,0.05,9496.2,5,Debit Card,Customer_0184,Coimbatore,Professional,46,Casual Sneakers,Fashion,2499,2433.98
+O00294,2026-08-08,C0138,P007,2,0.15,2718.3,5,Net Banking,Customer_0138,Pune,Professional,32,Laptop Stand,Electronics,1599,565.71
+O00295,2026-04-16,C0084,P012,4,0.05,9496.2,4,Debit Card,Customer_0084,Hyderabad,Professional,49,Casual Sneakers,Fashion,2499,2578.61
+O00296,2026-02-22,C0041,P028,3,0.0,1497.0,5,Debit Card,Customer_0041,Mumbai,Professional,47,Calculator,Stationery,499,225.48
+O00297,2026-01-24,C0211,P016,2,0.0,17998.0,4,Net Banking,Customer_0211,Bengaluru,Business,20,Office Chair,Furniture,8999,3888.32
+O00298,2026-06-04,C0071,P005,1,0.0,1299.0,4,Net Banking,Customer_0071,Delhi,Student,48,Gaming Mouse,Electronics,1299,250.06
+O00299,2026-07-05,C0239,P010,2,0.15,1188.3,4,Debit Card,Customer_0239,Madurai,Business,18,Phone Case,Accessories,699,270.72
+O00300,2026-03-19,C0103,P022,1,0.05,664.05,5,UPI,Customer_0103,Delhi,Professional,22,Shampoo,Beauty,699,135.77
+O00301,2026-07-11,C0036,P011,4,0.05,11396.2,5,Credit Card,Customer_0036,Mumbai,Business,43,Running Shoes,Fashion,2999,1669.1
+O00302,2026-04-12,C0020,P015,2,0.1,3238.2,5,Cash,Customer_0020,Bengaluru,Professional,35,Hoodie,Fashion,1799,940.39
+O00303,2026-04-30,C0130,P014,3,0.1,2157.3,4,Net Banking,Customer_0130,Pune,Business,44,T-Shirt,Fashion,799,284.39
+O00304,2026-08-14,C0138,P019,4,0.15,2376.6,3,Cash,Customer_0138,Pune,Professional,32,Water Bottle,Home,699,627.47
+O00305,2026-07-14,C0261,P024,3,0.05,1707.15,4,Cash,Customer_0261,Bengaluru,Student,54,Sunscreen,Beauty,599,286.8
+O00306,2026-01-12,C0214,P019,2,0.05,1328.1,1,Net Banking,Customer_0214,Coimbatore,Student,48,Water Bottle,Home,699,212.16
+O00307,2026-08-28,C0159,P024,4,0.1,2156.4,3,Debit Card,Customer_0159,Madurai,Professional,53,Sunscreen,Beauty,599,438.55
+O00308,2026-02-28,C0019,P011,4,0.05,11396.2,4,Debit Card,Customer_0019,Madurai,Student,32,Running Shoes,Fashion,2999,3052.42
+O00309,2026-03-07,C0066,P006,4,0.15,13596.6,4,Debit Card,Customer_0066,Chennai,Student,21,Mechanical Keyboard,Electronics,3999,3173.73
+O00310,2026-02-13,C0002,P029,2,0.15,1528.3,4,Net Banking,Customer_0002,Coimbatore,Student,26,Table Clock,Home,899,229.08
+O00311,2026-06-14,C0100,P025,1,0.0,1499.0,5,UPI,Customer_0100,Pune,Professional,31,Perfume,Beauty,1499,340.49
+O00312,2026-08-30,C0052,P028,1,0.0,499.0,4,Credit Card,Customer_0052,Delhi,Student,25,Calculator,Stationery,499,64.78
+O00313,2026-01-18,C0241,P025,2,0.0,2998.0,4,Cash,Customer_0241,Mumbai,Professional,53,Perfume,Beauty,1499,706.82
+O00314,2026-04-06,C0015,P025,1,0.15,1274.15,5,UPI,Customer_0015,Bengaluru,Professional,23,Perfume,Beauty,1499,381.12
+O00315,2026-01-02,C0107,P004,4,0.0,5996.0,1,Debit Card,Customer_0107,Hyderabad,Professional,22,Power Bank,Electronics,1499,1745.4
+O00316,2026-05-18,C0027,P010,3,0.0,2097.0,4,Cash,Customer_0027,Coimbatore,Business,38,Phone Case,Accessories,699,256.13
+O00317,2026-07-26,C0027,P022,2,0.0,1398.0,5,Net Banking,Customer_0027,Coimbatore,Business,38,Shampoo,Beauty,699,271.61
+O00318,2026-02-08,C0279,P005,2,0.05,2468.1,5,Debit Card,Customer_0279,Madurai,Student,32,Gaming Mouse,Electronics,1299,552.17
+O00319,2026-07-28,C0229,P027,3,0.1,672.3,5,UPI,Customer_0229,Hyderabad,Professional,29,Pen Set,Stationery,249,106.62
+O00320,2026-04-06,C0141,P001,4,0.15,6796.6,5,Credit Card,Customer_0141,Bengaluru,Professional,40,Wireless Earbuds,Electronics,1999,1743.2
+O00321,2026-03-18,C0268,P006,1,0.0,3999.0,3,Cash,Customer_0268,Madurai,Student,33,Mechanical Keyboard,Electronics,3999,521.54
+O00322,2026-04-07,C0054,P011,4,0.0,11996.0,5,Credit Card,Customer_0054,Chennai,Student,54,Running Shoes,Fashion,2999,3078.06
+O00323,2026-01-22,C0137,P008,4,0.15,7816.6,5,Debit Card,Customer_0137,Coimbatore,Student,47,USB-C Hub,Electronics,2299,2008.38
+O00324,2026-05-25,C0182,P020,1,0.0,4499.0,4,Net Banking,Customer_0182,Delhi,Professional,33,Coffee Maker,Home Appliances,4499,738.62
+O00325,2026-05-02,C0042,P003,3,0.0,10497.0,5,Debit Card,Customer_0042,Madurai,Business,18,Smart Watch,Electronics,3499,2253.45
+O00326,2026-08-19,C0186,P006,1,0.05,3799.05,5,Debit Card,Customer_0186,Coimbatore,Professional,39,Mechanical Keyboard,Electronics,3999,466.58
+O00327,2026-01-05,C0093,P016,2,0.05,17098.1,5,Cash,Customer_0093,Delhi,Business,51,Office Chair,Furniture,8999,4429.32
+O00328,2026-08-26,C0165,P009,1,0.1,2699.1,4,Credit Card,Customer_0165,Bengaluru,Professional,50,Webcam,Electronics,2999,442.46
+O00329,2026-05-26,C0011,P029,4,0.1,3236.4,4,Credit Card,Customer_0011,Hyderabad,Student,39,Table Clock,Home,899,908.08
+O00330,2026-07-22,C0177,P012,1,0.1,2249.1,2,Cash,Customer_0177,Coimbatore,Student,47,Casual Sneakers,Fashion,2499,620.88
+O00331,2026-03-01,C0232,P007,1,0.1,1439.1,5,Net Banking,Customer_0232,Madurai,Professional,33,Laptop Stand,Electronics,1599,346.7
+O00332,2026-09-02,C0218,P022,4,0.1,2516.4,2,Debit Card,Customer_0218,Hyderabad,Professional,24,Shampoo,Beauty,699,682.78
+O00333,2026-07-20,C0273,P005,4,0.15,4416.6,4,Net Banking,Customer_0273,Chennai,Business,24,Gaming Mouse,Electronics,1299,568.92
+O00334,2026-08-29,C0228,P003,4,0.15,11896.6,4,Net Banking,Customer_0228,Pune,Business,47,Smart Watch,Electronics,3499,2723.2
+O00335,2026-06-19,C0115,P016,4,0.0,35996.0,5,Debit Card,Customer_0115,Hyderabad,Professional,36,Office Chair,Furniture,8999,7019.11
+O00336,2026-07-24,C0151,P007,2,0.0,3198.0,3,Credit Card,Customer_0151,Coimbatore,Professional,45,Laptop Stand,Electronics,1599,861.46
+O00337,2026-04-08,C0058,P005,2,0.15,2208.3,4,UPI,Customer_0058,Hyderabad,Professional,51,Gaming Mouse,Electronics,1299,460.78
+O00338,2026-01-24,C0021,P011,1,0.1,2699.1,4,Debit Card,Customer_0021,Delhi,Business,41,Running Shoes,Fashion,2999,341.53
+O00339,2026-01-27,C0283,P024,2,0.0,1198.0,4,Cash,Customer_0283,Coimbatore,Professional,25,Sunscreen,Beauty,599,311.11
+O00340,2026-05-23,C0221,P006,4,0.0,15996.0,2,Debit Card,Customer_0221,Bengaluru,Business,33,Mechanical Keyboard,Electronics,3999,2482.43
+O00341,2026-05-22,C0128,P005,1,0.1,1169.1,5,UPI,Customer_0128,Chennai,Professional,31,Gaming Mouse,Electronics,1299,198.45
+O00342,2026-03-16,C0050,P029,4,0.15,3056.6,5,Net Banking,Customer_0050,Hyderabad,Business,51,Table Clock,Home,899,440.25
+O00343,2026-08-20,C0199,P015,2,0.05,3418.1,5,Credit Card,Customer_0199,Chennai,Professional,39,Hoodie,Fashion,1799,979.89
+O00344,2026-02-05,C0232,P001,3,0.1,5397.3,4,Credit Card,Customer_0232,Madurai,Professional,33,Wireless Earbuds,Electronics,1999,797.9
+O00345,2026-01-17,C0130,P028,2,0.15,848.3,4,Debit Card,Customer_0130,Pune,Business,44,Calculator,Stationery,499,225.23
+O00346,2026-05-04,C0139,P029,1,0.1,809.1,4,Credit Card,Customer_0139,Coimbatore,Student,30,Table Clock,Home,899,169.29
+O00347,2026-07-04,C0073,P006,4,0.05,15196.2,4,Credit Card,Customer_0073,Bengaluru,Business,45,Mechanical Keyboard,Electronics,3999,3734.57
+O00348,2026-03-19,C0158,P013,1,0.15,1274.15,4,Net Banking,Customer_0158,Hyderabad,Business,54,Backpack,Accessories,1499,310.74
+O00349,2026-04-08,C0123,P003,3,0.15,8922.45,4,Net Banking,Customer_0123,Mumbai,Business,18,Smart Watch,Electronics,3499,2134.83
+O00350,2026-02-04,C0148,P022,3,0.1,1887.3,5,Credit Card,Customer_0148,Bengaluru,Professional,54,Shampoo,Beauty,699,375.73
+O00351,2026-05-03,C0023,P013,3,0.05,4272.15,5,Debit Card,Customer_0023,Coimbatore,Business,35,Backpack,Accessories,1499,1096.99
+O00352,2026-03-16,C0063,P007,4,0.05,6076.2,4,Debit Card,Customer_0063,Bengaluru,Student,32,Laptop Stand,Electronics,1599,1761.39
+O00353,2026-07-29,C0269,P025,4,0.1,5396.4,3,Net Banking,Customer_0269,Bengaluru,Business,44,Perfume,Beauty,1499,946.38
+O00354,2026-02-21,C0006,P023,2,0.0,1598.0,5,Cash,Customer_0006,Coimbatore,Student,50,Moisturizer,Beauty,799,345.11
+O00355,2026-08-30,C0274,P030,2,0.15,5098.3,5,UPI,Customer_0274,Coimbatore,Business,31,Travel Bag,Accessories,2999,619.09
+O00356,2026-07-29,C0004,P018,4,0.15,4416.6,3,Debit Card,Customer_0004,Bengaluru,Business,45,Desk Lamp,Home,1299,1006.53
+O00357,2026-03-03,C0162,P018,3,0.05,3702.15,5,Cash,Customer_0162,Pune,Professional,46,Desk Lamp,Home,1299,521.08
+O00358,2026-01-19,C0225,P001,4,0.15,6796.6,5,Net Banking,Customer_0225,Pune,Student,50,Wireless Earbuds,Electronics,1999,1413.99
+O00359,2026-05-10,C0074,P029,4,0.0,3596.0,5,Debit Card,Customer_0074,Pune,Professional,44,Table Clock,Home,899,537.08
+O00360,2026-06-29,C0114,P004,1,0.0,1499.0,5,Debit Card,Customer_0114,Bengaluru,Business,53,Power Bank,Electronics,1499,277.43
+O00361,2026-02-12,C0032,P001,1,0.15,1699.15,5,Debit Card,Customer_0032,Mumbai,Business,47,Wireless Earbuds,Electronics,1999,464.83
+O00362,2026-09-05,C0113,P002,4,0.0,9996.0,1,Debit Card,Customer_0113,Hyderabad,Professional,25,Bluetooth Speaker,Electronics,2499,2708.35
+O00363,2026-02-26,C0153,P020,2,0.15,7648.3,4,Cash,Customer_0153,Pune,Business,25,Coffee Maker,Home Appliances,4499,1383.73
+O00364,2026-07-17,C0110,P024,2,0.1,1078.2,5,Cash,Customer_0110,Madurai,Business,51,Sunscreen,Beauty,599,292.0
+O00365,2026-01-27,C0257,P030,3,0.15,7647.45,5,UPI,Customer_0257,Hyderabad,Professional,18,Travel Bag,Accessories,2999,2026.33
+O00366,2026-01-30,C0095,P022,2,0.1,1258.2,4,Cash,Customer_0095,Bengaluru,Student,22,Shampoo,Beauty,699,339.69
+O00367,2026-07-20,C0040,P019,2,0.15,1188.3,4,UPI,Customer_0040,Mumbai,Business,22,Water Bottle,Home,699,310.97
+O00368,2026-04-23,C0157,P012,4,0.1,8996.4,3,UPI,Customer_0157,Coimbatore,Professional,42,Casual Sneakers,Fashion,2499,1087.55
+O00369,2026-07-27,C0048,P020,1,0.0,4499.0,5,UPI,Customer_0048,Bengaluru,Business,37,Coffee Maker,Home Appliances,4499,881.39
+O00370,2026-06-23,C0299,P002,2,0.05,4748.1,5,Net Banking,Customer_0299,Mumbai,Professional,38,Bluetooth Speaker,Electronics,2499,618.4
+O00371,2026-02-10,C0237,P027,3,0.15,634.95,5,Credit Card,Customer_0237,Delhi,Student,40,Pen Set,Stationery,249,121.73
+O00372,2026-07-24,C0157,P007,4,0.05,6076.2,4,Cash,Customer_0157,Coimbatore,Professional,42,Laptop Stand,Electronics,1599,760.48
+O00373,2026-04-12,C0269,P013,1,0.05,1424.05,4,Cash,Customer_0269,Bengaluru,Business,44,Backpack,Accessories,1499,208.59
+O00374,2026-04-10,C0117,P016,1,0.05,8549.05,4,UPI,Customer_0117,Coimbatore,Business,34,Office Chair,Furniture,8999,1329.82
+O00375,2026-05-28,C0087,P009,1,0.05,2849.05,4,Credit Card,Customer_0087,Chennai,Professional,34,Webcam,Electronics,2999,493.47
+O00376,2026-04-28,C0236,P017,1,0.1,6749.1,5,Cash,Customer_0236,Delhi,Professional,29,Study Table,Furniture,7499,2022.82
+O00377,2026-05-16,C0282,P013,3,0.15,3822.45,5,Net Banking,Customer_0282,Madurai,Business,55,Backpack,Accessories,1499,671.62
+O00378,2026-01-30,C0116,P008,3,0.1,6207.3,5,Net Banking,Customer_0116,Coimbatore,Business,39,USB-C Hub,Electronics,2299,1693.41
+O00379,2026-02-14,C0206,P002,3,0.0,7497.0,5,Debit Card,Customer_0206,Pune,Student,47,Bluetooth Speaker,Electronics,2499,1648.45
+O00380,2026-01-31,C0095,P030,2,0.1,5398.2,3,Debit Card,Customer_0095,Bengaluru,Student,22,Travel Bag,Accessories,2999,787.88
+O00381,2026-06-27,C0267,P020,2,0.15,7648.3,4,Credit Card,Customer_0267,Chennai,Student,27,Coffee Maker,Home Appliances,4499,1738.07
+O00382,2026-05-28,C0120,P004,4,0.15,5096.6,4,Net Banking,Customer_0120,Madurai,Student,18,Power Bank,Electronics,1499,1173.92
+O00383,2026-06-27,C0265,P007,2,0.05,3038.1,4,Credit Card,Customer_0265,Bengaluru,Student,43,Laptop Stand,Electronics,1599,855.46
+O00384,2026-02-17,C0260,P009,3,0.15,7647.45,5,Debit Card,Customer_0260,Hyderabad,Business,49,Webcam,Electronics,2999,2126.82
+O00385,2026-09-01,C0076,P013,1,0.15,1274.15,3,Cash,Customer_0076,Bengaluru,Student,43,Backpack,Accessories,1499,341.46
+O00386,2026-09-04,C0193,P016,4,0.15,30596.6,5,Cash,Customer_0193,Coimbatore,Professional,42,Office Chair,Furniture,8999,7323.05
+O00387,2026-07-01,C0182,P014,4,0.15,2716.6,4,Net Banking,Customer_0182,Delhi,Professional,33,T-Shirt,Fashion,799,646.39
+O00388,2026-01-08,C0058,P027,2,0.1,448.2,2,Credit Card,Customer_0058,Hyderabad,Professional,51,Pen Set,Stationery,249,82.77
+O00389,2026-05-18,C0225,P013,3,0.05,4272.15,5,Net Banking,Customer_0225,Pune,Student,50,Backpack,Accessories,1499,697.25
+O00390,2026-07-10,C0073,P009,4,0.0,11996.0,5,Debit Card,Customer_0073,Bengaluru,Business,45,Webcam,Electronics,2999,2227.73
+O00391,2026-07-18,C0074,P010,3,0.0,2097.0,5,Cash,Customer_0074,Pune,Professional,44,Phone Case,Accessories,699,575.53
+O00392,2026-05-20,C0127,P015,2,0.15,3058.3,3,Credit Card,Customer_0127,Chennai,Professional,41,Hoodie,Fashion,1799,850.78
+O00393,2026-03-18,C0289,P015,1,0.15,1529.15,4,UPI,Customer_0289,Mumbai,Professional,50,Hoodie,Fashion,1799,248.63
+O00394,2026-04-23,C0197,P025,1,0.05,1424.05,4,Net Banking,Customer_0197,Coimbatore,Professional,32,Perfume,Beauty,1499,222.69
+O00395,2026-06-26,C0160,P001,3,0.15,5097.45,4,Credit Card,Customer_0160,Chennai,Professional,36,Wireless Earbuds,Electronics,1999,915.02
+O00396,2026-07-20,C0221,P015,2,0.05,3418.1,5,Net Banking,Customer_0221,Bengaluru,Business,33,Hoodie,Fashion,1799,957.23
+O00397,2026-03-31,C0174,P005,3,0.05,3702.15,4,Debit Card,Customer_0174,Bengaluru,Professional,32,Gaming Mouse,Electronics,1299,456.19
+O00398,2026-03-16,C0270,P007,3,0.0,4797.0,3,Cash,Customer_0270,Coimbatore,Business,42,Laptop Stand,Electronics,1599,802.22
+O00399,2026-08-24,C0010,P013,1,0.1,1349.1,5,Credit Card,Customer_0010,Mumbai,Professional,35,Backpack,Accessories,1499,261.72
+O00400,2026-06-29,C0188,P010,2,0.05,1328.1,3,Debit Card,Customer_0188,Hyderabad,Student,32,Phone Case,Accessories,699,343.94
+O00401,2026-08-01,C0245,P010,2,0.15,1188.3,4,Net Banking,Customer_0245,Mumbai,Business,33,Phone Case,Accessories,699,316.97
+O00402,2026-06-11,C0282,P015,3,0.15,4587.45,4,UPI,Customer_0282,Madurai,Business,55,Hoodie,Fashion,1799,1174.85
+O00403,2026-06-12,C0142,P020,1,0.15,3824.15,5,Debit Card,Customer_0142,Mumbai,Business,52,Coffee Maker,Home Appliances,4499,776.87
+O00404,2026-06-27,C0230,P029,3,0.15,2292.45,5,Debit Card,Customer_0230,Madurai,Business,52,Table Clock,Home,899,302.79
+O00405,2026-05-29,C0199,P020,1,0.0,4499.0,5,Cash,Customer_0199,Chennai,Professional,39,Coffee Maker,Home Appliances,4499,807.41
+O00406,2026-06-12,C0052,P006,3,0.0,11997.0,5,Cash,Customer_0052,Delhi,Student,25,Mechanical Keyboard,Electronics,3999,3342.45
+O00407,2026-02-25,C0104,P011,4,0.05,11396.2,4,Debit Card,Customer_0104,Chennai,Professional,54,Running Shoes,Fashion,2999,1887.86
+O00408,2026-08-01,C0100,P021,3,0.1,1347.3,5,Credit Card,Customer_0100,Pune,Professional,31,Face Wash,Beauty,499,232.24
+O00409,2026-05-25,C0181,P022,4,0.1,2516.4,5,UPI,Customer_0181,Hyderabad,Business,48,Shampoo,Beauty,699,303.49
+O00410,2026-01-12,C0127,P025,1,0.15,1274.15,1,Credit Card,Customer_0127,Chennai,Professional,41,Perfume,Beauty,1499,205.62
+O00411,2026-04-23,C0220,P022,4,0.0,2796.0,5,Cash,Customer_0220,Mumbai,Professional,30,Shampoo,Beauty,699,457.8
+O00412,2026-02-21,C0213,P022,2,0.1,1258.2,3,Debit Card,Customer_0213,Chennai,Business,27,Shampoo,Beauty,699,158.88
+O00413,2026-01-24,C0069,P016,3,0.1,24297.3,3,Credit Card,Customer_0069,Coimbatore,Professional,49,Office Chair,Furniture,8999,3308.21
+O00414,2026-01-14,C0075,P001,4,0.1,7196.4,5,Credit Card,Customer_0075,Delhi,Business,21,Wireless Earbuds,Electronics,1999,1361.88
+O00415,2026-04-20,C0209,P020,1,0.0,4499.0,1,Cash,Customer_0209,Bengaluru,Professional,19,Coffee Maker,Home Appliances,4499,1233.73
+O00416,2026-01-20,C0027,P030,2,0.05,5698.1,5,Cash,Customer_0027,Coimbatore,Business,38,Travel Bag,Accessories,2999,805.71
+O00417,2026-01-03,C0244,P024,1,0.1,539.1,5,Cash,Customer_0244,Bengaluru,Professional,32,Sunscreen,Beauty,599,103.45
+O00418,2026-06-27,C0192,P020,2,0.15,7648.3,3,Cash,Customer_0192,Delhi,Professional,21,Coffee Maker,Home Appliances,4499,1463.69
+O00419,2026-01-23,C0009,P022,1,0.0,699.0,4,Debit Card,Customer_0009,Madurai,Student,28,Shampoo,Beauty,699,111.78
+O00420,2026-02-05,C0227,P009,4,0.05,11396.2,5,Credit Card,Customer_0227,Delhi,Student,45,Webcam,Electronics,2999,3018.81
+O00421,2026-01-18,C0043,P018,1,0.05,1234.05,4,Credit Card,Customer_0043,Bengaluru,Business,52,Desk Lamp,Home,1299,209.62
+O00422,2026-06-10,C0227,P012,2,0.15,4248.3,5,Cash,Customer_0227,Delhi,Student,45,Casual Sneakers,Fashion,2499,789.68
+O00423,2026-08-09,C0132,P015,2,0.0,3598.0,5,Credit Card,Customer_0132,Hyderabad,Professional,19,Hoodie,Fashion,1799,838.24
+O00424,2026-07-12,C0087,P030,1,0.15,2549.15,4,Cash,Customer_0087,Chennai,Professional,34,Travel Bag,Accessories,2999,570.6
+O00425,2026-03-22,C0130,P029,2,0.05,1708.1,4,UPI,Customer_0130,Pune,Business,44,Table Clock,Home,899,220.88
+O00426,2026-03-05,C0199,P010,3,0.0,2097.0,5,Debit Card,Customer_0199,Chennai,Professional,39,Phone Case,Accessories,699,519.93
+O00427,2026-02-22,C0030,P027,2,0.15,423.3,4,UPI,Customer_0030,Bengaluru,Student,54,Pen Set,Stationery,249,76.07
+O00428,2026-07-20,C0264,P004,2,0.15,2548.3,4,Credit Card,Customer_0264,Chennai,Professional,48,Power Bank,Electronics,1499,504.43
+O00429,2026-05-08,C0062,P004,1,0.0,1499.0,5,Debit Card,Customer_0062,Delhi,Business,46,Power Bank,Electronics,1499,327.74
+O00430,2026-02-03,C0203,P029,4,0.15,3056.6,4,Credit Card,Customer_0203,Chennai,Student,45,Table Clock,Home,899,808.42
+O00431,2026-07-15,C0299,P018,4,0.0,5196.0,1,UPI,Customer_0299,Mumbai,Professional,38,Desk Lamp,Home,1299,655.96
+O00432,2026-01-04,C0179,P009,3,0.05,8547.15,2,UPI,Customer_0179,Pune,Professional,50,Webcam,Electronics,2999,2332.57
+O00433,2026-08-31,C0130,P005,4,0.1,4676.4,5,Net Banking,Customer_0130,Pune,Business,44,Gaming Mouse,Electronics,1299,1033.57
+O00434,2026-07-16,C0258,P019,4,0.15,2376.6,5,UPI,Customer_0258,Hyderabad,Professional,20,Water Bottle,Home,699,610.36
+O00435,2026-06-13,C0185,P024,2,0.1,1078.2,3,UPI,Customer_0185,Bengaluru,Business,36,Sunscreen,Beauty,599,281.35
+O00436,2026-05-11,C0184,P023,2,0.05,1518.1,5,Cash,Customer_0184,Coimbatore,Professional,46,Moisturizer,Beauty,799,273.68
+O00437,2026-05-31,C0176,P004,1,0.1,1349.1,5,Credit Card,Customer_0176,Delhi,Student,53,Power Bank,Electronics,1499,194.89
+O00438,2026-01-15,C0089,P026,2,0.0,398.0,5,UPI,Customer_0089,Delhi,Student,30,Notebook,Stationery,199,77.05
+O00439,2026-04-27,C0157,P020,1,0.1,4049.1,5,Credit Card,Customer_0157,Coimbatore,Professional,42,Coffee Maker,Home Appliances,4499,697.05
+O00440,2026-01-31,C0026,P003,1,0.05,3324.05,5,Credit Card,Customer_0026,Mumbai,Professional,53,Smart Watch,Electronics,3499,513.69
+O00441,2026-05-08,C0196,P004,3,0.1,4047.3,4,Credit Card,Customer_0196,Madurai,Professional,44,Power Bank,Electronics,1499,539.0
+O00442,2026-07-11,C0023,P016,3,0.0,26997.0,5,UPI,Customer_0023,Coimbatore,Business,35,Office Chair,Furniture,8999,3423.6
+O00443,2026-03-27,C0157,P014,4,0.1,2876.4,5,Debit Card,Customer_0157,Coimbatore,Professional,42,T-Shirt,Fashion,799,644.17
+O00444,2026-07-02,C0260,P024,1,0.15,509.15,4,Debit Card,Customer_0260,Hyderabad,Business,49,Sunscreen,Beauty,599,105.67
+O00445,2026-01-15,C0276,P011,4,0.05,11396.2,4,Debit Card,Customer_0276,Hyderabad,Student,29,Running Shoes,Fashion,2999,3197.18
+O00446,2026-07-17,C0090,P027,1,0.0,249.0,4,Net Banking,Customer_0090,Madurai,Student,21,Pen Set,Stationery,249,57.86
+O00447,2026-01-01,C0054,P015,1,0.0,1799.0,4,Cash,Customer_0054,Chennai,Student,54,Hoodie,Fashion,1799,479.11
+O00448,2026-04-04,C0003,P018,4,0.05,4936.2,4,UPI,Customer_0003,Bengaluru,Business,52,Desk Lamp,Home,1299,757.15
+O00449,2026-05-22,C0295,P017,4,0.05,28496.2,4,Cash,Customer_0295,Chennai,Student,48,Study Table,Furniture,7499,8276.7
+O00450,2026-08-23,C0286,P016,3,0.1,24297.3,5,Net Banking,Customer_0286,Chennai,Student,37,Office Chair,Furniture,8999,6485.51
+O00451,2026-04-06,C0231,P011,1,0.0,2999.0,4,Net Banking,Customer_0231,Delhi,Professional,45,Running Shoes,Fashion,2999,760.81
+O00452,2026-01-12,C0237,P022,4,0.0,2796.0,5,Debit Card,Customer_0237,Delhi,Student,40,Shampoo,Beauty,699,495.17
+O00453,2026-07-18,C0262,P022,3,0.1,1887.3,3,Cash,Customer_0262,Madurai,Professional,48,Shampoo,Beauty,699,412.92
+O00454,2026-01-03,C0182,P004,3,0.05,4272.15,4,Debit Card,Customer_0182,Delhi,Professional,33,Power Bank,Electronics,1499,824.33
+O00455,2026-07-09,C0292,P001,2,0.15,3398.3,4,Cash,Customer_0292,Madurai,Student,23,Wireless Earbuds,Electronics,1999,773.35
+O00456,2026-07-17,C0172,P001,2,0.05,3798.1,3,Cash,Customer_0172,Delhi,Professional,33,Wireless Earbuds,Electronics,1999,541.26
+O00457,2026-01-07,C0149,P030,2,0.1,5398.2,5,UPI,Customer_0149,Coimbatore,Professional,20,Travel Bag,Accessories,2999,849.71
+O00458,2026-09-01,C0111,P004,3,0.0,4497.0,5,Cash,Customer_0111,Chennai,Business,53,Power Bank,Electronics,1499,1246.39
+O00459,2026-08-06,C0238,P025,3,0.0,4497.0,4,Credit Card,Customer_0238,Madurai,Professional,35,Perfume,Beauty,1499,945.9
+O00460,2026-04-18,C0081,P023,4,0.0,3196.0,5,Credit Card,Customer_0081,Coimbatore,Student,46,Moisturizer,Beauty,799,816.97
+O00461,2026-07-02,C0096,P009,3,0.0,8997.0,2,Credit Card,Customer_0096,Bengaluru,Business,33,Webcam,Electronics,2999,1900.63
+O00462,2026-08-18,C0175,P021,4,0.1,1796.4,4,UPI,Customer_0175,Hyderabad,Business,51,Face Wash,Beauty,499,372.06
+O00463,2026-05-29,C0047,P001,1,0.05,1899.05,5,Cash,Customer_0047,Madurai,Business,29,Wireless Earbuds,Electronics,1999,412.71
+O00464,2026-01-20,C0102,P014,1,0.15,679.15,5,Credit Card,Customer_0102,Mumbai,Student,37,T-Shirt,Fashion,799,120.43
+O00465,2026-03-02,C0238,P014,3,0.1,2157.3,5,Cash,Customer_0238,Madurai,Professional,35,T-Shirt,Fashion,799,419.57
+O00466,2026-06-29,C0038,P003,3,0.1,9447.3,4,Credit Card,Customer_0038,Delhi,Student,21,Smart Watch,Electronics,3499,2217.58
+O00467,2026-01-20,C0101,P014,2,0.05,1518.1,5,Net Banking,Customer_0101,Pune,Student,34,T-Shirt,Fashion,799,393.83
+O00468,2026-01-28,C0165,P019,2,0.0,1398.0,4,Cash,Customer_0165,Bengaluru,Professional,50,Water Bottle,Home,699,374.42
+O00469,2026-03-22,C0037,P023,4,0.0,3196.0,5,Credit Card,Customer_0037,Pune,Student,26,Moisturizer,Beauty,799,791.35
+O00470,2026-04-26,C0019,P019,3,0.15,1782.45,4,UPI,Customer_0019,Madurai,Student,32,Water Bottle,Home,699,312.33
+O00471,2026-01-24,C0126,P026,2,0.1,358.2,5,Net Banking,Customer_0126,Hyderabad,Professional,26,Notebook,Stationery,199,43.5
+O00472,2026-01-11,C0017,P005,2,0.1,2338.2,3,Credit Card,Customer_0017,Coimbatore,Business,22,Gaming Mouse,Electronics,1299,548.65
+O00473,2026-09-05,C0262,P023,3,0.15,2037.45,5,Debit Card,Customer_0262,Madurai,Professional,48,Moisturizer,Beauty,799,404.67
+O00474,2026-03-08,C0153,P030,2,0.0,5998.0,5,Cash,Customer_0153,Pune,Business,25,Travel Bag,Accessories,2999,1593.37
+O00475,2026-05-23,C0218,P025,2,0.0,2998.0,4,Credit Card,Customer_0218,Hyderabad,Professional,24,Perfume,Beauty,1499,666.55
+O00476,2026-02-01,C0126,P008,1,0.0,2299.0,5,Credit Card,Customer_0126,Hyderabad,Professional,26,USB-C Hub,Electronics,2299,371.59
+O00477,2026-02-03,C0210,P010,2,0.15,1188.3,4,UPI,Customer_0210,Chennai,Professional,32,Phone Case,Accessories,699,332.58
+O00478,2026-05-30,C0047,P013,3,0.0,4497.0,2,UPI,Customer_0047,Madurai,Business,29,Backpack,Accessories,1499,872.2
+O00479,2026-02-20,C0078,P008,4,0.05,8736.2,3,Debit Card,Customer_0078,Coimbatore,Student,52,USB-C Hub,Electronics,2299,1188.95
+O00480,2026-02-01,C0036,P018,1,0.15,1104.15,2,Net Banking,Customer_0036,Mumbai,Business,43,Desk Lamp,Home,1299,242.12
+O00481,2026-04-21,C0065,P008,4,0.15,7816.6,2,Cash,Customer_0065,Coimbatore,Business,32,USB-C Hub,Electronics,2299,1562.87
+O00482,2026-02-14,C0104,P013,3,0.05,4272.15,5,Debit Card,Customer_0104,Chennai,Professional,54,Backpack,Accessories,1499,1249.2
+O00483,2026-03-13,C0137,P011,4,0.05,11396.2,2,Net Banking,Customer_0137,Coimbatore,Student,47,Running Shoes,Fashion,2999,2578.02
+O00484,2026-06-07,C0096,P026,2,0.1,358.2,4,Net Banking,Customer_0096,Bengaluru,Business,33,Notebook,Stationery,199,86.78
+O00485,2026-05-03,C0196,P020,1,0.0,4499.0,4,Credit Card,Customer_0196,Madurai,Professional,44,Coffee Maker,Home Appliances,4499,785.49
+O00486,2026-04-18,C0138,P019,2,0.05,1328.1,5,Net Banking,Customer_0138,Pune,Professional,32,Water Bottle,Home,699,259.67
+O00487,2026-07-23,C0024,P005,1,0.15,1104.15,5,Debit Card,Customer_0024,Bengaluru,Business,28,Gaming Mouse,Electronics,1299,199.32
+O00488,2026-05-03,C0169,P015,4,0.1,6476.4,5,Net Banking,Customer_0169,Coimbatore,Professional,22,Hoodie,Fashion,1799,1045.46
+O00489,2026-03-24,C0089,P006,4,0.1,14396.4,4,Debit Card,Customer_0089,Delhi,Student,30,Mechanical Keyboard,Electronics,3999,2247.39
+O00490,2026-06-02,C0262,P022,2,0.0,1398.0,5,Debit Card,Customer_0262,Madurai,Professional,48,Shampoo,Beauty,699,187.05
+O00491,2026-01-15,C0096,P012,4,0.1,8996.4,5,Credit Card,Customer_0096,Bengaluru,Business,33,Casual Sneakers,Fashion,2499,2045.17
+O00492,2026-09-07,C0172,P021,2,0.0,998.0,4,Credit Card,Customer_0172,Delhi,Professional,33,Face Wash,Beauty,499,131.14
+O00493,2026-03-10,C0089,P023,1,0.05,759.05,5,Cash,Customer_0089,Delhi,Student,30,Moisturizer,Beauty,799,197.1
+O00494,2026-04-01,C0111,P007,2,0.05,3038.1,4,Debit Card,Customer_0111,Chennai,Business,53,Laptop Stand,Electronics,1599,875.91
+O00495,2026-07-26,C0177,P018,3,0.0,3897.0,5,Debit Card,Customer_0177,Coimbatore,Student,47,Desk Lamp,Home,1299,805.62
+O00496,2026-08-31,C0071,P017,2,0.05,14248.1,5,Cash,Customer_0071,Delhi,Student,48,Study Table,Furniture,7499,2817.69
+O00497,2026-05-19,C0286,P023,3,0.05,2277.15,4,UPI,Customer_0286,Chennai,Student,37,Moisturizer,Beauty,799,561.71
+O00498,2026-01-15,C0158,P007,2,0.05,3038.1,1,Cash,Customer_0158,Hyderabad,Business,54,Laptop Stand,Electronics,1599,541.52
+O00499,2026-01-01,C0182,P007,3,0.05,4557.15,5,Debit Card,Customer_0182,Delhi,Professional,33,Laptop Stand,Electronics,1599,723.66
+O00500,2026-07-03,C0191,P006,2,0.1,7198.2,2,Credit Card,Customer_0191,Mumbai,Professional,52,Mechanical Keyboard,Electronics,3999,897.2
+O00501,2026-05-31,C0271,P025,2,0.0,2998.0,5,Debit Card,Customer_0271,Delhi,Professional,37,Perfume,Beauty,1499,393.37
+O00502,2026-09-03,C0163,P002,1,0.1,2249.1,5,Cash,Customer_0163,Delhi,Business,31,Bluetooth Speaker,Electronics,2499,538.36
+O00503,2026-05-31,C0096,P015,1,0.1,1619.1,4,Credit Card,Customer_0096,Bengaluru,Business,33,Hoodie,Fashion,1799,461.15
+O00504,2026-09-07,C0241,P022,2,0.15,1188.3,5,Cash,Customer_0241,Mumbai,Professional,53,Shampoo,Beauty,699,188.72
+O00505,2026-06-16,C0156,P028,3,0.05,1422.15,5,Net Banking,Customer_0156,Madurai,Business,26,Calculator,Stationery,499,175.04
+O00506,2026-06-27,C0211,P028,3,0.05,1422.15,5,Credit Card,Customer_0211,Bengaluru,Business,20,Calculator,Stationery,499,389.82
+O00507,2026-04-07,C0242,P005,3,0.1,3507.3,3,UPI,Customer_0242,Coimbatore,Business,48,Gaming Mouse,Electronics,1299,1023.63
+O00508,2026-08-31,C0103,P020,4,0.0,17996.0,4,Debit Card,Customer_0103,Delhi,Professional,22,Coffee Maker,Home Appliances,4499,5165.07
+O00509,2026-08-24,C0036,P021,2,0.0,998.0,5,Credit Card,Customer_0036,Mumbai,Business,43,Face Wash,Beauty,499,236.31
+O00510,2026-03-26,C0146,P010,1,0.05,664.05,4,Debit Card,Customer_0146,Mumbai,Professional,38,Phone Case,Accessories,699,146.79
+O00511,2026-02-12,C0181,P023,1,0.1,719.1,4,Debit Card,Customer_0181,Hyderabad,Business,48,Moisturizer,Beauty,799,188.09
+O00512,2026-02-23,C0137,P016,2,0.0,17998.0,4,UPI,Customer_0137,Coimbatore,Student,47,Office Chair,Furniture,8999,4835.01
+O00513,2026-07-04,C0138,P018,1,0.0,1299.0,4,Cash,Customer_0138,Pune,Professional,32,Desk Lamp,Home,1299,292.83
+O00514,2026-09-06,C0034,P018,2,0.15,2208.3,4,Cash,Customer_0034,Coimbatore,Business,53,Desk Lamp,Home,1299,563.24
+O00515,2026-03-31,C0257,P021,4,0.0,1996.0,5,Net Banking,Customer_0257,Hyderabad,Professional,18,Face Wash,Beauty,499,401.29
+O00516,2026-06-16,C0167,P030,2,0.05,5698.1,4,UPI,Customer_0167,Madurai,Student,30,Travel Bag,Accessories,2999,1675.2
+O00517,2026-03-17,C0149,P026,1,0.1,179.1,4,UPI,Customer_0149,Coimbatore,Professional,20,Notebook,Stationery,199,31.24
+O00518,2026-01-19,C0286,P030,3,0.05,8547.15,5,Credit Card,Customer_0286,Chennai,Student,37,Travel Bag,Accessories,2999,1454.4
+O00519,2026-07-07,C0135,P001,1,0.0,1999.0,4,Net Banking,Customer_0135,Madurai,Student,24,Wireless Earbuds,Electronics,1999,588.2
+O00520,2026-08-17,C0009,P002,4,0.0,9996.0,4,Credit Card,Customer_0009,Madurai,Student,28,Bluetooth Speaker,Electronics,2499,1870.08
+O00521,2026-06-05,C0153,P003,4,0.05,13296.2,2,Debit Card,Customer_0153,Pune,Business,25,Smart Watch,Electronics,3499,2320.53
+O00522,2026-02-22,C0032,P002,2,0.15,4248.3,5,Net Banking,Customer_0032,Mumbai,Business,47,Bluetooth Speaker,Electronics,2499,1178.76
+O00523,2026-03-09,C0274,P020,3,0.1,12147.3,4,UPI,Customer_0274,Coimbatore,Business,31,Coffee Maker,Home Appliances,4499,2080.03
+O00524,2026-04-11,C0013,P010,4,0.05,2656.2,2,UPI,Customer_0013,Bengaluru,Professional,40,Phone Case,Accessories,699,731.85
+O00525,2026-04-20,C0129,P014,1,0.1,719.1,5,Net Banking,Customer_0129,Coimbatore,Business,24,T-Shirt,Fashion,799,96.99
+O00526,2026-05-03,C0047,P027,2,0.0,498.0,2,Credit Card,Customer_0047,Madurai,Business,29,Pen Set,Stationery,249,127.12
+O00527,2026-06-13,C0226,P008,3,0.0,6897.0,4,UPI,Customer_0226,Pune,Student,44,USB-C Hub,Electronics,2299,2004.09
+O00528,2026-03-20,C0082,P012,4,0.15,8496.6,4,Debit Card,Customer_0082,Bengaluru,Student,52,Casual Sneakers,Fashion,2499,2013.41
+O00529,2026-01-24,C0207,P003,4,0.05,13296.2,4,Cash,Customer_0207,Pune,Professional,42,Smart Watch,Electronics,3499,3505.3
+O00530,2026-04-05,C0250,P017,2,0.15,12748.3,2,Cash,Customer_0250,Madurai,Professional,34,Study Table,Furniture,7499,3607.88
+O00531,2026-04-30,C0275,P025,3,0.05,4272.15,5,Net Banking,Customer_0275,Madurai,Business,23,Perfume,Beauty,1499,944.82
+O00532,2026-01-16,C0050,P016,2,0.0,17998.0,3,Debit Card,Customer_0050,Hyderabad,Business,51,Office Chair,Furniture,8999,3766.7
+O00533,2026-07-26,C0054,P030,4,0.05,11396.2,5,Cash,Customer_0054,Chennai,Student,54,Travel Bag,Accessories,2999,1638.41
+O00534,2026-07-29,C0067,P013,4,0.15,5096.6,5,Credit Card,Customer_0067,Coimbatore,Student,20,Backpack,Accessories,1499,802.21
+O00535,2026-05-02,C0276,P027,3,0.0,747.0,4,UPI,Customer_0276,Hyderabad,Student,29,Pen Set,Stationery,249,173.48
+O00536,2026-05-09,C0210,P014,2,0.0,1598.0,5,Cash,Customer_0210,Chennai,Professional,32,T-Shirt,Fashion,799,200.8
+O00537,2026-02-14,C0025,P010,2,0.05,1328.1,5,Credit Card,Customer_0025,Coimbatore,Student,47,Phone Case,Accessories,699,284.3
+O00538,2026-01-11,C0225,P028,4,0.0,1996.0,5,Cash,Customer_0225,Pune,Student,50,Calculator,Stationery,499,291.52
+O00539,2026-02-21,C0146,P013,2,0.1,2698.2,4,UPI,Customer_0146,Mumbai,Professional,38,Backpack,Accessories,1499,511.39
+O00540,2026-01-23,C0032,P028,4,0.15,1696.6,5,Debit Card,Customer_0032,Mumbai,Business,47,Calculator,Stationery,499,413.71
+O00541,2026-05-14,C0063,P007,4,0.0,6396.0,5,Net Banking,Customer_0063,Bengaluru,Student,32,Laptop Stand,Electronics,1599,961.95
+O00542,2026-05-31,C0252,P008,4,0.0,9196.0,4,Credit Card,Customer_0252,Pune,Student,52,USB-C Hub,Electronics,2299,1778.14
+O00543,2026-05-26,C0107,P010,1,0.0,699.0,5,UPI,Customer_0107,Hyderabad,Professional,22,Phone Case,Accessories,699,160.39
+O00544,2026-07-21,C0043,P022,3,0.1,1887.3,5,Debit Card,Customer_0043,Bengaluru,Business,52,Shampoo,Beauty,699,334.38
+O00545,2026-04-09,C0096,P025,4,0.15,5096.6,2,Debit Card,Customer_0096,Bengaluru,Business,33,Perfume,Beauty,1499,613.01
+O00546,2026-04-14,C0106,P015,2,0.15,3058.3,2,Debit Card,Customer_0106,Coimbatore,Business,34,Hoodie,Fashion,1799,720.46
+O00547,2026-06-26,C0020,P028,2,0.0,998.0,5,Debit Card,Customer_0020,Bengaluru,Professional,35,Calculator,Stationery,499,297.48
+O00548,2026-08-18,C0267,P003,3,0.0,10497.0,4,Debit Card,Customer_0267,Chennai,Student,27,Smart Watch,Electronics,3499,1899.79
+O00549,2026-03-21,C0036,P013,3,0.15,3822.45,5,UPI,Customer_0036,Mumbai,Business,43,Backpack,Accessories,1499,862.97
+O00550,2026-09-06,C0114,P016,2,0.05,17098.1,4,Cash,Customer_0114,Bengaluru,Business,53,Office Chair,Furniture,8999,5015.58
+O00551,2026-07-18,C0064,P023,3,0.1,2157.3,5,Net Banking,Customer_0064,Bengaluru,Professional,19,Moisturizer,Beauty,799,546.67
+O00552,2026-06-15,C0218,P030,1,0.05,2849.05,4,Cash,Customer_0218,Hyderabad,Professional,24,Travel Bag,Accessories,2999,841.52
+O00553,2026-07-09,C0082,P025,4,0.1,5396.4,5,Net Banking,Customer_0082,Bengaluru,Student,52,Perfume,Beauty,1499,1018.47
+O00554,2026-07-22,C0112,P029,2,0.0,1798.0,4,Net Banking,Customer_0112,Madurai,Business,24,Table Clock,Home,899,413.23
+O00555,2026-04-14,C0004,P017,2,0.0,14998.0,4,Credit Card,Customer_0004,Bengaluru,Business,45,Study Table,Furniture,7499,3086.92
+O00556,2026-08-03,C0286,P009,1,0.05,2849.05,2,UPI,Customer_0286,Chennai,Student,37,Webcam,Electronics,2999,751.7
+O00557,2026-08-24,C0201,P018,3,0.05,3702.15,4,Cash,Customer_0201,Delhi,Student,52,Desk Lamp,Home,1299,686.39
+O00558,2026-05-10,C0111,P022,4,0.0,2796.0,5,Credit Card,Customer_0111,Chennai,Business,53,Shampoo,Beauty,699,515.41
+O00559,2026-04-06,C0167,P021,4,0.15,1696.6,4,Cash,Customer_0167,Madurai,Student,30,Face Wash,Beauty,499,333.42
+O00560,2026-05-31,C0049,P022,3,0.1,1887.3,4,Debit Card,Customer_0049,Coimbatore,Student,41,Shampoo,Beauty,699,237.41
+O00561,2026-07-11,C0214,P026,1,0.1,179.1,2,UPI,Customer_0214,Coimbatore,Student,48,Notebook,Stationery,199,44.41
+O00562,2026-02-11,C0159,P018,2,0.05,2468.1,5,Credit Card,Customer_0159,Madurai,Professional,53,Desk Lamp,Home,1299,413.24
+O00563,2026-03-10,C0173,P007,4,0.0,6396.0,5,UPI,Customer_0173,Hyderabad,Business,18,Laptop Stand,Electronics,1599,1608.09
+O00564,2026-05-02,C0042,P023,2,0.05,1518.1,5,UPI,Customer_0042,Madurai,Business,18,Moisturizer,Beauty,799,192.89
+O00565,2026-02-27,C0110,P002,3,0.1,6747.3,5,Debit Card,Customer_0110,Madurai,Business,51,Bluetooth Speaker,Electronics,2499,1483.58
+O00566,2026-04-19,C0296,P018,4,0.1,4676.4,4,Credit Card,Customer_0296,Delhi,Professional,29,Desk Lamp,Home,1299,1225.29
+O00567,2026-04-30,C0231,P028,3,0.15,1272.45,5,UPI,Customer_0231,Delhi,Professional,45,Calculator,Stationery,499,235.99
+O00568,2026-05-11,C0175,P005,3,0.1,3507.3,4,UPI,Customer_0175,Hyderabad,Business,51,Gaming Mouse,Electronics,1299,748.67
+O00569,2026-05-04,C0258,P001,1,0.1,1799.1,5,Debit Card,Customer_0258,Hyderabad,Professional,20,Wireless Earbuds,Electronics,1999,243.73
+O00570,2026-08-09,C0126,P024,3,0.1,1617.3,5,Debit Card,Customer_0126,Hyderabad,Professional,26,Sunscreen,Beauty,599,331.21
+O00571,2026-02-18,C0181,P002,2,0.05,4748.1,5,Net Banking,Customer_0181,Hyderabad,Business,48,Bluetooth Speaker,Electronics,2499,1243.86
+O00572,2026-04-14,C0087,P005,3,0.05,3702.15,5,Cash,Customer_0087,Chennai,Professional,34,Gaming Mouse,Electronics,1299,1055.13
+O00573,2026-03-17,C0153,P008,3,0.15,5862.45,4,UPI,Customer_0153,Pune,Business,25,USB-C Hub,Electronics,2299,1497.26
+O00574,2026-05-30,C0016,P027,2,0.1,448.2,5,Credit Card,Customer_0016,Madurai,Business,41,Pen Set,Stationery,249,133.24
+O00575,2026-06-25,C0064,P011,4,0.1,10796.4,4,Credit Card,Customer_0064,Bengaluru,Professional,19,Running Shoes,Fashion,2999,1556.1
+O00576,2026-08-04,C0278,P021,2,0.1,898.2,3,Credit Card,Customer_0278,Mumbai,Professional,48,Face Wash,Beauty,499,201.82
+O00577,2026-07-09,C0096,P019,3,0.05,1992.15,5,Debit Card,Customer_0096,Bengaluru,Business,33,Water Bottle,Home,699,280.79
+O00578,2026-06-17,C0155,P004,1,0.05,1424.05,4,Debit Card,Customer_0155,Mumbai,Professional,43,Power Bank,Electronics,1499,321.38
+O00579,2026-04-18,C0127,P022,3,0.1,1887.3,4,Debit Card,Customer_0127,Chennai,Professional,41,Shampoo,Beauty,699,248.63
+O00580,2026-04-29,C0107,P025,1,0.15,1274.15,2,Net Banking,Customer_0107,Hyderabad,Professional,22,Perfume,Beauty,1499,196.33
+O00581,2026-05-29,C0227,P018,1,0.15,1104.15,5,Net Banking,Customer_0227,Delhi,Student,45,Desk Lamp,Home,1299,316.9
+O00582,2026-01-31,C0013,P014,4,0.1,2876.4,4,Credit Card,Customer_0013,Bengaluru,Professional,40,T-Shirt,Fashion,799,397.74
+O00583,2026-02-05,C0029,P018,2,0.1,2338.2,4,Net Banking,Customer_0029,Pune,Professional,35,Desk Lamp,Home,1299,632.23
+O00584,2026-08-17,C0138,P015,4,0.05,6836.2,4,Credit Card,Customer_0138,Pune,Professional,32,Hoodie,Fashion,1799,1821.39
+O00585,2026-07-19,C0090,P023,1,0.15,679.15,4,Credit Card,Customer_0090,Madurai,Student,21,Moisturizer,Beauty,799,141.01
+O00586,2026-03-22,C0248,P008,1,0.0,2299.0,4,Credit Card,Customer_0248,Pune,Professional,53,USB-C Hub,Electronics,2299,401.79
+O00587,2026-07-14,C0042,P014,2,0.05,1518.1,4,UPI,Customer_0042,Madurai,Business,18,T-Shirt,Fashion,799,197.28
+O00588,2026-02-03,C0143,P027,4,0.15,846.6,4,Cash,Customer_0143,Pune,Student,25,Pen Set,Stationery,249,172.02
+O00589,2026-04-09,C0098,P020,1,0.0,4499.0,5,Debit Card,Customer_0098,Coimbatore,Business,20,Coffee Maker,Home Appliances,4499,1185.44
+O00590,2026-09-01,C0192,P007,1,0.1,1439.1,5,Net Banking,Customer_0192,Delhi,Professional,21,Laptop Stand,Electronics,1599,184.97
+O00591,2026-02-18,C0252,P017,1,0.0,7499.0,5,Credit Card,Customer_0252,Pune,Student,52,Study Table,Furniture,7499,1879.88
+O00592,2026-02-27,C0058,P019,3,0.1,1887.3,3,Cash,Customer_0058,Hyderabad,Professional,51,Water Bottle,Home,699,548.12
+O00593,2026-05-09,C0052,P024,3,0.05,1707.15,3,UPI,Customer_0052,Delhi,Student,25,Sunscreen,Beauty,599,280.47
+O00594,2026-03-18,C0034,P001,3,0.15,5097.45,5,Net Banking,Customer_0034,Coimbatore,Business,53,Wireless Earbuds,Electronics,1999,884.41
+O00595,2026-05-15,C0100,P001,3,0.15,5097.45,5,Credit Card,Customer_0100,Pune,Professional,31,Wireless Earbuds,Electronics,1999,981.51
+O00596,2026-03-29,C0096,P017,4,0.1,26996.4,5,Credit Card,Customer_0096,Bengaluru,Business,33,Study Table,Furniture,7499,5183.01
+O00597,2026-08-31,C0298,P021,4,0.0,1996.0,4,Credit Card,Customer_0298,Bengaluru,Professional,40,Face Wash,Beauty,499,395.9
+O00598,2026-02-24,C0138,P015,1,0.05,1709.05,3,UPI,Customer_0138,Pune,Professional,32,Hoodie,Fashion,1799,448.18
+O00599,2026-04-07,C0069,P023,3,0.0,2397.0,5,UPI,Customer_0069,Coimbatore,Professional,49,Moisturizer,Beauty,799,446.77
+O00600,2026-06-19,C0285,P030,1,0.0,2999.0,2,UPI,Customer_0285,Madurai,Student,22,Travel Bag,Accessories,2999,884.32
+O00601,2026-04-17,C0127,P015,4,0.15,6116.6,3,Debit Card,Customer_0127,Chennai,Professional,41,Hoodie,Fashion,1799,761.49
+O00602,2026-05-02,C0084,P016,2,0.05,17098.1,5,UPI,Customer_0084,Hyderabad,Professional,49,Office Chair,Furniture,8999,3154.78
+O00603,2026-03-19,C0255,P019,4,0.0,2796.0,5,Debit Card,Customer_0255,Madurai,Student,30,Water Bottle,Home,699,585.24
+O00604,2026-06-09,C0070,P019,2,0.15,1188.3,5,UPI,Customer_0070,Coimbatore,Business,26,Water Bottle,Home,699,203.86
+O00605,2026-05-11,C0295,P021,1,0.1,449.1,3,UPI,Customer_0295,Chennai,Student,48,Face Wash,Beauty,499,128.92
+O00606,2026-05-08,C0257,P028,2,0.05,948.1,5,Net Banking,Customer_0257,Hyderabad,Professional,18,Calculator,Stationery,499,120.89
+O00607,2026-09-07,C0045,P011,2,0.1,5398.2,5,Debit Card,Customer_0045,Bengaluru,Professional,45,Running Shoes,Fashion,2999,1057.48
+O00608,2026-02-11,C0244,P017,1,0.15,6374.15,5,Cash,Customer_0244,Bengaluru,Professional,32,Study Table,Furniture,7499,848.55
+O00609,2026-03-26,C0221,P015,2,0.0,3598.0,1,UPI,Customer_0221,Bengaluru,Business,33,Hoodie,Fashion,1799,469.6
+O00610,2026-08-21,C0131,P001,1,0.15,1699.15,3,UPI,Customer_0131,Hyderabad,Student,28,Wireless Earbuds,Electronics,1999,389.52
+O00611,2026-07-19,C0015,P010,1,0.0,699.0,5,Credit Card,Customer_0015,Bengaluru,Professional,23,Phone Case,Accessories,699,136.47
+O00612,2026-04-27,C0186,P021,3,0.1,1347.3,4,UPI,Customer_0186,Coimbatore,Professional,39,Face Wash,Beauty,499,374.48
+O00613,2026-07-28,C0104,P005,2,0.0,2598.0,5,Debit Card,Customer_0104,Chennai,Professional,54,Gaming Mouse,Electronics,1299,527.71
+O00614,2026-07-25,C0224,P009,3,0.15,7647.45,5,UPI,Customer_0224,Pune,Business,45,Webcam,Electronics,2999,2217.76
+O00615,2026-08-06,C0269,P022,1,0.0,699.0,5,Credit Card,Customer_0269,Bengaluru,Business,44,Shampoo,Beauty,699,117.36
+O00616,2026-03-26,C0298,P008,3,0.15,5862.45,5,Debit Card,Customer_0298,Bengaluru,Professional,40,USB-C Hub,Electronics,2299,1349.05
+O00617,2026-08-13,C0113,P017,1,0.1,6749.1,5,Credit Card,Customer_0113,Hyderabad,Professional,25,Study Table,Furniture,7499,1519.9
+O00618,2026-01-30,C0066,P003,4,0.15,11896.6,5,Debit Card,Customer_0066,Chennai,Student,21,Smart Watch,Electronics,3499,2518.77
+O00619,2026-08-02,C0176,P002,4,0.15,8496.6,5,Credit Card,Customer_0176,Delhi,Student,53,Bluetooth Speaker,Electronics,2499,1038.19
+O00620,2026-01-29,C0020,P009,2,0.0,5998.0,5,Credit Card,Customer_0020,Bengaluru,Professional,35,Webcam,Electronics,2999,1445.2
+O00621,2026-01-27,C0146,P007,4,0.15,5436.6,5,Cash,Customer_0146,Mumbai,Professional,38,Laptop Stand,Electronics,1599,1335.95
+O00622,2026-02-16,C0018,P016,4,0.1,32396.4,5,Credit Card,Customer_0018,Chennai,Business,32,Office Chair,Furniture,8999,4995.52
+O00623,2026-05-04,C0205,P011,4,0.0,11996.0,5,Cash,Customer_0205,Chennai,Professional,42,Running Shoes,Fashion,2999,2579.61
+O00624,2026-01-12,C0222,P010,1,0.1,629.1,5,UPI,Customer_0222,Bengaluru,Business,37,Phone Case,Accessories,699,88.14
+O00625,2026-06-30,C0148,P027,2,0.1,448.2,5,Net Banking,Customer_0148,Bengaluru,Professional,54,Pen Set,Stationery,249,117.94
+O00626,2026-01-25,C0022,P019,4,0.05,2656.2,4,Cash,Customer_0022,Hyderabad,Professional,40,Water Bottle,Home,699,622.64
+O00627,2026-02-08,C0072,P017,1,0.0,7499.0,5,Credit Card,Customer_0072,Mumbai,Student,24,Study Table,Furniture,7499,1359.1
+O00628,2026-05-10,C0025,P010,4,0.15,2376.6,5,UPI,Customer_0025,Coimbatore,Student,47,Phone Case,Accessories,699,518.61
+O00629,2026-07-12,C0159,P019,4,0.1,2516.4,4,Debit Card,Customer_0159,Madurai,Professional,53,Water Bottle,Home,699,413.25
+O00630,2026-01-13,C0194,P028,2,0.15,848.3,4,Credit Card,Customer_0194,Chennai,Business,42,Calculator,Stationery,499,252.05
+O00631,2026-01-21,C0086,P019,4,0.15,2376.6,5,Cash,Customer_0086,Chennai,Student,42,Water Bottle,Home,699,675.7
+O00632,2026-01-23,C0047,P017,4,0.15,25496.6,4,Cash,Customer_0047,Madurai,Business,29,Study Table,Furniture,7499,5438.82
+O00633,2026-07-10,C0063,P017,1,0.0,7499.0,4,UPI,Customer_0063,Bengaluru,Student,32,Study Table,Furniture,7499,1722.88
+O00634,2026-05-23,C0094,P005,1,0.0,1299.0,5,Net Banking,Customer_0094,Hyderabad,Student,50,Gaming Mouse,Electronics,1299,230.48
+O00635,2026-06-13,C0016,P009,3,0.05,8547.15,5,Cash,Customer_0016,Madurai,Business,41,Webcam,Electronics,2999,1156.86
+O00636,2026-09-01,C0127,P025,3,0.1,4047.3,5,Credit Card,Customer_0127,Chennai,Professional,41,Perfume,Beauty,1499,845.69
+O00637,2026-08-05,C0282,P009,4,0.1,10796.4,5,Net Banking,Customer_0282,Madurai,Business,55,Webcam,Electronics,2999,3183.15
+O00638,2026-06-03,C0067,P007,4,0.1,5756.4,5,UPI,Customer_0067,Coimbatore,Student,20,Laptop Stand,Electronics,1599,1699.36
+O00639,2026-01-25,C0177,P004,2,0.0,2998.0,4,Debit Card,Customer_0177,Coimbatore,Student,47,Power Bank,Electronics,1499,707.78
+O00640,2026-05-21,C0167,P006,3,0.0,11997.0,2,Credit Card,Customer_0167,Madurai,Student,30,Mechanical Keyboard,Electronics,3999,3439.92
+O00641,2026-05-07,C0169,P006,2,0.15,6798.3,3,Net Banking,Customer_0169,Coimbatore,Professional,22,Mechanical Keyboard,Electronics,3999,863.5
+O00642,2026-02-20,C0069,P015,2,0.0,3598.0,5,Cash,Customer_0069,Coimbatore,Professional,49,Hoodie,Fashion,1799,1068.51
+O00643,2026-02-25,C0181,P027,4,0.05,946.2,5,UPI,Customer_0181,Hyderabad,Business,48,Pen Set,Stationery,249,149.01
+O00644,2026-07-13,C0209,P010,4,0.0,2796.0,5,Net Banking,Customer_0209,Bengaluru,Professional,19,Phone Case,Accessories,699,694.89
+O00645,2026-02-01,C0002,P028,4,0.15,1696.6,5,Net Banking,Customer_0002,Coimbatore,Student,26,Calculator,Stationery,499,365.68
+O00646,2026-02-04,C0076,P025,4,0.0,5996.0,5,UPI,Customer_0076,Bengaluru,Student,43,Perfume,Beauty,1499,788.43
+O00647,2026-05-22,C0075,P005,4,0.15,4416.6,5,Credit Card,Customer_0075,Delhi,Business,21,Gaming Mouse,Electronics,1299,1087.76
+O00648,2026-06-27,C0092,P028,2,0.05,948.1,3,Net Banking,Customer_0092,Chennai,Student,55,Calculator,Stationery,499,269.04
+O00649,2026-06-05,C0211,P003,3,0.15,8922.45,4,Net Banking,Customer_0211,Bengaluru,Business,20,Smart Watch,Electronics,3499,2002.16
+O00650,2026-08-23,C0253,P009,2,0.1,5398.2,4,Debit Card,Customer_0253,Hyderabad,Student,31,Webcam,Electronics,2999,1515.38
+O00651,2026-09-06,C0242,P012,3,0.15,6372.45,5,Credit Card,Customer_0242,Coimbatore,Business,48,Casual Sneakers,Fashion,2499,1661.33
+O00652,2026-04-16,C0286,P007,3,0.1,4317.3,5,Net Banking,Customer_0286,Chennai,Student,37,Laptop Stand,Electronics,1599,663.69
+O00653,2026-06-11,C0191,P014,2,0.05,1518.1,4,Debit Card,Customer_0191,Mumbai,Professional,52,T-Shirt,Fashion,799,266.14
+O00654,2026-06-25,C0010,P028,3,0.05,1422.15,5,Credit Card,Customer_0010,Mumbai,Professional,35,Calculator,Stationery,499,401.09
+O00655,2026-05-09,C0252,P009,3,0.0,8997.0,5,Net Banking,Customer_0252,Pune,Student,52,Webcam,Electronics,2999,2690.98
+O00656,2026-05-03,C0120,P015,4,0.1,6476.4,5,Cash,Customer_0120,Madurai,Student,18,Hoodie,Fashion,1799,1372.72
+O00657,2026-07-26,C0228,P002,1,0.0,2499.0,2,Credit Card,Customer_0228,Pune,Business,47,Bluetooth Speaker,Electronics,2499,715.97
+O00658,2026-01-14,C0266,P023,1,0.05,759.05,4,Credit Card,Customer_0266,Delhi,Student,54,Moisturizer,Beauty,799,96.71
+O00659,2026-03-15,C0109,P025,3,0.05,4272.15,5,Debit Card,Customer_0109,Hyderabad,Professional,52,Perfume,Beauty,1499,1122.47
+O00660,2026-02-22,C0198,P029,1,0.1,809.1,5,UPI,Customer_0198,Madurai,Professional,49,Table Clock,Home,899,190.58
+O00661,2026-06-07,C0028,P030,2,0.15,5098.3,4,Debit Card,Customer_0028,Chennai,Student,20,Travel Bag,Accessories,2999,1429.09
+O00662,2026-06-27,C0014,P029,1,0.15,764.15,4,Debit Card,Customer_0014,Madurai,Student,47,Table Clock,Home,899,115.34
+O00663,2026-09-05,C0153,P015,1,0.0,1799.0,5,Credit Card,Customer_0153,Pune,Business,25,Hoodie,Fashion,1799,537.32
+O00664,2026-06-08,C0086,P009,4,0.05,11396.2,5,Debit Card,Customer_0086,Chennai,Student,42,Webcam,Electronics,2999,2012.49
+O00665,2026-07-13,C0201,P004,2,0.05,2848.1,4,Credit Card,Customer_0201,Delhi,Student,52,Power Bank,Electronics,1499,511.13
+O00666,2026-06-24,C0179,P009,1,0.05,2849.05,5,Net Banking,Customer_0179,Pune,Professional,50,Webcam,Electronics,2999,453.34
+O00667,2026-01-31,C0123,P007,4,0.0,6396.0,4,Net Banking,Customer_0123,Mumbai,Business,18,Laptop Stand,Electronics,1599,1541.76
+O00668,2026-03-09,C0188,P025,2,0.05,2848.1,5,Debit Card,Customer_0188,Hyderabad,Student,32,Perfume,Beauty,1499,745.25
+O00669,2026-01-02,C0277,P010,3,0.15,1782.45,5,Credit Card,Customer_0277,Bengaluru,Student,18,Phone Case,Accessories,699,456.95
+O00670,2026-01-11,C0171,P004,2,0.1,2698.2,5,Net Banking,Customer_0171,Coimbatore,Business,42,Power Bank,Electronics,1499,749.79
+O00671,2026-08-04,C0052,P025,3,0.15,3822.45,5,Net Banking,Customer_0052,Delhi,Student,25,Perfume,Beauty,1499,1146.13
+O00672,2026-04-02,C0037,P020,1,0.1,4049.1,5,Credit Card,Customer_0037,Pune,Student,26,Coffee Maker,Home Appliances,4499,675.49
+O00673,2026-05-14,C0118,P029,1,0.05,854.05,4,Net Banking,Customer_0118,Delhi,Professional,21,Table Clock,Home,899,247.41
+O00674,2026-04-14,C0277,P011,1,0.1,2699.1,4,Credit Card,Customer_0277,Bengaluru,Student,18,Running Shoes,Fashion,2999,452.34
+O00675,2026-06-19,C0080,P011,3,0.1,8097.3,4,Credit Card,Customer_0080,Hyderabad,Professional,47,Running Shoes,Fashion,2999,2316.37
+O00676,2026-09-01,C0160,P010,4,0.0,2796.0,3,Debit Card,Customer_0160,Chennai,Professional,36,Phone Case,Accessories,699,498.94
+O00677,2026-04-25,C0095,P014,2,0.05,1518.1,5,Debit Card,Customer_0095,Bengaluru,Student,22,T-Shirt,Fashion,799,448.07
+O00678,2026-04-08,C0288,P026,1,0.15,169.15,4,Debit Card,Customer_0288,Delhi,Business,37,Notebook,Stationery,199,41.69
+O00679,2026-01-07,C0142,P020,3,0.15,11472.45,4,Debit Card,Customer_0142,Mumbai,Business,52,Coffee Maker,Home Appliances,4499,2911.55
+O00680,2026-08-18,C0204,P017,2,0.1,13498.2,5,UPI,Customer_0204,Hyderabad,Professional,29,Study Table,Furniture,7499,2327.12
+O00681,2026-02-12,C0059,P009,1,0.0,2999.0,4,Credit Card,Customer_0059,Mumbai,Student,52,Webcam,Electronics,2999,793.1
+O00682,2026-08-10,C0047,P029,4,0.0,3596.0,4,Cash,Customer_0047,Madurai,Business,29,Table Clock,Home,899,845.79
+O00683,2026-06-15,C0254,P017,1,0.05,7124.05,2,Debit Card,Customer_0254,Delhi,Professional,55,Study Table,Furniture,7499,945.44
+O00684,2026-01-10,C0229,P003,1,0.0,3499.0,2,Debit Card,Customer_0229,Hyderabad,Professional,29,Smart Watch,Electronics,3499,462.8
+O00685,2026-05-23,C0175,P024,1,0.05,569.05,5,Cash,Customer_0175,Hyderabad,Business,51,Sunscreen,Beauty,599,110.42
+O00686,2026-04-10,C0027,P024,4,0.15,2036.6,4,UPI,Customer_0027,Coimbatore,Business,38,Sunscreen,Beauty,599,566.49
+O00687,2026-04-10,C0132,P030,1,0.0,2999.0,5,Net Banking,Customer_0132,Hyderabad,Professional,19,Travel Bag,Accessories,2999,529.22
+O00688,2026-01-17,C0243,P004,1,0.0,1499.0,4,Net Banking,Customer_0243,Delhi,Professional,19,Power Bank,Electronics,1499,207.34
+O00689,2026-01-28,C0233,P021,3,0.1,1347.3,5,Debit Card,Customer_0233,Bengaluru,Professional,46,Face Wash,Beauty,499,195.81
+O00690,2026-07-15,C0227,P025,4,0.15,5096.6,4,UPI,Customer_0227,Delhi,Student,45,Perfume,Beauty,1499,838.98
+O00691,2026-05-02,C0105,P005,2,0.05,2468.1,3,Cash,Customer_0105,Bengaluru,Student,52,Gaming Mouse,Electronics,1299,460.65
+O00692,2026-07-23,C0160,P011,3,0.05,8547.15,4,Debit Card,Customer_0160,Chennai,Professional,36,Running Shoes,Fashion,2999,1123.52
+O00693,2026-09-03,C0151,P007,1,0.05,1519.05,3,UPI,Customer_0151,Coimbatore,Professional,45,Laptop Stand,Electronics,1599,358.97
+O00694,2026-05-27,C0294,P020,4,0.0,17996.0,4,Debit Card,Customer_0294,Chennai,Business,35,Coffee Maker,Home Appliances,4499,2348.45
+O00695,2026-02-24,C0293,P008,4,0.05,8736.2,4,Credit Card,Customer_0293,Coimbatore,Business,54,USB-C Hub,Electronics,2299,1911.45
+O00696,2026-06-07,C0173,P020,3,0.05,12822.15,3,Net Banking,Customer_0173,Hyderabad,Business,18,Coffee Maker,Home Appliances,4499,1866.73
+O00697,2026-08-07,C0289,P004,1,0.15,1274.15,5,UPI,Customer_0289,Mumbai,Professional,50,Power Bank,Electronics,1499,343.99
+O00698,2026-03-16,C0121,P021,1,0.1,449.1,3,Net Banking,Customer_0121,Pune,Student,34,Face Wash,Beauty,499,98.83
+O00699,2026-05-05,C0019,P009,3,0.1,8097.3,3,Credit Card,Customer_0019,Madurai,Student,32,Webcam,Electronics,2999,1228.76
+O00700,2026-01-26,C0218,P023,3,0.0,2397.0,5,Debit Card,Customer_0218,Hyderabad,Professional,24,Moisturizer,Beauty,799,378.18
+O00701,2026-05-05,C0268,P027,4,0.1,896.4,5,Debit Card,Customer_0268,Madurai,Student,33,Pen Set,Stationery,249,199.51
+O00702,2026-06-27,C0077,P029,2,0.1,1618.2,5,Cash,Customer_0077,Pune,Student,33,Table Clock,Home,899,282.93
+O00703,2026-02-13,C0196,P005,1,0.1,1169.1,4,Credit Card,Customer_0196,Madurai,Professional,44,Gaming Mouse,Electronics,1299,338.89
+O00704,2026-07-02,C0032,P011,4,0.1,10796.4,5,Credit Card,Customer_0032,Mumbai,Business,47,Running Shoes,Fashion,2999,1552.74
+O00705,2026-06-23,C0001,P011,3,0.15,7647.45,4,Debit Card,Customer_0001,Bengaluru,Student,35,Running Shoes,Fashion,2999,1621.23
+O00706,2026-07-18,C0163,P014,3,0.15,2037.45,5,Credit Card,Customer_0163,Delhi,Business,31,T-Shirt,Fashion,799,435.54
+O00707,2026-06-15,C0028,P024,1,0.1,539.1,5,Credit Card,Customer_0028,Chennai,Student,20,Sunscreen,Beauty,599,75.97
+O00708,2026-08-17,C0155,P016,2,0.1,16198.2,5,UPI,Customer_0155,Mumbai,Professional,43,Office Chair,Furniture,8999,3424.39
+O00709,2026-07-06,C0174,P002,1,0.0,2499.0,5,UPI,Customer_0174,Bengaluru,Professional,32,Bluetooth Speaker,Electronics,2499,486.82
+O00710,2026-07-28,C0185,P019,4,0.05,2656.2,5,Net Banking,Customer_0185,Bengaluru,Business,36,Water Bottle,Home,699,711.88
+O00711,2026-03-08,C0088,P004,4,0.05,5696.2,4,Credit Card,Customer_0088,Delhi,Professional,45,Power Bank,Electronics,1499,1385.39
+O00712,2026-08-17,C0152,P025,3,0.05,4272.15,4,Net Banking,Customer_0152,Bengaluru,Business,39,Perfume,Beauty,1499,656.71
+O00713,2026-01-24,C0240,P014,4,0.1,2876.4,4,Credit Card,Customer_0240,Coimbatore,Student,33,T-Shirt,Fashion,799,832.18
+O00714,2026-08-06,C0184,P002,2,0.05,4748.1,4,Credit Card,Customer_0184,Coimbatore,Professional,46,Bluetooth Speaker,Electronics,2499,595.4
+O00715,2026-05-25,C0257,P014,2,0.15,1358.3,5,UPI,Customer_0257,Hyderabad,Professional,18,T-Shirt,Fashion,799,267.79
+O00716,2026-02-26,C0102,P023,4,0.05,3036.2,3,Debit Card,Customer_0102,Mumbai,Student,37,Moisturizer,Beauty,799,643.22
+O00717,2026-03-01,C0151,P013,1,0.05,1424.05,5,Debit Card,Customer_0151,Coimbatore,Professional,45,Backpack,Accessories,1499,239.92
+O00718,2026-04-10,C0083,P013,4,0.15,5096.6,5,UPI,Customer_0083,Chennai,Student,33,Backpack,Accessories,1499,901.28
+O00719,2026-06-16,C0252,P021,3,0.0,1497.0,5,Net Banking,Customer_0252,Pune,Student,52,Face Wash,Beauty,499,326.39
+O00720,2026-06-12,C0274,P011,3,0.1,8097.3,5,Net Banking,Customer_0274,Coimbatore,Business,31,Running Shoes,Fashion,2999,1354.87
+O00721,2026-02-14,C0046,P023,4,0.15,2716.6,4,UPI,Customer_0046,Hyderabad,Professional,18,Moisturizer,Beauty,799,800.22
+O00722,2026-05-13,C0008,P013,3,0.15,3822.45,5,Credit Card,Customer_0008,Mumbai,Student,46,Backpack,Accessories,1499,514.43
+O00723,2026-05-13,C0102,P026,4,0.1,716.4,5,Debit Card,Customer_0102,Mumbai,Student,37,Notebook,Stationery,199,145.94
+O00724,2026-05-05,C0067,P012,4,0.0,9996.0,4,Credit Card,Customer_0067,Coimbatore,Student,20,Casual Sneakers,Fashion,2499,2039.27
+O00725,2026-04-23,C0153,P017,2,0.05,14248.1,3,Debit Card,Customer_0153,Pune,Business,25,Study Table,Furniture,7499,3509.7
+O00726,2026-02-24,C0102,P029,2,0.05,1708.1,3,Net Banking,Customer_0102,Mumbai,Student,37,Table Clock,Home,899,278.68
+O00727,2026-07-03,C0147,P020,1,0.05,4274.05,4,Debit Card,Customer_0147,Mumbai,Business,50,Coffee Maker,Home Appliances,4499,515.24
+O00728,2026-07-04,C0242,P010,1,0.15,594.15,5,Cash,Customer_0242,Coimbatore,Business,48,Phone Case,Accessories,699,147.34
+O00729,2026-02-23,C0167,P029,2,0.15,1528.3,2,UPI,Customer_0167,Madurai,Student,30,Table Clock,Home,899,216.92
+O00730,2026-02-02,C0299,P015,2,0.05,3418.1,5,UPI,Customer_0299,Mumbai,Professional,38,Hoodie,Fashion,1799,910.06
+O00731,2026-08-17,C0233,P025,2,0.0,2998.0,4,Credit Card,Customer_0233,Bengaluru,Professional,46,Perfume,Beauty,1499,676.76
+O00732,2026-05-13,C0207,P015,4,0.0,7196.0,5,Debit Card,Customer_0207,Pune,Professional,42,Hoodie,Fashion,1799,2134.93
+O00733,2026-08-31,C0098,P008,1,0.05,2184.05,4,Cash,Customer_0098,Coimbatore,Business,20,USB-C Hub,Electronics,2299,324.91
+O00734,2026-08-11,C0028,P021,4,0.05,1896.2,4,Cash,Customer_0028,Chennai,Student,20,Face Wash,Beauty,499,306.34
+O00735,2026-06-03,C0098,P019,2,0.05,1328.1,5,Net Banking,Customer_0098,Coimbatore,Business,20,Water Bottle,Home,699,181.53
+O00736,2026-03-09,C0077,P012,2,0.1,4498.2,5,Net Banking,Customer_0077,Pune,Student,33,Casual Sneakers,Fashion,2499,1218.38
+O00737,2026-06-01,C0220,P001,1,0.05,1899.05,4,Credit Card,Customer_0220,Mumbai,Professional,30,Wireless Earbuds,Electronics,1999,237.34
+O00738,2026-01-28,C0241,P005,1,0.05,1234.05,5,Net Banking,Customer_0241,Mumbai,Professional,53,Gaming Mouse,Electronics,1299,248.68
+O00739,2026-06-25,C0206,P024,4,0.05,2276.2,5,Credit Card,Customer_0206,Pune,Student,47,Sunscreen,Beauty,599,605.35
+O00740,2026-05-02,C0025,P016,1,0.0,8999.0,3,Credit Card,Customer_0025,Coimbatore,Student,47,Office Chair,Furniture,8999,2105.77
+O00741,2026-08-19,C0135,P001,1,0.15,1699.15,5,Debit Card,Customer_0135,Madurai,Student,24,Wireless Earbuds,Electronics,1999,322.11
+O00742,2026-08-12,C0260,P012,1,0.15,2124.15,4,Cash,Customer_0260,Hyderabad,Business,49,Casual Sneakers,Fashion,2499,370.8
+O00743,2026-07-22,C0209,P012,4,0.1,8996.4,5,Net Banking,Customer_0209,Bengaluru,Professional,19,Casual Sneakers,Fashion,2499,2399.62
+O00744,2026-01-26,C0091,P026,4,0.05,756.2,4,Credit Card,Customer_0091,Chennai,Business,38,Notebook,Stationery,199,220.93
+O00745,2026-08-21,C0091,P008,1,0.1,2069.1,5,Net Banking,Customer_0091,Chennai,Business,38,USB-C Hub,Electronics,2299,373.92
+O00746,2026-04-15,C0062,P027,3,0.05,709.65,1,UPI,Customer_0062,Delhi,Business,46,Pen Set,Stationery,249,118.76
+O00747,2026-05-28,C0202,P019,1,0.0,699.0,4,Credit Card,Customer_0202,Chennai,Professional,55,Water Bottle,Home,699,108.23
+O00748,2026-06-26,C0158,P022,3,0.15,1782.45,4,Credit Card,Customer_0158,Hyderabad,Business,54,Shampoo,Beauty,699,247.27
+O00749,2026-04-20,C0204,P003,3,0.1,9447.3,5,Cash,Customer_0204,Hyderabad,Professional,29,Smart Watch,Electronics,3499,1718.07
+O00750,2026-05-25,C0180,P005,3,0.1,3507.3,5,Cash,Customer_0180,Mumbai,Business,46,Gaming Mouse,Electronics,1299,531.47
+O00751,2026-07-13,C0161,P019,2,0.15,1188.3,5,Net Banking,Customer_0161,Coimbatore,Professional,55,Water Bottle,Home,699,303.31
+O00752,2026-05-04,C0061,P001,2,0.1,3598.2,5,Cash,Customer_0061,Mumbai,Business,41,Wireless Earbuds,Electronics,1999,686.25
+O00753,2026-03-06,C0281,P008,3,0.1,6207.3,5,Cash,Customer_0281,Delhi,Student,32,USB-C Hub,Electronics,2299,1318.13
+O00754,2026-07-08,C0112,P017,2,0.0,14998.0,5,Cash,Customer_0112,Madurai,Business,24,Study Table,Furniture,7499,3795.79
+O00755,2026-07-20,C0233,P019,2,0.0,1398.0,4,Cash,Customer_0233,Bengaluru,Professional,46,Water Bottle,Home,699,388.81
+O00756,2026-07-21,C0091,P015,3,0.0,5397.0,4,UPI,Customer_0091,Chennai,Business,38,Hoodie,Fashion,1799,676.98
+O00757,2026-07-25,C0027,P020,1,0.05,4274.05,4,Net Banking,Customer_0027,Coimbatore,Business,38,Coffee Maker,Home Appliances,4499,1075.41
+O00758,2026-04-22,C0051,P005,1,0.0,1299.0,4,Debit Card,Customer_0051,Chennai,Business,38,Gaming Mouse,Electronics,1299,337.16
+O00759,2026-01-21,C0244,P004,1,0.15,1274.15,5,Cash,Customer_0244,Bengaluru,Professional,32,Power Bank,Electronics,1499,313.32
+O00760,2026-06-07,C0057,P022,3,0.0,2097.0,5,Credit Card,Customer_0057,Hyderabad,Business,48,Shampoo,Beauty,699,620.47
+O00761,2026-06-13,C0191,P007,4,0.15,5436.6,1,Net Banking,Customer_0191,Mumbai,Professional,52,Laptop Stand,Electronics,1599,1604.61
+O00762,2026-03-15,C0278,P021,2,0.0,998.0,5,Net Banking,Customer_0278,Mumbai,Professional,48,Face Wash,Beauty,499,266.14
+O00763,2026-05-13,C0061,P021,2,0.05,948.1,5,Debit Card,Customer_0061,Mumbai,Business,41,Face Wash,Beauty,499,187.44
+O00764,2026-03-03,C0148,P023,1,0.05,759.05,3,Debit Card,Customer_0148,Bengaluru,Professional,54,Moisturizer,Beauty,799,216.86
+O00765,2026-07-19,C0046,P008,4,0.1,8276.4,5,Cash,Customer_0046,Hyderabad,Professional,18,USB-C Hub,Electronics,2299,2308.3
+O00766,2026-05-31,C0195,P009,2,0.0,5998.0,5,UPI,Customer_0195,Delhi,Student,40,Webcam,Electronics,2999,1678.14
+O00767,2026-08-24,C0172,P027,1,0.1,224.1,5,Net Banking,Customer_0172,Delhi,Professional,33,Pen Set,Stationery,249,27.92
+O00768,2026-08-23,C0241,P011,3,0.1,8097.3,5,Debit Card,Customer_0241,Mumbai,Professional,53,Running Shoes,Fashion,2999,1961.93
+O00769,2026-02-27,C0095,P012,2,0.15,4248.3,5,Net Banking,Customer_0095,Bengaluru,Student,22,Casual Sneakers,Fashion,2499,981.8
+O00770,2026-01-02,C0143,P028,3,0.05,1422.15,4,UPI,Customer_0143,Pune,Student,25,Calculator,Stationery,499,423.5
+O00771,2026-05-24,C0123,P012,1,0.1,2249.1,4,UPI,Customer_0123,Mumbai,Business,18,Casual Sneakers,Fashion,2499,526.77
+O00772,2026-07-25,C0084,P021,3,0.1,1347.3,5,Cash,Customer_0084,Hyderabad,Professional,49,Face Wash,Beauty,499,206.7
+O00773,2026-05-25,C0258,P018,4,0.05,4936.2,5,Cash,Customer_0258,Hyderabad,Professional,20,Desk Lamp,Home,1299,896.64
+O00774,2026-06-24,C0024,P030,4,0.0,11996.0,4,Debit Card,Customer_0024,Bengaluru,Business,28,Travel Bag,Accessories,2999,3157.5
+O00775,2026-01-18,C0195,P008,4,0.05,8736.2,5,Credit Card,Customer_0195,Delhi,Student,40,USB-C Hub,Electronics,2299,1654.84
+O00776,2026-07-24,C0208,P010,3,0.15,1782.45,5,Net Banking,Customer_0208,Madurai,Professional,34,Phone Case,Accessories,699,247.48
+O00777,2026-05-18,C0044,P022,1,0.1,629.1,4,UPI,Customer_0044,Madurai,Business,39,Shampoo,Beauty,699,117.74
+O00778,2026-04-13,C0006,P027,3,0.0,747.0,5,Credit Card,Customer_0006,Coimbatore,Student,50,Pen Set,Stationery,249,168.61
+O00779,2026-05-02,C0056,P015,3,0.1,4857.3,4,Net Banking,Customer_0056,Bengaluru,Business,26,Hoodie,Fashion,1799,1220.42
+O00780,2026-03-10,C0025,P009,2,0.05,5698.1,4,Credit Card,Customer_0025,Coimbatore,Student,47,Webcam,Electronics,2999,1405.55
+O00781,2026-03-02,C0096,P010,2,0.1,1258.2,4,Credit Card,Customer_0096,Bengaluru,Business,33,Phone Case,Accessories,699,278.7
+O00782,2026-08-02,C0047,P015,2,0.1,3238.2,3,UPI,Customer_0047,Madurai,Business,29,Hoodie,Fashion,1799,781.22
+O00783,2026-01-31,C0255,P007,1,0.15,1359.15,5,Net Banking,Customer_0255,Madurai,Student,30,Laptop Stand,Electronics,1599,227.07
+O00784,2026-09-03,C0038,P019,1,0.15,594.15,4,Debit Card,Customer_0038,Delhi,Student,21,Water Bottle,Home,699,127.8
+O00785,2026-05-07,C0180,P013,3,0.15,3822.45,4,Net Banking,Customer_0180,Mumbai,Business,46,Backpack,Accessories,1499,910.02
+O00786,2026-03-13,C0242,P002,4,0.05,9496.2,5,Credit Card,Customer_0242,Coimbatore,Business,48,Bluetooth Speaker,Electronics,2499,1640.33
+O00787,2026-01-14,C0025,P009,4,0.15,10196.6,5,UPI,Customer_0025,Coimbatore,Student,47,Webcam,Electronics,2999,1294.41
+O00788,2026-05-09,C0250,P006,3,0.15,10197.45,5,Credit Card,Customer_0250,Madurai,Professional,34,Mechanical Keyboard,Electronics,3999,2937.96
+O00789,2026-04-28,C0202,P010,1,0.15,594.15,4,UPI,Customer_0202,Chennai,Professional,55,Phone Case,Accessories,699,140.62
+O00790,2026-01-04,C0076,P015,2,0.15,3058.3,5,Debit Card,Customer_0076,Bengaluru,Student,43,Hoodie,Fashion,1799,875.14
+O00791,2026-04-03,C0076,P015,3,0.05,5127.15,5,Credit Card,Customer_0076,Bengaluru,Student,43,Hoodie,Fashion,1799,704.01
+O00792,2026-03-10,C0238,P021,4,0.1,1796.4,4,Cash,Customer_0238,Madurai,Professional,35,Face Wash,Beauty,499,298.21
+O00793,2026-04-19,C0245,P014,2,0.15,1358.3,5,Debit Card,Customer_0245,Mumbai,Business,33,T-Shirt,Fashion,799,195.77
+O00794,2026-04-04,C0181,P010,4,0.1,2516.4,4,Net Banking,Customer_0181,Hyderabad,Business,48,Phone Case,Accessories,699,744.35
+O00795,2026-02-03,C0054,P027,2,0.0,498.0,5,Credit Card,Customer_0054,Chennai,Student,54,Pen Set,Stationery,249,63.19
+O00796,2026-05-23,C0161,P020,4,0.15,15296.6,4,Credit Card,Customer_0161,Coimbatore,Professional,55,Coffee Maker,Home Appliances,4499,4054.67
+O00797,2026-05-02,C0162,P019,1,0.05,664.05,4,Credit Card,Customer_0162,Pune,Professional,46,Water Bottle,Home,699,89.46
+O00798,2026-08-17,C0048,P016,3,0.15,22947.45,4,Net Banking,Customer_0048,Bengaluru,Business,37,Office Chair,Furniture,8999,4117.12
+O00799,2026-08-08,C0116,P003,1,0.15,2974.15,3,Credit Card,Customer_0116,Coimbatore,Business,39,Smart Watch,Electronics,3499,624.25
+O00800,2026-01-16,C0298,P018,2,0.1,2338.2,4,UPI,Customer_0298,Bengaluru,Professional,40,Desk Lamp,Home,1299,559.98
+O00801,2026-04-26,C0138,P012,3,0.1,6747.3,4,Net Banking,Customer_0138,Pune,Professional,32,Casual Sneakers,Fashion,2499,1134.43
+O00802,2026-05-23,C0253,P004,3,0.1,4047.3,1,UPI,Customer_0253,Hyderabad,Student,31,Power Bank,Electronics,1499,949.31
+O00803,2026-03-31,C0242,P029,2,0.05,1708.1,5,Debit Card,Customer_0242,Coimbatore,Business,48,Table Clock,Home,899,317.31
+O00804,2026-04-01,C0162,P011,3,0.15,7647.45,5,Cash,Customer_0162,Pune,Professional,46,Running Shoes,Fashion,2999,1037.33
+O00805,2026-08-16,C0004,P010,1,0.15,594.15,5,Cash,Customer_0004,Bengaluru,Business,45,Phone Case,Accessories,699,158.09
+O00806,2026-06-11,C0263,P004,2,0.05,2848.1,5,Debit Card,Customer_0263,Delhi,Professional,29,Power Bank,Electronics,1499,545.74
+O00807,2026-04-18,C0036,P024,4,0.0,2396.0,3,Debit Card,Customer_0036,Mumbai,Business,43,Sunscreen,Beauty,599,532.21
+O00808,2026-02-28,C0083,P008,3,0.1,6207.3,5,Debit Card,Customer_0083,Chennai,Student,33,USB-C Hub,Electronics,2299,1497.68
+O00809,2026-06-04,C0020,P025,4,0.1,5396.4,5,Debit Card,Customer_0020,Bengaluru,Professional,35,Perfume,Beauty,1499,686.23
+O00810,2026-07-11,C0040,P024,4,0.15,2036.6,4,UPI,Customer_0040,Mumbai,Business,22,Sunscreen,Beauty,599,340.58
+O00811,2026-02-02,C0107,P023,2,0.1,1438.2,5,UPI,Customer_0107,Hyderabad,Professional,22,Moisturizer,Beauty,799,276.62
+O00812,2026-02-23,C0272,P026,2,0.15,338.3,3,UPI,Customer_0272,Mumbai,Professional,54,Notebook,Stationery,199,66.16
+O00813,2026-08-28,C0041,P025,4,0.0,5996.0,2,Cash,Customer_0041,Mumbai,Professional,47,Perfume,Beauty,1499,1017.59
+O00814,2026-05-15,C0236,P024,1,0.0,599.0,4,Credit Card,Customer_0236,Delhi,Professional,29,Sunscreen,Beauty,599,164.13
+O00815,2026-01-22,C0288,P009,4,0.1,10796.4,4,Debit Card,Customer_0288,Delhi,Business,37,Webcam,Electronics,2999,1781.5
+O00816,2026-04-24,C0252,P030,2,0.05,5698.1,5,Credit Card,Customer_0252,Pune,Student,52,Travel Bag,Accessories,2999,1038.33
+O00817,2026-01-08,C0134,P024,1,0.1,539.1,5,Debit Card,Customer_0134,Mumbai,Business,33,Sunscreen,Beauty,599,111.96
+O00818,2026-08-10,C0041,P016,4,0.15,30596.6,5,Net Banking,Customer_0041,Mumbai,Professional,47,Office Chair,Furniture,8999,6790.72
+O00819,2026-08-28,C0255,P011,3,0.15,7647.45,3,Net Banking,Customer_0255,Madurai,Student,30,Running Shoes,Fashion,2999,1100.55
+O00820,2026-02-15,C0138,P009,4,0.15,10196.6,5,Net Banking,Customer_0138,Pune,Professional,32,Webcam,Electronics,2999,1800.3
+O00821,2026-03-21,C0300,P008,3,0.15,5862.45,5,UPI,Customer_0300,Bengaluru,Student,39,USB-C Hub,Electronics,2299,901.7
+O00822,2026-04-24,C0189,P020,3,0.1,12147.3,4,Credit Card,Customer_0189,Mumbai,Business,27,Coffee Maker,Home Appliances,4499,2935.15
+O00823,2026-03-19,C0156,P001,1,0.0,1999.0,5,Credit Card,Customer_0156,Madurai,Business,26,Wireless Earbuds,Electronics,1999,524.59
+O00824,2026-03-30,C0129,P020,3,0.15,11472.45,5,Cash,Customer_0129,Coimbatore,Business,24,Coffee Maker,Home Appliances,4499,2151.83
+O00825,2026-08-31,C0237,P025,4,0.1,5396.4,1,Cash,Customer_0237,Delhi,Student,40,Perfume,Beauty,1499,1191.84
+O00826,2026-07-24,C0078,P013,3,0.05,4272.15,5,Net Banking,Customer_0078,Coimbatore,Student,52,Backpack,Accessories,1499,1216.73
+O00827,2026-04-06,C0215,P017,2,0.15,12748.3,5,Cash,Customer_0215,Bengaluru,Business,31,Study Table,Furniture,7499,1554.19
+O00828,2026-04-12,C0094,P018,2,0.05,2468.1,5,Cash,Customer_0094,Hyderabad,Student,50,Desk Lamp,Home,1299,546.63
+O00829,2026-08-01,C0243,P004,4,0.05,5696.2,4,Cash,Customer_0243,Delhi,Professional,19,Power Bank,Electronics,1499,1249.07
+O00830,2026-06-10,C0213,P002,2,0.1,4498.2,4,Net Banking,Customer_0213,Chennai,Business,27,Bluetooth Speaker,Electronics,2499,1111.32
+O00831,2026-07-27,C0015,P029,3,0.15,2292.45,4,UPI,Customer_0015,Bengaluru,Professional,23,Table Clock,Home,899,319.03
+O00832,2026-02-16,C0150,P028,2,0.1,898.2,3,Cash,Customer_0150,Mumbai,Student,51,Calculator,Stationery,499,131.21
+O00833,2026-06-08,C0251,P001,4,0.1,7196.4,5,Cash,Customer_0251,Coimbatore,Student,30,Wireless Earbuds,Electronics,1999,1930.44
+O00834,2026-02-18,C0043,P018,3,0.0,3897.0,3,Net Banking,Customer_0043,Bengaluru,Business,52,Desk Lamp,Home,1299,1064.11
+O00835,2026-01-06,C0143,P011,2,0.0,5998.0,4,Credit Card,Customer_0143,Pune,Student,25,Running Shoes,Fashion,2999,951.06
+O00836,2026-07-03,C0161,P023,4,0.0,3196.0,4,Credit Card,Customer_0161,Coimbatore,Professional,55,Moisturizer,Beauty,799,784.66
+O00837,2026-01-04,C0166,P025,4,0.05,5696.2,4,Debit Card,Customer_0166,Pune,Student,33,Perfume,Beauty,1499,1525.35
+O00838,2026-07-21,C0009,P019,4,0.1,2516.4,4,UPI,Customer_0009,Madurai,Student,28,Water Bottle,Home,699,713.29
+O00839,2026-03-26,C0102,P010,1,0.05,664.05,2,Cash,Customer_0102,Mumbai,Student,37,Phone Case,Accessories,699,182.52
+O00840,2026-01-19,C0275,P007,4,0.05,6076.2,4,Debit Card,Customer_0275,Madurai,Business,23,Laptop Stand,Electronics,1599,1611.92
+O00841,2026-07-29,C0056,P017,4,0.0,29996.0,3,Credit Card,Customer_0056,Bengaluru,Business,26,Study Table,Furniture,7499,6949.34
+O00842,2026-04-09,C0097,P030,4,0.05,11396.2,5,UPI,Customer_0097,Mumbai,Student,54,Travel Bag,Accessories,2999,2060.45
+O00843,2026-02-20,C0200,P020,4,0.0,17996.0,5,Credit Card,Customer_0200,Mumbai,Business,28,Coffee Maker,Home Appliances,4499,4263.3
+O00844,2026-05-02,C0046,P029,4,0.1,3236.4,5,Credit Card,Customer_0046,Hyderabad,Professional,18,Table Clock,Home,899,788.17
+O00845,2026-06-11,C0119,P026,1,0.0,199.0,4,Debit Card,Customer_0119,Bengaluru,Business,45,Notebook,Stationery,199,46.53
+O00846,2026-02-20,C0244,P021,3,0.0,1497.0,5,Credit Card,Customer_0244,Bengaluru,Professional,32,Face Wash,Beauty,499,182.02
+O00847,2026-09-07,C0066,P002,1,0.05,2374.05,5,Debit Card,Customer_0066,Chennai,Student,21,Bluetooth Speaker,Electronics,2499,673.05
+O00848,2026-01-04,C0282,P003,2,0.1,6298.2,5,Cash,Customer_0282,Madurai,Business,55,Smart Watch,Electronics,3499,1657.62
+O00849,2026-07-22,C0146,P016,2,0.0,17998.0,5,Net Banking,Customer_0146,Mumbai,Professional,38,Office Chair,Furniture,8999,4283.57
+O00850,2026-07-20,C0076,P004,4,0.05,5696.2,4,UPI,Customer_0076,Bengaluru,Student,43,Power Bank,Electronics,1499,719.82
+O00851,2026-03-05,C0230,P010,2,0.15,1188.3,3,Net Banking,Customer_0230,Madurai,Business,52,Phone Case,Accessories,699,191.39
+O00852,2026-03-28,C0140,P017,1,0.0,7499.0,4,Credit Card,Customer_0140,Mumbai,Professional,35,Study Table,Furniture,7499,2056.4
+O00853,2026-06-29,C0111,P013,1,0.05,1424.05,4,Debit Card,Customer_0111,Chennai,Business,53,Backpack,Accessories,1499,202.21
+O00854,2026-05-23,C0169,P024,3,0.15,1527.45,5,UPI,Customer_0169,Coimbatore,Professional,22,Sunscreen,Beauty,599,385.75
+O00855,2026-06-26,C0275,P024,4,0.1,2156.4,5,Debit Card,Customer_0275,Madurai,Business,23,Sunscreen,Beauty,599,437.87
+O00856,2026-08-19,C0043,P003,1,0.15,2974.15,5,Net Banking,Customer_0043,Bengaluru,Business,52,Smart Watch,Electronics,3499,634.48
+O00857,2026-03-17,C0145,P007,4,0.05,6076.2,5,Net Banking,Customer_0145,Madurai,Student,24,Laptop Stand,Electronics,1599,1225.58
+O00858,2026-03-31,C0046,P028,3,0.15,1272.45,4,Net Banking,Customer_0046,Hyderabad,Professional,18,Calculator,Stationery,499,155.95
+O00859,2026-08-23,C0179,P008,2,0.0,4598.0,5,Cash,Customer_0179,Pune,Professional,50,USB-C Hub,Electronics,2299,1249.23
+O00860,2026-03-17,C0261,P012,3,0.1,6747.3,4,Net Banking,Customer_0261,Bengaluru,Student,54,Casual Sneakers,Fashion,2499,1199.76
+O00861,2026-04-08,C0105,P021,2,0.0,998.0,5,Debit Card,Customer_0105,Bengaluru,Student,52,Face Wash,Beauty,499,212.12
+O00862,2026-07-18,C0156,P013,2,0.1,2698.2,5,Net Banking,Customer_0156,Madurai,Business,26,Backpack,Accessories,1499,639.28
+O00863,2026-07-29,C0176,P019,4,0.05,2656.2,5,Cash,Customer_0176,Delhi,Student,53,Water Bottle,Home,699,372.29
+O00864,2026-07-16,C0288,P013,2,0.1,2698.2,4,Debit Card,Customer_0288,Delhi,Business,37,Backpack,Accessories,1499,489.31
+O00865,2026-01-29,C0268,P018,1,0.0,1299.0,2,Credit Card,Customer_0268,Madurai,Student,33,Desk Lamp,Home,1299,267.23
+O00866,2026-02-15,C0207,P022,1,0.05,664.05,3,Credit Card,Customer_0207,Pune,Professional,42,Shampoo,Beauty,699,194.57
+O00867,2026-01-26,C0114,P007,1,0.15,1359.15,5,Net Banking,Customer_0114,Bengaluru,Business,53,Laptop Stand,Electronics,1599,360.67
+O00868,2026-06-09,C0262,P018,3,0.0,3897.0,4,Net Banking,Customer_0262,Madurai,Professional,48,Desk Lamp,Home,1299,477.22
+O00869,2026-07-03,C0230,P023,1,0.0,799.0,5,Credit Card,Customer_0230,Madurai,Business,52,Moisturizer,Beauty,799,183.43
+O00870,2026-06-17,C0044,P006,4,0.0,15996.0,4,UPI,Customer_0044,Madurai,Business,39,Mechanical Keyboard,Electronics,3999,3490.77
+O00871,2026-04-03,C0144,P021,4,0.1,1796.4,5,UPI,Customer_0144,Madurai,Student,55,Face Wash,Beauty,499,275.83
+O00872,2026-07-30,C0260,P030,3,0.0,8997.0,5,Debit Card,Customer_0260,Hyderabad,Business,49,Travel Bag,Accessories,2999,2276.48
+O00873,2026-01-20,C0224,P006,2,0.0,7998.0,3,Credit Card,Customer_0224,Pune,Business,45,Mechanical Keyboard,Electronics,3999,1463.41
+O00874,2026-05-17,C0113,P025,4,0.05,5696.2,4,Credit Card,Customer_0113,Hyderabad,Professional,25,Perfume,Beauty,1499,821.16
+O00875,2026-05-26,C0176,P030,2,0.15,5098.3,5,Net Banking,Customer_0176,Delhi,Student,53,Travel Bag,Accessories,2999,1065.2
+O00876,2026-04-02,C0093,P030,4,0.15,10196.6,5,Credit Card,Customer_0093,Delhi,Business,51,Travel Bag,Accessories,2999,2771.88
+O00877,2026-07-22,C0239,P007,2,0.15,2718.3,4,Credit Card,Customer_0239,Madurai,Business,18,Laptop Stand,Electronics,1599,405.54
+O00878,2026-05-17,C0259,P021,4,0.1,1796.4,5,Net Banking,Customer_0259,Chennai,Business,36,Face Wash,Beauty,499,536.43
+O00879,2026-03-25,C0120,P015,3,0.15,4587.45,5,Cash,Customer_0120,Madurai,Student,18,Hoodie,Fashion,1799,818.57
+O00880,2026-07-31,C0106,P001,3,0.05,5697.15,5,Credit Card,Customer_0106,Coimbatore,Business,34,Wireless Earbuds,Electronics,1999,1331.39
+O00881,2026-04-07,C0177,P028,3,0.1,1347.3,5,Cash,Customer_0177,Coimbatore,Student,47,Calculator,Stationery,499,259.26
+O00882,2026-09-03,C0221,P027,4,0.0,996.0,5,Debit Card,Customer_0221,Bengaluru,Business,33,Pen Set,Stationery,249,282.39
+O00883,2026-06-02,C0264,P014,1,0.05,759.05,5,Debit Card,Customer_0264,Chennai,Professional,48,T-Shirt,Fashion,799,202.76
+O00884,2026-01-02,C0034,P001,3,0.05,5697.15,4,Debit Card,Customer_0034,Coimbatore,Business,53,Wireless Earbuds,Electronics,1999,880.51
+O00885,2026-01-06,C0021,P002,3,0.05,7122.15,3,Cash,Customer_0021,Delhi,Business,41,Bluetooth Speaker,Electronics,2499,1656.28
+O00886,2026-04-02,C0286,P016,2,0.05,17098.1,4,Net Banking,Customer_0286,Chennai,Student,37,Office Chair,Furniture,8999,4369.79
+O00887,2026-03-05,C0226,P005,2,0.1,2338.2,5,UPI,Customer_0226,Pune,Student,44,Gaming Mouse,Electronics,1299,314.51
+O00888,2026-05-27,C0004,P011,4,0.05,11396.2,5,Debit Card,Customer_0004,Bengaluru,Business,45,Running Shoes,Fashion,2999,2427.44
+O00889,2026-07-22,C0152,P016,4,0.05,34196.2,4,Net Banking,Customer_0152,Bengaluru,Business,39,Office Chair,Furniture,8999,8828.54
+O00890,2026-07-29,C0216,P012,1,0.1,2249.1,2,Net Banking,Customer_0216,Delhi,Business,34,Casual Sneakers,Fashion,2499,568.11
+O00891,2026-04-08,C0273,P021,1,0.0,499.0,5,Debit Card,Customer_0273,Chennai,Business,24,Face Wash,Beauty,499,79.25
+O00892,2026-03-31,C0083,P006,4,0.15,13596.6,5,UPI,Customer_0083,Chennai,Student,33,Mechanical Keyboard,Electronics,3999,2556.64
+O00893,2026-08-11,C0027,P011,2,0.0,5998.0,5,Cash,Customer_0027,Coimbatore,Business,38,Running Shoes,Fashion,2999,1202.85
+O00894,2026-01-14,C0029,P010,3,0.0,2097.0,4,Net Banking,Customer_0029,Pune,Professional,35,Phone Case,Accessories,699,353.42
+O00895,2026-02-08,C0114,P002,3,0.05,7122.15,3,Cash,Customer_0114,Bengaluru,Business,53,Bluetooth Speaker,Electronics,2499,951.58
+O00896,2026-09-06,C0210,P023,4,0.0,3196.0,4,Debit Card,Customer_0210,Chennai,Professional,32,Moisturizer,Beauty,799,864.24
+O00897,2026-07-21,C0239,P002,4,0.05,9496.2,3,UPI,Customer_0239,Madurai,Business,18,Bluetooth Speaker,Electronics,2499,1753.38
+O00898,2026-05-02,C0227,P005,1,0.15,1104.15,4,Cash,Customer_0227,Delhi,Student,45,Gaming Mouse,Electronics,1299,177.72
+O00899,2026-05-09,C0244,P015,4,0.05,6836.2,5,Cash,Customer_0244,Bengaluru,Professional,32,Hoodie,Fashion,1799,934.27
+O00900,2026-05-24,C0072,P010,2,0.15,1188.3,4,Net Banking,Customer_0072,Mumbai,Student,24,Phone Case,Accessories,699,240.26
+O00901,2026-02-20,C0257,P018,2,0.05,2468.1,3,Cash,Customer_0257,Hyderabad,Professional,18,Desk Lamp,Home,1299,604.92
+O00902,2026-03-24,C0129,P020,1,0.0,4499.0,5,Cash,Customer_0129,Coimbatore,Business,24,Coffee Maker,Home Appliances,4499,1131.47
+O00903,2026-04-04,C0239,P004,3,0.05,4272.15,4,Net Banking,Customer_0239,Madurai,Business,18,Power Bank,Electronics,1499,1271.94
+O00904,2026-06-17,C0009,P023,1,0.1,719.1,4,Debit Card,Customer_0009,Madurai,Student,28,Moisturizer,Beauty,799,140.25
+O00905,2026-06-07,C0148,P006,4,0.05,15196.2,4,Credit Card,Customer_0148,Bengaluru,Professional,54,Mechanical Keyboard,Electronics,3999,2758.63
+O00906,2026-02-21,C0135,P001,3,0.05,5697.15,5,UPI,Customer_0135,Madurai,Student,24,Wireless Earbuds,Electronics,1999,1409.31
+O00907,2026-01-29,C0174,P028,1,0.05,474.05,5,Credit Card,Customer_0174,Bengaluru,Professional,32,Calculator,Stationery,499,136.0
+O00908,2026-08-11,C0059,P015,3,0.0,5397.0,4,UPI,Customer_0059,Mumbai,Student,52,Hoodie,Fashion,1799,679.22
+O00909,2026-03-20,C0287,P027,4,0.15,846.6,2,Credit Card,Customer_0287,Madurai,Professional,25,Pen Set,Stationery,249,218.21
+O00910,2026-07-09,C0186,P002,2,0.05,4748.1,5,Debit Card,Customer_0186,Coimbatore,Professional,39,Bluetooth Speaker,Electronics,2499,760.18
+O00911,2026-05-21,C0095,P001,4,0.05,7596.2,5,UPI,Customer_0095,Bengaluru,Student,22,Wireless Earbuds,Electronics,1999,1648.43
+O00912,2026-04-07,C0040,P011,1,0.1,2699.1,4,Debit Card,Customer_0040,Mumbai,Business,22,Running Shoes,Fashion,2999,356.67
+O00913,2026-02-21,C0241,P013,3,0.0,4497.0,4,UPI,Customer_0241,Mumbai,Professional,53,Backpack,Accessories,1499,1229.13
+O00914,2026-01-18,C0244,P017,4,0.1,26996.4,5,Debit Card,Customer_0244,Bengaluru,Professional,32,Study Table,Furniture,7499,3313.37
+O00915,2026-08-10,C0161,P020,1,0.0,4499.0,4,Cash,Customer_0161,Coimbatore,Professional,55,Coffee Maker,Home Appliances,4499,1118.13
+O00916,2026-03-01,C0211,P018,4,0.0,5196.0,5,Cash,Customer_0211,Bengaluru,Business,20,Desk Lamp,Home,1299,1390.05
+O00917,2026-08-10,C0132,P019,1,0.05,664.05,4,Cash,Customer_0132,Hyderabad,Professional,19,Water Bottle,Home,699,155.02
+O00918,2026-05-24,C0140,P015,1,0.0,1799.0,4,Net Banking,Customer_0140,Mumbai,Professional,35,Hoodie,Fashion,1799,349.56
+O00919,2026-03-20,C0127,P002,3,0.15,6372.45,4,Credit Card,Customer_0127,Chennai,Professional,41,Bluetooth Speaker,Electronics,2499,1871.27
+O00920,2026-01-05,C0280,P018,3,0.1,3507.3,4,Debit Card,Customer_0280,Madurai,Business,36,Desk Lamp,Home,1299,677.96
+O00921,2026-03-02,C0274,P017,3,0.0,22497.0,5,Cash,Customer_0274,Coimbatore,Business,31,Study Table,Furniture,7499,4570.35
+O00922,2026-08-16,C0152,P030,1,0.1,2699.1,4,Debit Card,Customer_0152,Bengaluru,Business,39,Travel Bag,Accessories,2999,778.2
+O00923,2026-08-18,C0187,P011,4,0.05,11396.2,3,Cash,Customer_0187,Pune,Business,23,Running Shoes,Fashion,2999,3308.62
+O00924,2026-05-14,C0069,P029,2,0.15,1528.3,4,Credit Card,Customer_0069,Coimbatore,Professional,49,Table Clock,Home,899,389.63
+O00925,2026-04-20,C0147,P029,3,0.1,2427.3,4,Credit Card,Customer_0147,Mumbai,Business,50,Table Clock,Home,899,704.08
+O00926,2026-02-22,C0258,P011,2,0.05,5698.1,5,Debit Card,Customer_0258,Hyderabad,Professional,20,Running Shoes,Fashion,2999,1493.3
+O00927,2026-06-26,C0175,P028,2,0.15,848.3,5,Credit Card,Customer_0175,Hyderabad,Business,51,Calculator,Stationery,499,151.14
+O00928,2026-06-17,C0297,P029,2,0.1,1618.2,3,Net Banking,Customer_0297,Mumbai,Business,49,Table Clock,Home,899,251.42
+O00929,2026-08-31,C0106,P017,1,0.05,7124.05,4,Credit Card,Customer_0106,Coimbatore,Business,34,Study Table,Furniture,7499,1554.67
+O00930,2026-07-06,C0274,P007,1,0.1,1439.1,5,Cash,Customer_0274,Coimbatore,Business,31,Laptop Stand,Electronics,1599,412.5
+O00931,2026-09-04,C0232,P021,4,0.1,1796.4,4,Debit Card,Customer_0232,Madurai,Professional,33,Face Wash,Beauty,499,242.43
+O00932,2026-02-08,C0287,P008,2,0.0,4598.0,3,UPI,Customer_0287,Madurai,Professional,25,USB-C Hub,Electronics,2299,734.78
+O00933,2026-07-15,C0079,P015,3,0.05,5127.15,5,Credit Card,Customer_0079,Delhi,Student,45,Hoodie,Fashion,1799,1455.47
+O00934,2026-06-25,C0244,P022,1,0.1,629.1,3,Cash,Customer_0244,Bengaluru,Professional,32,Shampoo,Beauty,699,79.79
+O00935,2026-02-04,C0019,P023,4,0.1,2876.4,4,Cash,Customer_0019,Madurai,Student,32,Moisturizer,Beauty,799,661.5
+O00936,2026-05-06,C0089,P017,4,0.05,28496.2,4,Credit Card,Customer_0089,Delhi,Student,30,Study Table,Furniture,7499,7796.9
+O00937,2026-01-09,C0295,P006,4,0.0,15996.0,5,Cash,Customer_0295,Chennai,Student,48,Mechanical Keyboard,Electronics,3999,3653.84
+O00938,2026-02-26,C0157,P030,2,0.05,5698.1,3,Cash,Customer_0157,Coimbatore,Professional,42,Travel Bag,Accessories,2999,1589.51
+O00939,2026-08-10,C0131,P007,4,0.1,5756.4,5,Credit Card,Customer_0131,Hyderabad,Student,28,Laptop Stand,Electronics,1599,974.33
+O00940,2026-04-20,C0111,P004,4,0.0,5996.0,5,Cash,Customer_0111,Chennai,Business,53,Power Bank,Electronics,1499,1189.7
+O00941,2026-07-04,C0171,P008,3,0.15,5862.45,5,Net Banking,Customer_0171,Coimbatore,Business,42,USB-C Hub,Electronics,2299,906.21
+O00942,2026-06-02,C0165,P021,1,0.0,499.0,4,UPI,Customer_0165,Bengaluru,Professional,50,Face Wash,Beauty,499,147.9
+O00943,2026-08-13,C0170,P009,2,0.15,5098.3,5,UPI,Customer_0170,Delhi,Professional,54,Webcam,Electronics,2999,770.84
+O00944,2026-05-23,C0122,P019,4,0.0,2796.0,4,Cash,Customer_0122,Hyderabad,Business,46,Water Bottle,Home,699,527.86
+O00945,2026-04-12,C0212,P030,3,0.1,8097.3,4,Cash,Customer_0212,Chennai,Student,30,Travel Bag,Accessories,2999,1955.54
+O00946,2026-03-17,C0223,P025,1,0.05,1424.05,4,Cash,Customer_0223,Bengaluru,Business,20,Perfume,Beauty,1499,279.04
+O00947,2026-01-24,C0250,P023,1,0.05,759.05,5,Net Banking,Customer_0250,Madurai,Professional,34,Moisturizer,Beauty,799,100.82
+O00948,2026-02-04,C0182,P007,4,0.15,5436.6,4,UPI,Customer_0182,Delhi,Professional,33,Laptop Stand,Electronics,1599,1181.86
+O00949,2026-02-15,C0244,P026,4,0.05,756.2,5,UPI,Customer_0244,Bengaluru,Professional,32,Notebook,Stationery,199,110.74
+O00950,2026-03-06,C0089,P017,3,0.05,21372.15,5,UPI,Customer_0089,Delhi,Student,30,Study Table,Furniture,7499,2794.89
+O00951,2026-01-24,C0222,P003,1,0.15,2974.15,5,UPI,Customer_0222,Bengaluru,Business,37,Smart Watch,Electronics,3499,545.04
+O00952,2026-05-15,C0037,P028,4,0.05,1896.2,4,Cash,Customer_0037,Pune,Student,26,Calculator,Stationery,499,501.25
+O00953,2026-01-12,C0261,P019,2,0.1,1258.2,5,Credit Card,Customer_0261,Bengaluru,Student,54,Water Bottle,Home,699,373.35
+O00954,2026-02-11,C0177,P017,2,0.05,14248.1,5,UPI,Customer_0177,Coimbatore,Student,47,Study Table,Furniture,7499,3568.22
+O00955,2026-04-18,C0007,P007,3,0.1,4317.3,5,Cash,Customer_0007,Chennai,Business,30,Laptop Stand,Electronics,1599,702.06
+O00956,2026-03-15,C0180,P006,2,0.0,7998.0,5,Credit Card,Customer_0180,Mumbai,Business,46,Mechanical Keyboard,Electronics,3999,1839.73
+O00957,2026-01-01,C0180,P022,3,0.0,2097.0,4,Cash,Customer_0180,Mumbai,Business,46,Shampoo,Beauty,699,275.87
+O00958,2026-05-20,C0109,P003,1,0.15,2974.15,4,Net Banking,Customer_0109,Hyderabad,Professional,52,Smart Watch,Electronics,3499,570.63
+O00959,2026-06-18,C0261,P003,4,0.15,11896.6,4,UPI,Customer_0261,Bengaluru,Student,54,Smart Watch,Electronics,3499,3288.83
+O00960,2026-06-03,C0013,P011,1,0.05,2849.05,5,Debit Card,Customer_0013,Bengaluru,Professional,40,Running Shoes,Fashion,2999,410.35
+O00961,2026-06-08,C0077,P021,2,0.0,998.0,4,UPI,Customer_0077,Pune,Student,33,Face Wash,Beauty,499,141.33
+O00962,2026-06-17,C0207,P001,3,0.0,5997.0,3,UPI,Customer_0207,Pune,Professional,42,Wireless Earbuds,Electronics,1999,1132.82
+O00963,2026-06-20,C0082,P025,3,0.1,4047.3,5,UPI,Customer_0082,Bengaluru,Student,52,Perfume,Beauty,1499,999.65
+O00964,2026-01-28,C0261,P002,4,0.05,9496.2,4,Debit Card,Customer_0261,Bengaluru,Student,54,Bluetooth Speaker,Electronics,2499,1415.09
+O00965,2026-06-06,C0079,P016,2,0.15,15298.3,5,Debit Card,Customer_0079,Delhi,Student,45,Office Chair,Furniture,8999,3732.62
+O00966,2026-08-27,C0061,P009,1,0.0,2999.0,5,Debit Card,Customer_0061,Mumbai,Business,41,Webcam,Electronics,2999,371.16
+O00967,2026-04-05,C0220,P003,4,0.0,13996.0,5,Net Banking,Customer_0220,Mumbai,Professional,30,Smart Watch,Electronics,3499,2071.72
+O00968,2026-01-17,C0223,P030,3,0.15,7647.45,3,Debit Card,Customer_0223,Bengaluru,Business,20,Travel Bag,Accessories,2999,1024.94
+O00969,2026-03-26,C0140,P010,4,0.05,2656.2,5,Net Banking,Customer_0140,Mumbai,Professional,35,Phone Case,Accessories,699,423.58
+O00970,2026-01-15,C0007,P030,1,0.0,2999.0,4,Net Banking,Customer_0007,Chennai,Business,30,Travel Bag,Accessories,2999,505.35
+O00971,2026-08-28,C0167,P011,3,0.15,7647.45,5,Debit Card,Customer_0167,Madurai,Student,30,Running Shoes,Fashion,2999,1345.65
+O00972,2026-03-08,C0092,P011,3,0.05,8547.15,5,Cash,Customer_0092,Chennai,Student,55,Running Shoes,Fashion,2999,2005.4
+O00973,2026-05-14,C0082,P009,4,0.15,10196.6,5,Net Banking,Customer_0082,Bengaluru,Student,52,Webcam,Electronics,2999,2629.82
+O00974,2026-03-01,C0182,P025,3,0.05,4272.15,1,UPI,Customer_0182,Delhi,Professional,33,Perfume,Beauty,1499,1141.36
+O00975,2026-04-30,C0013,P003,1,0.05,3324.05,5,Cash,Customer_0013,Bengaluru,Professional,40,Smart Watch,Electronics,3499,443.34
+O00976,2026-04-16,C0153,P008,1,0.1,2069.1,4,Credit Card,Customer_0153,Pune,Business,25,USB-C Hub,Electronics,2299,313.99
+O00977,2026-01-03,C0092,P016,2,0.1,16198.2,4,UPI,Customer_0092,Chennai,Student,55,Office Chair,Furniture,8999,1970.11
+O00978,2026-03-20,C0013,P009,3,0.1,8097.3,5,UPI,Customer_0013,Bengaluru,Professional,40,Webcam,Electronics,2999,2414.54
+O00979,2026-06-25,C0293,P005,3,0.1,3507.3,4,Net Banking,Customer_0293,Coimbatore,Business,54,Gaming Mouse,Electronics,1299,551.15
+O00980,2026-06-07,C0094,P007,1,0.05,1519.05,4,Debit Card,Customer_0094,Hyderabad,Student,50,Laptop Stand,Electronics,1599,228.76
+O00981,2026-08-25,C0145,P016,4,0.15,30596.6,5,Credit Card,Customer_0145,Madurai,Student,24,Office Chair,Furniture,8999,3929.7
+O00982,2026-05-04,C0170,P004,2,0.15,2548.3,5,Net Banking,Customer_0170,Delhi,Professional,54,Power Bank,Electronics,1499,607.36
+O00983,2026-08-18,C0068,P022,3,0.15,1782.45,5,Cash,Customer_0068,Pune,Student,50,Shampoo,Beauty,699,413.2
+O00984,2026-08-26,C0226,P010,1,0.1,629.1,5,Debit Card,Customer_0226,Pune,Student,44,Phone Case,Accessories,699,165.07
+O00985,2026-05-23,C0047,P004,1,0.05,1424.05,5,Debit Card,Customer_0047,Madurai,Business,29,Power Bank,Electronics,1499,397.62
+O00986,2026-07-24,C0249,P027,3,0.0,747.0,5,Debit Card,Customer_0249,Pune,Professional,47,Pen Set,Stationery,249,127.92
+O00987,2026-08-04,C0015,P023,1,0.1,719.1,5,Net Banking,Customer_0015,Bengaluru,Professional,23,Moisturizer,Beauty,799,185.0
+O00988,2026-08-04,C0175,P030,2,0.15,5098.3,4,UPI,Customer_0175,Hyderabad,Business,51,Travel Bag,Accessories,2999,1220.69
+O00989,2026-08-10,C0171,P005,3,0.1,3507.3,5,Debit Card,Customer_0171,Coimbatore,Business,42,Gaming Mouse,Electronics,1299,995.5
+O00990,2026-04-16,C0286,P020,1,0.15,3824.15,5,Debit Card,Customer_0286,Chennai,Student,37,Coffee Maker,Home Appliances,4499,674.86
+O00991,2026-04-26,C0140,P020,3,0.05,12822.15,5,Credit Card,Customer_0140,Mumbai,Professional,35,Coffee Maker,Home Appliances,4499,3400.55
+O00992,2026-01-29,C0054,P007,3,0.0,4797.0,5,UPI,Customer_0054,Chennai,Student,54,Laptop Stand,Electronics,1599,1260.15
+O00993,2026-04-24,C0170,P027,1,0.15,211.65,5,Credit Card,Customer_0170,Delhi,Professional,54,Pen Set,Stationery,249,28.74
+O00994,2026-02-18,C0012,P020,3,0.15,11472.45,5,Net Banking,Customer_0012,Bengaluru,Student,42,Coffee Maker,Home Appliances,4499,2082.05
+O00995,2026-03-21,C0056,P002,3,0.05,7122.15,5,UPI,Customer_0056,Bengaluru,Business,26,Bluetooth Speaker,Electronics,2499,1280.8
+O00996,2026-07-30,C0166,P010,2,0.05,1328.1,5,Cash,Customer_0166,Pune,Student,33,Phone Case,Accessories,699,245.95
+O00997,2026-04-10,C0174,P001,1,0.0,1999.0,4,UPI,Customer_0174,Bengaluru,Professional,32,Wireless Earbuds,Electronics,1999,249.19
+O00998,2026-06-25,C0166,P003,1,0.1,3149.1,4,UPI,Customer_0166,Pune,Student,33,Smart Watch,Electronics,3499,880.57
+O00999,2026-01-27,C0185,P028,3,0.0,1497.0,5,Debit Card,Customer_0185,Bengaluru,Business,36,Calculator,Stationery,499,423.34
+O01000,2026-06-13,C0299,P016,2,0.1,16198.2,4,Debit Card,Customer_0299,Mumbai,Professional,38,Office Chair,Furniture,8999,3021.34
+O01001,2026-03-12,C0243,P017,3,0.15,19122.45,5,Debit Card,Customer_0243,Delhi,Professional,19,Study Table,Furniture,7499,5145.0
+O01002,2026-02-08,C0218,P023,2,0.1,1438.2,3,Net Banking,Customer_0218,Hyderabad,Professional,24,Moisturizer,Beauty,799,409.74
+O01003,2026-05-24,C0175,P016,1,0.05,8549.05,5,Net Banking,Customer_0175,Hyderabad,Business,51,Office Chair,Furniture,8999,1565.88
+O01004,2026-03-23,C0277,P006,3,0.05,11397.15,5,Debit Card,Customer_0277,Bengaluru,Student,18,Mechanical Keyboard,Electronics,3999,1680.72
+O01005,2026-05-27,C0270,P024,2,0.05,1138.1,3,Net Banking,Customer_0270,Coimbatore,Business,42,Sunscreen,Beauty,599,205.87
+O01006,2026-08-17,C0228,P017,3,0.15,19122.45,2,UPI,Customer_0228,Pune,Business,47,Study Table,Furniture,7499,4259.46
+O01007,2026-05-01,C0273,P002,1,0.0,2499.0,4,UPI,Customer_0273,Chennai,Business,24,Bluetooth Speaker,Electronics,2499,611.47
+O01008,2026-04-20,C0011,P026,4,0.05,756.2,5,Net Banking,Customer_0011,Hyderabad,Student,39,Notebook,Stationery,199,130.9
+O01009,2026-06-11,C0286,P024,4,0.1,2156.4,4,Credit Card,Customer_0286,Chennai,Student,37,Sunscreen,Beauty,599,501.06
+O01010,2026-07-02,C0107,P017,1,0.15,6374.15,5,UPI,Customer_0107,Hyderabad,Professional,22,Study Table,Furniture,7499,1075.9
+O01011,2026-07-28,C0155,P027,4,0.0,996.0,4,Cash,Customer_0155,Mumbai,Professional,43,Pen Set,Stationery,249,137.08
+O01012,2026-05-01,C0291,P027,2,0.05,473.1,3,Net Banking,Customer_0291,Chennai,Professional,38,Pen Set,Stationery,249,63.33
+O01013,2026-03-08,C0273,P028,3,0.15,1272.45,4,Debit Card,Customer_0273,Chennai,Business,24,Calculator,Stationery,499,334.26
+O01014,2026-07-21,C0278,P008,3,0.15,5862.45,4,UPI,Customer_0278,Mumbai,Professional,48,USB-C Hub,Electronics,2299,820.16
+O01015,2026-05-02,C0191,P028,1,0.1,449.1,4,Credit Card,Customer_0191,Mumbai,Professional,52,Calculator,Stationery,499,99.47
+O01016,2026-03-14,C0028,P007,3,0.05,4557.15,4,Cash,Customer_0028,Chennai,Student,20,Laptop Stand,Electronics,1599,781.62
+O01017,2026-07-29,C0070,P027,1,0.1,224.1,5,UPI,Customer_0070,Coimbatore,Business,26,Pen Set,Stationery,249,35.99
+O01018,2026-07-22,C0013,P009,3,0.15,7647.45,4,Cash,Customer_0013,Bengaluru,Professional,40,Webcam,Electronics,2999,1528.84
+O01019,2026-03-03,C0045,P001,2,0.05,3798.1,5,Cash,Customer_0045,Bengaluru,Professional,45,Wireless Earbuds,Electronics,1999,947.31
+O01020,2026-01-17,C0098,P019,3,0.05,1992.15,5,Net Banking,Customer_0098,Coimbatore,Business,20,Water Bottle,Home,699,251.32
+O01021,2026-04-21,C0270,P020,4,0.1,16196.4,5,Credit Card,Customer_0270,Coimbatore,Business,42,Coffee Maker,Home Appliances,4499,3136.5
+O01022,2026-02-14,C0049,P019,1,0.15,594.15,3,Net Banking,Customer_0049,Coimbatore,Student,41,Water Bottle,Home,699,134.13
+O01023,2026-04-29,C0269,P011,3,0.0,8997.0,5,Credit Card,Customer_0269,Bengaluru,Business,44,Running Shoes,Fashion,2999,1341.17
+O01024,2026-03-20,C0095,P013,4,0.0,5996.0,5,Net Banking,Customer_0095,Bengaluru,Student,22,Backpack,Accessories,1499,1747.42
+O01025,2026-07-17,C0202,P001,4,0.1,7196.4,4,UPI,Customer_0202,Chennai,Professional,55,Wireless Earbuds,Electronics,1999,1279.35
+O01026,2026-01-24,C0093,P025,2,0.05,2848.1,5,UPI,Customer_0093,Delhi,Business,51,Perfume,Beauty,1499,397.85
+O01027,2026-07-13,C0228,P022,2,0.05,1328.1,4,Debit Card,Customer_0228,Pune,Business,47,Shampoo,Beauty,699,219.13
+O01028,2026-04-10,C0058,P029,4,0.05,3416.2,4,Debit Card,Customer_0058,Hyderabad,Professional,51,Table Clock,Home,899,695.34
+O01029,2026-03-18,C0187,P004,3,0.15,3822.45,5,Debit Card,Customer_0187,Pune,Business,23,Power Bank,Electronics,1499,1038.17
+O01030,2026-01-23,C0022,P011,1,0.15,2549.15,5,Debit Card,Customer_0022,Hyderabad,Professional,40,Running Shoes,Fashion,2999,497.25
+O01031,2026-01-16,C0014,P008,3,0.0,6897.0,1,Net Banking,Customer_0014,Madurai,Student,47,USB-C Hub,Electronics,2299,1845.92
+O01032,2026-07-30,C0179,P021,3,0.0,1497.0,5,UPI,Customer_0179,Pune,Professional,50,Face Wash,Beauty,499,422.35
+O01033,2026-03-02,C0255,P022,4,0.15,2376.6,5,Cash,Customer_0255,Madurai,Student,30,Shampoo,Beauty,699,296.27
+O01034,2026-04-14,C0249,P003,4,0.15,11896.6,5,Credit Card,Customer_0249,Pune,Professional,47,Smart Watch,Electronics,3499,1699.52
+O01035,2026-05-02,C0215,P001,2,0.05,3798.1,5,Debit Card,Customer_0215,Bengaluru,Business,31,Wireless Earbuds,Electronics,1999,472.87
+O01036,2026-08-04,C0203,P023,4,0.05,3036.2,4,Credit Card,Customer_0203,Chennai,Student,45,Moisturizer,Beauty,799,553.71
+O01037,2026-02-04,C0079,P008,1,0.0,2299.0,5,Credit Card,Customer_0079,Delhi,Student,45,USB-C Hub,Electronics,2299,531.12
+O01038,2026-07-04,C0079,P030,4,0.15,10196.6,5,Credit Card,Customer_0079,Delhi,Student,45,Travel Bag,Accessories,2999,1271.4
+O01039,2026-01-22,C0082,P024,2,0.15,1018.3,5,Net Banking,Customer_0082,Bengaluru,Student,52,Sunscreen,Beauty,599,133.55
+O01040,2026-08-27,C0091,P019,4,0.05,2656.2,4,Cash,Customer_0091,Chennai,Business,38,Water Bottle,Home,699,410.28
+O01041,2026-05-22,C0294,P022,4,0.15,2376.6,4,Credit Card,Customer_0294,Chennai,Business,35,Shampoo,Beauty,699,352.42
+O01042,2026-04-19,C0037,P002,1,0.15,2124.15,5,Credit Card,Customer_0037,Pune,Student,26,Bluetooth Speaker,Electronics,2499,365.62
+O01043,2026-07-02,C0185,P029,3,0.15,2292.45,5,Net Banking,Customer_0185,Bengaluru,Business,36,Table Clock,Home,899,286.4
+O01044,2026-04-04,C0262,P007,1,0.0,1599.0,5,Debit Card,Customer_0262,Madurai,Professional,48,Laptop Stand,Electronics,1599,282.81
+O01045,2026-01-29,C0297,P007,4,0.0,6396.0,3,Net Banking,Customer_0297,Mumbai,Business,49,Laptop Stand,Electronics,1599,897.57
+O01046,2026-08-08,C0046,P006,3,0.15,10197.45,5,Net Banking,Customer_0046,Hyderabad,Professional,18,Mechanical Keyboard,Electronics,3999,2377.12
+O01047,2026-08-16,C0013,P005,1,0.05,1234.05,4,UPI,Customer_0013,Bengaluru,Professional,40,Gaming Mouse,Electronics,1299,308.42
+O01048,2026-06-25,C0281,P004,3,0.0,4497.0,5,Net Banking,Customer_0281,Delhi,Student,32,Power Bank,Electronics,1499,770.58
+O01049,2026-07-19,C0299,P023,1,0.15,679.15,4,Cash,Customer_0299,Mumbai,Professional,38,Moisturizer,Beauty,799,194.15
+O01050,2026-05-27,C0264,P001,3,0.15,5097.45,4,Debit Card,Customer_0264,Chennai,Professional,48,Wireless Earbuds,Electronics,1999,886.47
+O01051,2026-03-16,C0161,P015,2,0.0,3598.0,5,Net Banking,Customer_0161,Coimbatore,Professional,55,Hoodie,Fashion,1799,567.19
+O01052,2026-07-11,C0082,P008,3,0.1,6207.3,3,Cash,Customer_0082,Bengaluru,Student,52,USB-C Hub,Electronics,2299,1346.95
+O01053,2026-05-29,C0244,P001,2,0.0,3998.0,5,Debit Card,Customer_0244,Bengaluru,Professional,32,Wireless Earbuds,Electronics,1999,530.25
+O01054,2026-07-27,C0018,P017,1,0.1,6749.1,4,Credit Card,Customer_0018,Chennai,Business,32,Study Table,Furniture,7499,1284.4
+O01055,2026-05-10,C0051,P015,1,0.1,1619.1,4,Net Banking,Customer_0051,Chennai,Business,38,Hoodie,Fashion,1799,433.35
+O01056,2026-03-13,C0003,P007,3,0.1,4317.3,1,UPI,Customer_0003,Bengaluru,Business,52,Laptop Stand,Electronics,1599,630.07
+O01057,2026-06-04,C0133,P029,2,0.05,1708.1,5,Debit Card,Customer_0133,Hyderabad,Business,39,Table Clock,Home,899,479.49
+O01058,2026-07-26,C0181,P024,2,0.1,1078.2,5,Credit Card,Customer_0181,Hyderabad,Business,48,Sunscreen,Beauty,599,185.42
+O01059,2026-05-05,C0222,P027,2,0.0,498.0,4,UPI,Customer_0222,Bengaluru,Business,37,Pen Set,Stationery,249,122.69
+O01060,2026-09-05,C0287,P017,2,0.05,14248.1,5,Cash,Customer_0287,Madurai,Professional,25,Study Table,Furniture,7499,3243.24
+O01061,2026-07-17,C0037,P029,4,0.05,3416.2,5,Credit Card,Customer_0037,Pune,Student,26,Table Clock,Home,899,472.69
+O01062,2026-02-23,C0256,P020,3,0.0,13497.0,5,UPI,Customer_0256,Madurai,Student,41,Coffee Maker,Home Appliances,4499,3384.8
+O01063,2026-01-14,C0254,P002,2,0.15,4248.3,4,Debit Card,Customer_0254,Delhi,Professional,55,Bluetooth Speaker,Electronics,2499,533.24
+O01064,2026-05-02,C0278,P009,2,0.15,5098.3,5,Cash,Customer_0278,Mumbai,Professional,48,Webcam,Electronics,2999,1056.6
+O01065,2026-05-02,C0197,P027,3,0.05,709.65,5,Cash,Customer_0197,Coimbatore,Professional,32,Pen Set,Stationery,249,104.84
+O01066,2026-01-04,C0011,P029,3,0.15,2292.45,4,Debit Card,Customer_0011,Hyderabad,Student,39,Table Clock,Home,899,671.23
+O01067,2026-09-04,C0094,P026,1,0.0,199.0,5,Debit Card,Customer_0094,Hyderabad,Student,50,Notebook,Stationery,199,39.06
+O01068,2026-09-02,C0059,P026,4,0.1,716.4,4,Debit Card,Customer_0059,Mumbai,Student,52,Notebook,Stationery,199,195.87
+O01069,2026-07-25,C0292,P008,1,0.1,2069.1,5,Cash,Customer_0292,Madurai,Student,23,USB-C Hub,Electronics,2299,481.72
+O01070,2026-04-29,C0281,P013,2,0.05,2848.1,5,Credit Card,Customer_0281,Delhi,Student,32,Backpack,Accessories,1499,375.6
+O01071,2026-03-22,C0272,P029,1,0.0,899.0,5,UPI,Customer_0272,Mumbai,Professional,54,Table Clock,Home,899,222.9
+O01072,2026-04-16,C0103,P003,1,0.0,3499.0,5,Debit Card,Customer_0103,Delhi,Professional,22,Smart Watch,Electronics,3499,832.34
+O01073,2026-02-26,C0196,P007,3,0.1,4317.3,4,UPI,Customer_0196,Madurai,Professional,44,Laptop Stand,Electronics,1599,1108.95
+O01074,2026-06-08,C0222,P013,1,0.0,1499.0,5,Credit Card,Customer_0222,Bengaluru,Business,37,Backpack,Accessories,1499,326.86
+O01075,2026-09-01,C0075,P022,1,0.0,699.0,3,Net Banking,Customer_0075,Delhi,Business,21,Shampoo,Beauty,699,136.96
+O01076,2026-02-03,C0275,P019,4,0.05,2656.2,5,Credit Card,Customer_0275,Madurai,Business,23,Water Bottle,Home,699,578.6
+O01077,2026-03-06,C0117,P016,3,0.15,22947.45,5,UPI,Customer_0117,Coimbatore,Business,34,Office Chair,Furniture,8999,3158.1
+O01078,2026-06-13,C0167,P005,4,0.1,4676.4,5,Debit Card,Customer_0167,Madurai,Student,30,Gaming Mouse,Electronics,1299,607.25
+O01079,2026-03-07,C0120,P001,2,0.0,3998.0,4,UPI,Customer_0120,Madurai,Student,18,Wireless Earbuds,Electronics,1999,776.74
+O01080,2026-04-08,C0106,P011,4,0.1,10796.4,5,Debit Card,Customer_0106,Coimbatore,Business,34,Running Shoes,Fashion,2999,2812.39
+O01081,2026-09-02,C0050,P026,3,0.05,567.15,4,Cash,Customer_0050,Hyderabad,Business,51,Notebook,Stationery,199,164.15
+O01082,2026-09-08,C0262,P008,2,0.15,3908.3,4,Cash,Customer_0262,Madurai,Professional,48,USB-C Hub,Electronics,2299,531.03
+O01083,2026-01-28,C0086,P022,2,0.15,1188.3,4,UPI,Customer_0086,Chennai,Student,42,Shampoo,Beauty,699,265.19
+O01084,2026-08-22,C0107,P011,4,0.1,10796.4,3,UPI,Customer_0107,Hyderabad,Professional,22,Running Shoes,Fashion,2999,2727.51
+O01085,2026-01-19,C0056,P006,3,0.15,10197.45,1,Cash,Customer_0056,Bengaluru,Business,26,Mechanical Keyboard,Electronics,3999,1696.54
+O01086,2026-02-08,C0098,P029,1,0.0,899.0,5,Debit Card,Customer_0098,Coimbatore,Business,20,Table Clock,Home,899,132.99
+O01087,2026-02-08,C0270,P024,3,0.15,1527.45,5,Net Banking,Customer_0270,Coimbatore,Business,42,Sunscreen,Beauty,599,226.57
+O01088,2026-07-01,C0015,P030,4,0.15,10196.6,4,UPI,Customer_0015,Bengaluru,Professional,23,Travel Bag,Accessories,2999,1759.14
+O01089,2026-05-19,C0249,P020,2,0.0,8998.0,4,Cash,Customer_0249,Pune,Professional,47,Coffee Maker,Home Appliances,4499,2540.16
+O01090,2026-02-01,C0183,P024,3,0.1,1617.3,5,Cash,Customer_0183,Madurai,Business,49,Sunscreen,Beauty,599,340.57
+O01091,2026-01-15,C0271,P014,1,0.1,719.1,5,Debit Card,Customer_0271,Delhi,Professional,37,T-Shirt,Fashion,799,191.72
+O01092,2026-01-21,C0072,P020,4,0.1,16196.4,5,Credit Card,Customer_0072,Mumbai,Student,24,Coffee Maker,Home Appliances,4499,4358.34
+O01093,2026-05-22,C0252,P022,1,0.15,594.15,5,Debit Card,Customer_0252,Pune,Student,52,Shampoo,Beauty,699,95.41
+O01094,2026-06-28,C0079,P009,4,0.0,11996.0,5,Debit Card,Customer_0079,Delhi,Student,45,Webcam,Electronics,2999,1661.88
+O01095,2026-05-05,C0269,P002,1,0.15,2124.15,5,Credit Card,Customer_0269,Bengaluru,Business,44,Bluetooth Speaker,Electronics,2499,280.72
+O01096,2026-01-10,C0211,P026,2,0.0,398.0,5,Net Banking,Customer_0211,Bengaluru,Business,20,Notebook,Stationery,199,96.81
+O01097,2026-03-03,C0087,P026,4,0.15,676.6,3,Net Banking,Customer_0087,Chennai,Professional,34,Notebook,Stationery,199,179.9
+O01098,2026-06-14,C0063,P013,3,0.15,3822.45,5,Cash,Customer_0063,Bengaluru,Student,32,Backpack,Accessories,1499,649.3
+O01099,2026-09-05,C0013,P025,1,0.0,1499.0,4,Debit Card,Customer_0013,Bengaluru,Professional,40,Perfume,Beauty,1499,351.09
+O01100,2026-07-21,C0291,P021,1,0.15,424.15,3,Net Banking,Customer_0291,Chennai,Professional,38,Face Wash,Beauty,499,81.07
+O01101,2026-04-28,C0102,P022,2,0.05,1328.1,5,UPI,Customer_0102,Mumbai,Student,37,Shampoo,Beauty,699,288.54
+O01102,2026-07-08,C0253,P020,2,0.15,7648.3,5,Cash,Customer_0253,Hyderabad,Student,31,Coffee Maker,Home Appliances,4499,1287.72
+O01103,2026-08-21,C0103,P020,1,0.05,4274.05,5,Credit Card,Customer_0103,Delhi,Professional,22,Coffee Maker,Home Appliances,4499,552.77
+O01104,2026-01-04,C0289,P008,2,0.0,4598.0,5,UPI,Customer_0289,Mumbai,Professional,50,USB-C Hub,Electronics,2299,932.05
+O01105,2026-04-27,C0065,P013,2,0.0,2998.0,5,UPI,Customer_0065,Coimbatore,Business,32,Backpack,Accessories,1499,725.72
+O01106,2026-01-30,C0207,P001,4,0.05,7596.2,3,Credit Card,Customer_0207,Pune,Professional,42,Wireless Earbuds,Electronics,1999,1652.0
+O01107,2026-04-20,C0031,P024,3,0.15,1527.45,4,Net Banking,Customer_0031,Pune,Student,49,Sunscreen,Beauty,599,222.26
+O01108,2026-05-20,C0189,P024,2,0.1,1078.2,5,Credit Card,Customer_0189,Mumbai,Business,27,Sunscreen,Beauty,599,252.11
+O01109,2026-07-15,C0001,P003,1,0.05,3324.05,4,UPI,Customer_0001,Bengaluru,Student,35,Smart Watch,Electronics,3499,766.8
+O01110,2026-03-12,C0049,P018,2,0.15,2208.3,4,Debit Card,Customer_0049,Coimbatore,Student,41,Desk Lamp,Home,1299,587.61
+O01111,2026-05-22,C0112,P024,2,0.15,1018.3,4,Net Banking,Customer_0112,Madurai,Business,24,Sunscreen,Beauty,599,140.66
+O01112,2026-01-11,C0222,P022,2,0.0,1398.0,5,Net Banking,Customer_0222,Bengaluru,Business,37,Shampoo,Beauty,699,341.53
+O01113,2026-04-07,C0169,P002,2,0.0,4998.0,5,UPI,Customer_0169,Coimbatore,Professional,22,Bluetooth Speaker,Electronics,2499,696.53
+O01114,2026-01-02,C0167,P010,1,0.05,664.05,5,Net Banking,Customer_0167,Madurai,Student,30,Phone Case,Accessories,699,175.32
+O01115,2026-08-16,C0266,P003,3,0.15,8922.45,5,Cash,Customer_0266,Delhi,Student,54,Smart Watch,Electronics,3499,2586.71
+O01116,2026-06-27,C0264,P018,2,0.05,2468.1,3,Debit Card,Customer_0264,Chennai,Professional,48,Desk Lamp,Home,1299,569.48
+O01117,2026-05-14,C0058,P022,4,0.15,2376.6,4,Credit Card,Customer_0058,Hyderabad,Professional,51,Shampoo,Beauty,699,561.69
+O01118,2026-06-06,C0147,P018,1,0.05,1234.05,5,Net Banking,Customer_0147,Mumbai,Business,50,Desk Lamp,Home,1299,309.36
+O01119,2026-09-01,C0173,P023,1,0.1,719.1,4,UPI,Customer_0173,Hyderabad,Business,18,Moisturizer,Beauty,799,177.6
+O01120,2026-05-23,C0040,P012,2,0.05,4748.1,3,Net Banking,Customer_0040,Mumbai,Business,22,Casual Sneakers,Fashion,2499,570.02
+O01121,2026-09-08,C0159,P001,1,0.1,1799.1,5,Net Banking,Customer_0159,Madurai,Professional,53,Wireless Earbuds,Electronics,1999,409.43
+O01122,2026-05-10,C0021,P005,2,0.15,2208.3,5,Credit Card,Customer_0021,Delhi,Business,41,Gaming Mouse,Electronics,1299,641.16
+O01123,2026-03-12,C0258,P009,1,0.05,2849.05,3,Credit Card,Customer_0258,Hyderabad,Professional,20,Webcam,Electronics,2999,378.03
+O01124,2026-06-25,C0119,P030,4,0.15,10196.6,4,UPI,Customer_0119,Bengaluru,Business,45,Travel Bag,Accessories,2999,1626.15
+O01125,2026-01-14,C0055,P023,3,0.1,2157.3,4,Debit Card,Customer_0055,Bengaluru,Student,49,Moisturizer,Beauty,799,292.23
+O01126,2026-03-27,C0062,P016,4,0.0,35996.0,3,UPI,Customer_0062,Delhi,Business,46,Office Chair,Furniture,8999,10323.25
+O01127,2026-08-25,C0224,P002,2,0.05,4748.1,5,Cash,Customer_0224,Pune,Business,45,Bluetooth Speaker,Electronics,2499,696.44
+O01128,2026-05-12,C0282,P012,1,0.0,2499.0,5,Cash,Customer_0282,Madurai,Business,55,Casual Sneakers,Fashion,2499,738.63
+O01129,2026-06-01,C0015,P012,3,0.15,6372.45,4,Debit Card,Customer_0015,Bengaluru,Professional,23,Casual Sneakers,Fashion,2499,1787.75
+O01130,2026-02-28,C0120,P017,1,0.1,6749.1,4,Credit Card,Customer_0120,Madurai,Student,18,Study Table,Furniture,7499,1328.17
+O01131,2026-07-08,C0055,P004,4,0.05,5696.2,4,Credit Card,Customer_0055,Bengaluru,Student,49,Power Bank,Electronics,1499,1592.69
+O01132,2026-01-19,C0200,P027,4,0.15,846.6,2,Cash,Customer_0200,Mumbai,Business,28,Pen Set,Stationery,249,204.98
+O01133,2026-02-07,C0168,P015,2,0.15,3058.3,4,Debit Card,Customer_0168,Hyderabad,Student,20,Hoodie,Fashion,1799,409.8
+O01134,2026-02-04,C0079,P015,4,0.05,6836.2,5,Debit Card,Customer_0079,Delhi,Student,45,Hoodie,Fashion,1799,1010.49
+O01135,2026-02-21,C0049,P006,3,0.05,11397.15,2,Net Banking,Customer_0049,Coimbatore,Student,41,Mechanical Keyboard,Electronics,3999,2199.22
+O01136,2026-01-16,C0094,P014,3,0.05,2277.15,3,Cash,Customer_0094,Hyderabad,Student,50,T-Shirt,Fashion,799,638.19
+O01137,2026-04-28,C0205,P009,4,0.05,11396.2,5,Credit Card,Customer_0205,Chennai,Professional,42,Webcam,Electronics,2999,2800.52
+O01138,2026-08-15,C0101,P019,3,0.05,1992.15,5,Net Banking,Customer_0101,Pune,Student,34,Water Bottle,Home,699,441.27
+O01139,2026-08-20,C0219,P028,2,0.05,948.1,3,Net Banking,Customer_0219,Chennai,Professional,54,Calculator,Stationery,499,188.05
+O01140,2026-05-06,C0201,P015,2,0.15,3058.3,5,Debit Card,Customer_0201,Delhi,Student,52,Hoodie,Fashion,1799,697.7
+O01141,2026-01-04,C0133,P013,4,0.05,5696.2,4,Cash,Customer_0133,Hyderabad,Business,39,Backpack,Accessories,1499,1657.38
+O01142,2026-05-29,C0163,P030,2,0.05,5698.1,5,UPI,Customer_0163,Delhi,Business,31,Travel Bag,Accessories,2999,1484.41
+O01143,2026-04-17,C0228,P030,1,0.0,2999.0,5,Net Banking,Customer_0228,Pune,Business,47,Travel Bag,Accessories,2999,432.7
+O01144,2026-01-09,C0172,P014,4,0.15,2716.6,4,UPI,Customer_0172,Delhi,Professional,33,T-Shirt,Fashion,799,417.3
+O01145,2026-04-26,C0123,P026,4,0.05,756.2,3,UPI,Customer_0123,Mumbai,Business,18,Notebook,Stationery,199,115.41
+O01146,2026-06-27,C0061,P011,4,0.05,11396.2,3,Debit Card,Customer_0061,Mumbai,Business,41,Running Shoes,Fashion,2999,3097.22
+O01147,2026-03-03,C0249,P018,1,0.0,1299.0,4,Debit Card,Customer_0249,Pune,Professional,47,Desk Lamp,Home,1299,363.94
+O01148,2026-02-11,C0173,P016,4,0.0,35996.0,5,Cash,Customer_0173,Hyderabad,Business,18,Office Chair,Furniture,8999,5731.51
+O01149,2026-07-17,C0044,P025,2,0.15,2548.3,4,Debit Card,Customer_0044,Madurai,Business,39,Perfume,Beauty,1499,499.19
+O01150,2026-06-10,C0264,P024,4,0.0,2396.0,5,UPI,Customer_0264,Chennai,Professional,48,Sunscreen,Beauty,599,493.85
+O01151,2026-04-09,C0240,P022,3,0.0,2097.0,4,Debit Card,Customer_0240,Coimbatore,Student,33,Shampoo,Beauty,699,557.72
+O01152,2026-06-28,C0282,P006,2,0.0,7998.0,5,Debit Card,Customer_0282,Madurai,Business,55,Mechanical Keyboard,Electronics,3999,1820.27
+O01153,2026-07-08,C0230,P009,1,0.1,2699.1,5,UPI,Customer_0230,Madurai,Business,52,Webcam,Electronics,2999,451.11
+O01154,2026-04-09,C0248,P013,3,0.15,3822.45,5,Debit Card,Customer_0248,Pune,Professional,53,Backpack,Accessories,1499,685.12
+O01155,2026-04-04,C0289,P021,2,0.0,998.0,5,Credit Card,Customer_0289,Mumbai,Professional,50,Face Wash,Beauty,499,263.74
+O01156,2026-02-05,C0127,P009,3,0.05,8547.15,5,Cash,Customer_0127,Chennai,Professional,41,Webcam,Electronics,2999,1154.85
+O01157,2026-07-08,C0082,P029,2,0.05,1708.1,4,Debit Card,Customer_0082,Bengaluru,Student,52,Table Clock,Home,899,257.09
+O01158,2026-05-09,C0195,P001,4,0.1,7196.4,2,Debit Card,Customer_0195,Delhi,Student,40,Wireless Earbuds,Electronics,1999,1698.09
+O01159,2026-03-30,C0230,P007,4,0.15,5436.6,4,UPI,Customer_0230,Madurai,Business,52,Laptop Stand,Electronics,1599,913.31
+O01160,2026-05-01,C0035,P012,3,0.15,6372.45,5,UPI,Customer_0035,Madurai,Business,55,Casual Sneakers,Fashion,2499,1237.91
+O01161,2026-02-18,C0263,P001,4,0.0,7996.0,3,Credit Card,Customer_0263,Delhi,Professional,29,Wireless Earbuds,Electronics,1999,2044.34
+O01162,2026-03-15,C0124,P017,1,0.0,7499.0,4,UPI,Customer_0124,Bengaluru,Student,27,Study Table,Furniture,7499,2174.86
+O01163,2026-06-28,C0178,P007,2,0.15,2718.3,3,Credit Card,Customer_0178,Hyderabad,Professional,51,Laptop Stand,Electronics,1599,597.62
+O01164,2026-05-14,C0026,P025,1,0.1,1349.1,4,Net Banking,Customer_0026,Mumbai,Professional,53,Perfume,Beauty,1499,165.99
+O01165,2026-08-27,C0018,P016,2,0.15,15298.3,4,Cash,Customer_0018,Chennai,Business,32,Office Chair,Furniture,8999,1950.01
+O01166,2026-07-08,C0205,P004,1,0.1,1349.1,4,UPI,Customer_0205,Chennai,Professional,42,Power Bank,Electronics,1499,240.56
+O01167,2026-08-12,C0084,P021,2,0.1,898.2,4,Debit Card,Customer_0084,Hyderabad,Professional,49,Face Wash,Beauty,499,198.65
+O01168,2026-06-17,C0283,P005,3,0.15,3312.45,5,Net Banking,Customer_0283,Coimbatore,Professional,25,Gaming Mouse,Electronics,1299,654.15
+O01169,2026-08-04,C0272,P010,4,0.15,2376.6,4,Credit Card,Customer_0272,Mumbai,Professional,54,Phone Case,Accessories,699,397.65
+O01170,2026-08-18,C0112,P025,3,0.05,4272.15,5,Credit Card,Customer_0112,Madurai,Business,24,Perfume,Beauty,1499,699.68
+O01171,2026-05-04,C0155,P026,3,0.1,537.3,5,UPI,Customer_0155,Mumbai,Professional,43,Notebook,Stationery,199,141.89
+O01172,2026-02-07,C0206,P019,3,0.1,1887.3,4,Credit Card,Customer_0206,Pune,Student,47,Water Bottle,Home,699,397.96
+O01173,2026-06-08,C0057,P001,2,0.1,3598.2,4,Credit Card,Customer_0057,Hyderabad,Business,48,Wireless Earbuds,Electronics,1999,607.07
+O01174,2026-08-03,C0163,P029,2,0.05,1708.1,4,UPI,Customer_0163,Delhi,Business,31,Table Clock,Home,899,316.94
+O01175,2026-03-23,C0199,P002,2,0.15,4248.3,4,Credit Card,Customer_0199,Chennai,Professional,39,Bluetooth Speaker,Electronics,2499,967.1
+O01176,2026-02-22,C0221,P018,1,0.1,1169.1,5,Credit Card,Customer_0221,Bengaluru,Business,33,Desk Lamp,Home,1299,196.23
+O01177,2026-04-06,C0093,P022,4,0.05,2656.2,5,UPI,Customer_0093,Delhi,Business,51,Shampoo,Beauty,699,673.52
+O01178,2026-08-24,C0023,P021,1,0.15,424.15,5,Credit Card,Customer_0023,Coimbatore,Business,35,Face Wash,Beauty,499,62.6
+O01179,2026-08-31,C0090,P030,4,0.1,10796.4,3,Net Banking,Customer_0090,Madurai,Student,21,Travel Bag,Accessories,2999,1774.03
+O01180,2026-09-07,C0252,P025,3,0.1,4047.3,4,Debit Card,Customer_0252,Pune,Student,52,Perfume,Beauty,1499,823.74
+O01181,2026-09-06,C0180,P022,2,0.15,1188.3,4,UPI,Customer_0180,Mumbai,Business,46,Shampoo,Beauty,699,303.28
+O01182,2026-07-07,C0271,P022,4,0.0,2796.0,3,Net Banking,Customer_0271,Delhi,Professional,37,Shampoo,Beauty,699,694.43
+O01183,2026-01-30,C0130,P021,3,0.0,1497.0,4,Credit Card,Customer_0130,Pune,Business,44,Face Wash,Beauty,499,268.6
+O01184,2026-04-25,C0132,P019,3,0.0,2097.0,4,Net Banking,Customer_0132,Hyderabad,Professional,19,Water Bottle,Home,699,619.6
+O01185,2026-06-14,C0103,P011,2,0.05,5698.1,5,Debit Card,Customer_0103,Delhi,Professional,22,Running Shoes,Fashion,2999,1057.53
+O01186,2026-02-20,C0028,P002,1,0.0,2499.0,5,Cash,Customer_0028,Chennai,Student,20,Bluetooth Speaker,Electronics,2499,709.45
+O01187,2026-06-23,C0276,P002,1,0.15,2124.15,4,Debit Card,Customer_0276,Hyderabad,Student,29,Bluetooth Speaker,Electronics,2499,628.95
+O01188,2026-06-04,C0207,P026,1,0.1,179.1,4,Cash,Customer_0207,Pune,Professional,42,Notebook,Stationery,199,51.6
+O01189,2026-04-05,C0186,P014,4,0.1,2876.4,1,Debit Card,Customer_0186,Coimbatore,Professional,39,T-Shirt,Fashion,799,822.52
+O01190,2026-03-31,C0140,P010,3,0.15,1782.45,5,UPI,Customer_0140,Mumbai,Professional,35,Phone Case,Accessories,699,508.17
+O01191,2026-02-25,C0228,P010,4,0.15,2376.6,5,Debit Card,Customer_0228,Pune,Business,47,Phone Case,Accessories,699,332.68
+O01192,2026-02-11,C0241,P011,4,0.15,10196.6,3,Net Banking,Customer_0241,Mumbai,Professional,53,Running Shoes,Fashion,2999,2248.27
+O01193,2026-06-03,C0212,P022,1,0.05,664.05,4,Cash,Customer_0212,Chennai,Student,30,Shampoo,Beauty,699,140.8
+O01194,2026-08-11,C0015,P008,3,0.0,6897.0,5,Net Banking,Customer_0015,Bengaluru,Professional,23,USB-C Hub,Electronics,2299,1714.27
+O01195,2026-07-13,C0225,P009,4,0.0,11996.0,1,Debit Card,Customer_0225,Pune,Student,50,Webcam,Electronics,2999,1951.47
+O01196,2026-04-17,C0086,P022,2,0.15,1188.3,5,Credit Card,Customer_0086,Chennai,Student,42,Shampoo,Beauty,699,302.11
+O01197,2026-02-21,C0108,P002,2,0.15,4248.3,4,Cash,Customer_0108,Coimbatore,Professional,36,Bluetooth Speaker,Electronics,2499,1264.03
+O01198,2026-01-11,C0039,P030,3,0.1,8097.3,4,Cash,Customer_0039,Bengaluru,Student,28,Travel Bag,Accessories,2999,1112.14
+O01199,2026-02-27,C0196,P016,1,0.0,8999.0,3,Debit Card,Customer_0196,Madurai,Professional,44,Office Chair,Furniture,8999,2348.17
+O01200,2026-09-02,C0210,P023,4,0.0,3196.0,5,Debit Card,Customer_0210,Chennai,Professional,32,Moisturizer,Beauty,799,581.05
+O01201,2026-04-17,C0273,P011,2,0.15,5098.3,5,Credit Card,Customer_0273,Chennai,Business,24,Running Shoes,Fashion,2999,910.25
+O01202,2026-01-08,C0136,P028,1,0.1,449.1,4,UPI,Customer_0136,Mumbai,Student,48,Calculator,Stationery,499,62.81
+O01203,2026-06-03,C0107,P025,3,0.15,3822.45,5,Debit Card,Customer_0107,Hyderabad,Professional,22,Perfume,Beauty,1499,1099.99
+O01204,2026-06-10,C0071,P006,4,0.0,15996.0,4,Net Banking,Customer_0071,Delhi,Student,48,Mechanical Keyboard,Electronics,3999,2403.38
+O01205,2026-01-05,C0252,P015,3,0.05,5127.15,5,Credit Card,Customer_0252,Pune,Student,52,Hoodie,Fashion,1799,1083.25
+O01206,2026-03-23,C0277,P024,4,0.05,2276.2,4,UPI,Customer_0277,Bengaluru,Student,18,Sunscreen,Beauty,599,626.5
+O01207,2026-03-11,C0150,P008,3,0.15,5862.45,5,Debit Card,Customer_0150,Mumbai,Student,51,USB-C Hub,Electronics,2299,943.77
+O01208,2026-01-13,C0291,P014,3,0.1,2157.3,5,UPI,Customer_0291,Chennai,Professional,38,T-Shirt,Fashion,799,496.87
+O01209,2026-05-12,C0070,P020,2,0.05,8548.1,5,Net Banking,Customer_0070,Coimbatore,Business,26,Coffee Maker,Home Appliances,4499,2427.12
+O01210,2026-07-12,C0100,P003,2,0.1,6298.2,5,Debit Card,Customer_0100,Pune,Professional,31,Smart Watch,Electronics,3499,1564.27
+O01211,2026-03-11,C0115,P001,3,0.0,5997.0,5,Debit Card,Customer_0115,Hyderabad,Professional,36,Wireless Earbuds,Electronics,1999,1780.55
+O01212,2026-07-30,C0019,P014,2,0.0,1598.0,3,Debit Card,Customer_0019,Madurai,Student,32,T-Shirt,Fashion,799,298.23
+O01213,2026-04-06,C0093,P024,4,0.15,2036.6,4,Credit Card,Customer_0093,Delhi,Business,51,Sunscreen,Beauty,599,248.14
+O01214,2026-01-27,C0162,P002,2,0.05,4748.1,4,Credit Card,Customer_0162,Pune,Professional,46,Bluetooth Speaker,Electronics,2499,811.34
+O01215,2026-07-23,C0060,P012,1,0.15,2124.15,4,UPI,Customer_0060,Coimbatore,Business,37,Casual Sneakers,Fashion,2499,501.81
+O01216,2026-01-30,C0180,P005,2,0.0,2598.0,4,Debit Card,Customer_0180,Mumbai,Business,46,Gaming Mouse,Electronics,1299,332.71
+O01217,2026-06-26,C0011,P001,3,0.05,5697.15,5,Net Banking,Customer_0011,Hyderabad,Student,39,Wireless Earbuds,Electronics,1999,923.52
+O01218,2026-05-14,C0249,P016,3,0.05,25647.15,5,UPI,Customer_0249,Pune,Professional,47,Office Chair,Furniture,8999,5568.1
+O01219,2026-07-10,C0012,P029,1,0.05,854.05,3,Credit Card,Customer_0012,Bengaluru,Student,42,Table Clock,Home,899,227.89
+O01220,2026-06-26,C0250,P025,2,0.1,2698.2,3,Credit Card,Customer_0250,Madurai,Professional,34,Perfume,Beauty,1499,499.16
+O01221,2026-01-21,C0064,P019,4,0.0,2796.0,3,Cash,Customer_0064,Bengaluru,Professional,19,Water Bottle,Home,699,498.39
+O01222,2026-07-13,C0001,P018,4,0.0,5196.0,4,UPI,Customer_0001,Bengaluru,Student,35,Desk Lamp,Home,1299,866.38
+O01223,2026-07-23,C0124,P014,1,0.15,679.15,3,Debit Card,Customer_0124,Bengaluru,Student,27,T-Shirt,Fashion,799,199.86
+O01224,2026-01-12,C0154,P021,1,0.1,449.1,5,UPI,Customer_0154,Madurai,Business,37,Face Wash,Beauty,499,76.3
+O01225,2026-07-20,C0295,P025,1,0.05,1424.05,5,Credit Card,Customer_0295,Chennai,Student,48,Perfume,Beauty,1499,327.95
+O01226,2026-02-17,C0272,P019,3,0.0,2097.0,3,Debit Card,Customer_0272,Mumbai,Professional,54,Water Bottle,Home,699,472.98
+O01227,2026-08-31,C0258,P008,3,0.1,6207.3,4,Net Banking,Customer_0258,Hyderabad,Professional,20,USB-C Hub,Electronics,2299,1045.59
+O01228,2026-07-19,C0264,P017,2,0.0,14998.0,3,Net Banking,Customer_0264,Chennai,Professional,48,Study Table,Furniture,7499,2675.5
+O01229,2026-07-15,C0248,P009,1,0.05,2849.05,5,Debit Card,Customer_0248,Pune,Professional,53,Webcam,Electronics,2999,497.9
+O01230,2026-02-13,C0012,P001,1,0.0,1999.0,5,Net Banking,Customer_0012,Bengaluru,Student,42,Wireless Earbuds,Electronics,1999,342.34
+O01231,2026-08-06,C0233,P024,4,0.1,2156.4,5,Credit Card,Customer_0233,Bengaluru,Professional,46,Sunscreen,Beauty,599,628.9
+O01232,2026-04-23,C0024,P019,1,0.05,664.05,5,Cash,Customer_0024,Bengaluru,Business,28,Water Bottle,Home,699,114.94
+O01233,2026-04-19,C0286,P025,2,0.05,2848.1,4,Debit Card,Customer_0286,Chennai,Student,37,Perfume,Beauty,1499,594.53
+O01234,2026-02-01,C0079,P021,4,0.0,1996.0,5,Cash,Customer_0079,Delhi,Student,45,Face Wash,Beauty,499,557.66
+O01235,2026-07-15,C0278,P006,3,0.1,10797.3,5,UPI,Customer_0278,Mumbai,Professional,48,Mechanical Keyboard,Electronics,3999,2664.25
+O01236,2026-01-22,C0274,P008,3,0.15,5862.45,3,Debit Card,Customer_0274,Coimbatore,Business,31,USB-C Hub,Electronics,2299,1278.81
+O01237,2026-04-27,C0040,P017,3,0.15,19122.45,4,Cash,Customer_0040,Mumbai,Business,22,Study Table,Furniture,7499,2895.5
+O01238,2026-03-16,C0023,P020,4,0.05,17096.2,5,Cash,Customer_0023,Coimbatore,Business,35,Coffee Maker,Home Appliances,4499,2377.17
+O01239,2026-08-29,C0008,P002,3,0.05,7122.15,1,Cash,Customer_0008,Mumbai,Student,46,Bluetooth Speaker,Electronics,2499,1699.39
+O01240,2026-06-22,C0181,P004,1,0.15,1274.15,4,UPI,Customer_0181,Hyderabad,Business,48,Power Bank,Electronics,1499,349.81
+O01241,2026-01-31,C0061,P013,2,0.15,2548.3,4,Net Banking,Customer_0061,Mumbai,Business,41,Backpack,Accessories,1499,428.94
+O01242,2026-09-08,C0059,P025,1,0.05,1424.05,3,Credit Card,Customer_0059,Mumbai,Student,52,Perfume,Beauty,1499,413.02
+O01243,2026-03-28,C0281,P010,2,0.15,1188.3,3,Cash,Customer_0281,Delhi,Student,32,Phone Case,Accessories,699,202.55
+O01244,2026-07-05,C0109,P003,4,0.1,12596.4,5,Net Banking,Customer_0109,Hyderabad,Professional,52,Smart Watch,Electronics,3499,2500.5
+O01245,2026-06-01,C0055,P001,3,0.15,5097.45,4,Net Banking,Customer_0055,Bengaluru,Student,49,Wireless Earbuds,Electronics,1999,1025.01
+O01246,2026-09-01,C0027,P013,4,0.15,5096.6,5,Credit Card,Customer_0027,Coimbatore,Business,38,Backpack,Accessories,1499,852.86
+O01247,2026-07-16,C0175,P018,4,0.0,5196.0,3,Cash,Customer_0175,Hyderabad,Business,51,Desk Lamp,Home,1299,1035.86
+O01248,2026-05-08,C0133,P003,2,0.05,6648.1,2,UPI,Customer_0133,Hyderabad,Business,39,Smart Watch,Electronics,3499,1651.79
+O01249,2026-08-01,C0284,P019,1,0.15,594.15,5,Credit Card,Customer_0284,Coimbatore,Business,27,Water Bottle,Home,699,80.89
+O01250,2026-04-08,C0205,P028,3,0.05,1422.15,4,Net Banking,Customer_0205,Chennai,Professional,42,Calculator,Stationery,499,282.39
+O01251,2026-01-25,C0091,P001,1,0.15,1699.15,5,Credit Card,Customer_0091,Chennai,Business,38,Wireless Earbuds,Electronics,1999,285.43
+O01252,2026-03-17,C0003,P025,4,0.15,5096.6,4,Net Banking,Customer_0003,Bengaluru,Business,52,Perfume,Beauty,1499,1233.52
+O01253,2026-03-29,C0233,P012,1,0.0,2499.0,5,UPI,Customer_0233,Bengaluru,Professional,46,Casual Sneakers,Fashion,2499,458.59
+O01254,2026-04-09,C0153,P018,4,0.1,4676.4,5,Cash,Customer_0153,Pune,Business,25,Desk Lamp,Home,1299,1022.82
+O01255,2026-04-28,C0241,P019,1,0.0,699.0,4,Debit Card,Customer_0241,Mumbai,Professional,53,Water Bottle,Home,699,113.64
+O01256,2026-08-15,C0030,P024,2,0.15,1018.3,4,Debit Card,Customer_0030,Bengaluru,Student,54,Sunscreen,Beauty,599,268.83
+O01257,2026-07-03,C0148,P005,4,0.15,4416.6,5,Net Banking,Customer_0148,Bengaluru,Professional,54,Gaming Mouse,Electronics,1299,839.75
+O01258,2026-06-22,C0206,P008,4,0.15,7816.6,4,Credit Card,Customer_0206,Pune,Student,47,USB-C Hub,Electronics,2299,1385.12
+O01259,2026-05-10,C0002,P006,1,0.15,3399.15,4,Net Banking,Customer_0002,Coimbatore,Student,26,Mechanical Keyboard,Electronics,3999,745.66
+O01260,2026-09-06,C0222,P003,4,0.1,12596.4,5,Debit Card,Customer_0222,Bengaluru,Business,37,Smart Watch,Electronics,3499,3592.08
+O01261,2026-03-24,C0077,P023,1,0.0,799.0,5,Credit Card,Customer_0077,Pune,Student,33,Moisturizer,Beauty,799,208.82
+O01262,2026-08-03,C0187,P013,3,0.1,4047.3,5,Net Banking,Customer_0187,Pune,Business,23,Backpack,Accessories,1499,735.21
+O01263,2026-01-07,C0183,P028,3,0.15,1272.45,3,Debit Card,Customer_0183,Madurai,Business,49,Calculator,Stationery,499,220.16
+O01264,2026-04-02,C0148,P017,4,0.1,26996.4,2,Credit Card,Customer_0148,Bengaluru,Professional,54,Study Table,Furniture,7499,6571.16
+O01265,2026-03-05,C0072,P011,2,0.1,5398.2,5,UPI,Customer_0072,Mumbai,Student,24,Running Shoes,Fashion,2999,1423.16
+O01266,2026-08-11,C0294,P005,3,0.0,3897.0,4,UPI,Customer_0294,Chennai,Business,35,Gaming Mouse,Electronics,1299,1029.76
+O01267,2026-05-18,C0054,P020,3,0.0,13497.0,4,Cash,Customer_0054,Chennai,Student,54,Coffee Maker,Home Appliances,4499,3488.86
+O01268,2026-05-26,C0079,P006,4,0.1,14396.4,2,Cash,Customer_0079,Delhi,Student,45,Mechanical Keyboard,Electronics,3999,2593.08
+O01269,2026-05-31,C0017,P018,1,0.1,1169.1,4,Cash,Customer_0017,Coimbatore,Business,22,Desk Lamp,Home,1299,257.95
+O01270,2026-03-24,C0219,P001,1,0.15,1699.15,3,Credit Card,Customer_0219,Chennai,Professional,54,Wireless Earbuds,Electronics,1999,362.34
+O01271,2026-03-28,C0090,P028,4,0.1,1796.4,4,Debit Card,Customer_0090,Madurai,Student,21,Calculator,Stationery,499,394.99
+O01272,2026-04-04,C0032,P004,4,0.05,5696.2,4,UPI,Customer_0032,Mumbai,Business,47,Power Bank,Electronics,1499,1468.47
+O01273,2026-08-04,C0213,P003,2,0.1,6298.2,4,Debit Card,Customer_0213,Chennai,Business,27,Smart Watch,Electronics,3499,1481.71
+O01274,2026-05-27,C0207,P010,4,0.05,2656.2,5,UPI,Customer_0207,Pune,Professional,42,Phone Case,Accessories,699,593.2
+O01275,2026-07-03,C0043,P005,1,0.1,1169.1,4,Net Banking,Customer_0043,Bengaluru,Business,52,Gaming Mouse,Electronics,1299,341.3
+O01276,2026-07-25,C0025,P007,4,0.15,5436.6,4,UPI,Customer_0025,Coimbatore,Student,47,Laptop Stand,Electronics,1599,1466.57
+O01277,2026-06-16,C0041,P006,3,0.1,10797.3,4,Net Banking,Customer_0041,Mumbai,Professional,47,Mechanical Keyboard,Electronics,3999,1734.94
+O01278,2026-03-22,C0158,P004,2,0.15,2548.3,4,Net Banking,Customer_0158,Hyderabad,Business,54,Power Bank,Electronics,1499,619.66
+O01279,2026-05-12,C0133,P030,4,0.05,11396.2,5,Net Banking,Customer_0133,Hyderabad,Business,39,Travel Bag,Accessories,2999,2600.16
+O01280,2026-08-09,C0233,P030,2,0.15,5098.3,4,Cash,Customer_0233,Bengaluru,Professional,46,Travel Bag,Accessories,2999,1516.81
+O01281,2026-03-10,C0030,P002,4,0.0,9996.0,5,Debit Card,Customer_0030,Bengaluru,Student,54,Bluetooth Speaker,Electronics,2499,2270.5
+O01282,2026-04-29,C0182,P014,2,0.05,1518.1,3,Debit Card,Customer_0182,Delhi,Professional,33,T-Shirt,Fashion,799,242.14
+O01283,2026-08-05,C0064,P002,4,0.15,8496.6,4,UPI,Customer_0064,Bengaluru,Professional,19,Bluetooth Speaker,Electronics,2499,1746.42
+O01284,2026-06-12,C0120,P016,2,0.15,15298.3,4,Debit Card,Customer_0120,Madurai,Student,18,Office Chair,Furniture,8999,2051.1
+O01285,2026-06-15,C0200,P012,2,0.1,4498.2,5,Credit Card,Customer_0200,Mumbai,Business,28,Casual Sneakers,Fashion,2499,554.18
+O01286,2026-04-14,C0214,P021,2,0.0,998.0,3,UPI,Customer_0214,Coimbatore,Student,48,Face Wash,Beauty,499,197.56
+O01287,2026-03-04,C0150,P014,3,0.15,2037.45,4,Cash,Customer_0150,Mumbai,Student,51,T-Shirt,Fashion,799,259.7
+O01288,2026-04-19,C0045,P028,1,0.05,474.05,3,Credit Card,Customer_0045,Bengaluru,Professional,45,Calculator,Stationery,499,68.52
+O01289,2026-01-08,C0192,P021,3,0.1,1347.3,5,Credit Card,Customer_0192,Delhi,Professional,21,Face Wash,Beauty,499,167.96
+O01290,2026-06-14,C0230,P020,1,0.15,3824.15,5,UPI,Customer_0230,Madurai,Business,52,Coffee Maker,Home Appliances,4499,961.33
+O01291,2026-08-09,C0058,P002,1,0.1,2249.1,5,UPI,Customer_0058,Hyderabad,Professional,51,Bluetooth Speaker,Electronics,2499,554.84
+O01292,2026-08-19,C0037,P026,4,0.1,716.4,5,UPI,Customer_0037,Pune,Student,26,Notebook,Stationery,199,98.73
+O01293,2026-04-12,C0099,P028,2,0.05,948.1,3,Net Banking,Customer_0099,Bengaluru,Professional,55,Calculator,Stationery,499,145.37
+O01294,2026-08-27,C0069,P012,1,0.1,2249.1,4,UPI,Customer_0069,Coimbatore,Professional,49,Casual Sneakers,Fashion,2499,334.99
+O01295,2026-03-02,C0059,P008,1,0.1,2069.1,4,Net Banking,Customer_0059,Mumbai,Student,52,USB-C Hub,Electronics,2299,281.51
+O01296,2026-07-08,C0024,P010,4,0.05,2656.2,5,Credit Card,Customer_0024,Bengaluru,Business,28,Phone Case,Accessories,699,488.21
+O01297,2026-02-06,C0147,P001,1,0.05,1899.05,4,Debit Card,Customer_0147,Mumbai,Business,50,Wireless Earbuds,Electronics,1999,288.13
+O01298,2026-04-23,C0253,P023,4,0.1,2876.4,5,UPI,Customer_0253,Hyderabad,Student,31,Moisturizer,Beauty,799,419.08
+O01299,2026-05-06,C0230,P016,3,0.0,26997.0,4,Cash,Customer_0230,Madurai,Business,52,Office Chair,Furniture,8999,7061.97
+O01300,2026-05-02,C0176,P023,2,0.1,1438.2,5,Credit Card,Customer_0176,Delhi,Student,53,Moisturizer,Beauty,799,205.18
+O01301,2026-04-03,C0251,P002,4,0.1,8996.4,5,UPI,Customer_0251,Coimbatore,Student,30,Bluetooth Speaker,Electronics,2499,2045.19
+O01302,2026-06-15,C0043,P026,1,0.0,199.0,5,Credit Card,Customer_0043,Bengaluru,Business,52,Notebook,Stationery,199,59.45
+O01303,2026-03-06,C0080,P001,4,0.1,7196.4,5,Debit Card,Customer_0080,Hyderabad,Professional,47,Wireless Earbuds,Electronics,1999,1356.71
+O01304,2026-08-20,C0294,P006,1,0.05,3799.05,5,Cash,Customer_0294,Chennai,Business,35,Mechanical Keyboard,Electronics,3999,956.63
+O01305,2026-01-03,C0095,P015,4,0.1,6476.4,4,Credit Card,Customer_0095,Bengaluru,Student,22,Hoodie,Fashion,1799,1299.82
+O01306,2026-03-18,C0216,P011,2,0.05,5698.1,5,Debit Card,Customer_0216,Delhi,Business,34,Running Shoes,Fashion,2999,853.05
+O01307,2026-08-14,C0009,P024,4,0.0,2396.0,4,UPI,Customer_0009,Madurai,Student,28,Sunscreen,Beauty,599,597.92
+O01308,2026-07-30,C0028,P028,4,0.15,1696.6,5,Debit Card,Customer_0028,Chennai,Student,20,Calculator,Stationery,499,268.33
+O01309,2026-07-03,C0121,P007,4,0.0,6396.0,5,Debit Card,Customer_0121,Pune,Student,34,Laptop Stand,Electronics,1599,1214.59
+O01310,2026-05-10,C0155,P016,1,0.1,8099.1,4,Net Banking,Customer_0155,Mumbai,Professional,43,Office Chair,Furniture,8999,1017.22
+O01311,2026-07-08,C0169,P029,3,0.15,2292.45,5,UPI,Customer_0169,Coimbatore,Professional,22,Table Clock,Home,899,544.58
+O01312,2026-06-14,C0199,P015,2,0.15,3058.3,5,Credit Card,Customer_0199,Chennai,Professional,39,Hoodie,Fashion,1799,678.83
+O01313,2026-01-01,C0100,P030,4,0.05,11396.2,5,Debit Card,Customer_0100,Pune,Professional,31,Travel Bag,Accessories,2999,2436.35
+O01314,2026-05-28,C0070,P002,1,0.0,2499.0,3,Net Banking,Customer_0070,Coimbatore,Business,26,Bluetooth Speaker,Electronics,2499,531.1
+O01315,2026-07-02,C0085,P015,2,0.15,3058.3,5,Debit Card,Customer_0085,Delhi,Student,43,Hoodie,Fashion,1799,731.66
+O01316,2026-04-26,C0120,P023,4,0.05,3036.2,4,Net Banking,Customer_0120,Madurai,Student,18,Moisturizer,Beauty,799,783.85
+O01317,2026-07-31,C0196,P024,3,0.1,1617.3,4,Cash,Customer_0196,Madurai,Professional,44,Sunscreen,Beauty,599,423.84
+O01318,2026-04-05,C0097,P029,2,0.15,1528.3,5,Net Banking,Customer_0097,Mumbai,Student,54,Table Clock,Home,899,439.35
+O01319,2026-02-27,C0217,P019,1,0.0,699.0,5,Net Banking,Customer_0217,Pune,Student,25,Water Bottle,Home,699,111.49
+O01320,2026-06-10,C0112,P019,2,0.0,1398.0,5,Credit Card,Customer_0112,Madurai,Business,24,Water Bottle,Home,699,360.09
+O01321,2026-03-09,C0014,P008,2,0.0,4598.0,4,Cash,Customer_0014,Madurai,Student,47,USB-C Hub,Electronics,2299,568.12
+O01322,2026-06-03,C0200,P005,3,0.05,3702.15,3,Debit Card,Customer_0200,Mumbai,Business,28,Gaming Mouse,Electronics,1299,812.69
+O01323,2026-02-13,C0262,P026,1,0.0,199.0,5,Cash,Customer_0262,Madurai,Professional,48,Notebook,Stationery,199,24.11
+O01324,2026-07-17,C0098,P001,4,0.15,6796.6,3,Credit Card,Customer_0098,Coimbatore,Business,20,Wireless Earbuds,Electronics,1999,1959.51
+O01325,2026-02-18,C0126,P006,3,0.1,10797.3,5,Cash,Customer_0126,Hyderabad,Professional,26,Mechanical Keyboard,Electronics,3999,2052.38
+O01326,2026-02-03,C0007,P027,4,0.05,946.2,5,Debit Card,Customer_0007,Chennai,Business,30,Pen Set,Stationery,249,248.25
+O01327,2026-07-06,C0238,P023,2,0.15,1358.3,4,Credit Card,Customer_0238,Madurai,Professional,35,Moisturizer,Beauty,799,220.57
+O01328,2026-01-08,C0288,P017,3,0.1,20247.3,4,Cash,Customer_0288,Delhi,Business,37,Study Table,Furniture,7499,5751.72
+O01329,2026-08-21,C0024,P009,2,0.1,5398.2,5,Cash,Customer_0024,Bengaluru,Business,28,Webcam,Electronics,2999,935.27
+O01330,2026-01-22,C0170,P029,1,0.15,764.15,3,Debit Card,Customer_0170,Delhi,Professional,54,Table Clock,Home,899,120.36
+O01331,2026-09-07,C0121,P004,4,0.05,5696.2,5,Cash,Customer_0121,Pune,Student,34,Power Bank,Electronics,1499,1606.78
+O01332,2026-07-08,C0152,P028,3,0.0,1497.0,3,UPI,Customer_0152,Bengaluru,Business,39,Calculator,Stationery,499,281.07
+O01333,2026-01-14,C0142,P005,3,0.05,3702.15,4,Debit Card,Customer_0142,Mumbai,Business,52,Gaming Mouse,Electronics,1299,923.88
+O01334,2026-06-05,C0281,P023,1,0.0,799.0,4,Net Banking,Customer_0281,Delhi,Student,32,Moisturizer,Beauty,799,123.59
+O01335,2026-04-08,C0032,P012,3,0.15,6372.45,5,Credit Card,Customer_0032,Mumbai,Business,47,Casual Sneakers,Fashion,2499,1308.13
+O01336,2026-09-05,C0057,P018,1,0.05,1234.05,4,Net Banking,Customer_0057,Hyderabad,Business,48,Desk Lamp,Home,1299,175.7
+O01337,2026-05-07,C0087,P030,3,0.15,7647.45,3,Debit Card,Customer_0087,Chennai,Professional,34,Travel Bag,Accessories,2999,1414.73
+O01338,2026-07-01,C0128,P005,4,0.05,4936.2,4,Debit Card,Customer_0128,Chennai,Professional,31,Gaming Mouse,Electronics,1299,1280.63
+O01339,2026-01-12,C0055,P022,2,0.15,1188.3,5,Debit Card,Customer_0055,Bengaluru,Student,49,Shampoo,Beauty,699,210.62
+O01340,2026-07-11,C0297,P002,3,0.15,6372.45,4,Debit Card,Customer_0297,Mumbai,Business,49,Bluetooth Speaker,Electronics,2499,1751.26
+O01341,2026-06-06,C0281,P015,3,0.1,4857.3,4,Credit Card,Customer_0281,Delhi,Student,32,Hoodie,Fashion,1799,1309.59
+O01342,2026-03-22,C0273,P010,4,0.05,2656.2,5,Cash,Customer_0273,Chennai,Business,24,Phone Case,Accessories,699,571.88
+O01343,2026-01-14,C0166,P010,2,0.05,1328.1,2,Credit Card,Customer_0166,Pune,Student,33,Phone Case,Accessories,699,357.73
+O01344,2026-01-10,C0248,P026,4,0.1,716.4,4,Cash,Customer_0248,Pune,Professional,53,Notebook,Stationery,199,90.79
+O01345,2026-04-22,C0164,P029,1,0.15,764.15,2,Debit Card,Customer_0164,Delhi,Business,28,Table Clock,Home,899,200.01
+O01346,2026-07-01,C0283,P018,4,0.15,4416.6,4,Credit Card,Customer_0283,Coimbatore,Professional,25,Desk Lamp,Home,1299,780.41
+O01347,2026-02-01,C0056,P026,3,0.0,597.0,4,Debit Card,Customer_0056,Bengaluru,Business,26,Notebook,Stationery,199,151.85
+O01348,2026-02-16,C0155,P025,2,0.1,2698.2,5,Net Banking,Customer_0155,Mumbai,Professional,43,Perfume,Beauty,1499,738.33
+O01349,2026-02-24,C0059,P029,1,0.05,854.05,4,UPI,Customer_0059,Mumbai,Student,52,Table Clock,Home,899,127.19
+O01350,2026-03-05,C0038,P030,4,0.0,11996.0,5,UPI,Customer_0038,Delhi,Student,21,Travel Bag,Accessories,2999,2554.02
+O01351,2026-03-14,C0299,P012,1,0.15,2124.15,4,UPI,Customer_0299,Mumbai,Professional,38,Casual Sneakers,Fashion,2499,404.52
+O01352,2026-08-03,C0195,P008,3,0.05,6552.15,2,Cash,Customer_0195,Delhi,Student,40,USB-C Hub,Electronics,2299,1389.58
+O01353,2026-08-01,C0051,P005,4,0.15,4416.6,5,Debit Card,Customer_0051,Chennai,Business,38,Gaming Mouse,Electronics,1299,1264.62
+O01354,2026-06-02,C0189,P012,1,0.1,2249.1,5,Net Banking,Customer_0189,Mumbai,Business,27,Casual Sneakers,Fashion,2499,607.45
+O01355,2026-09-01,C0290,P003,4,0.1,12596.4,5,Net Banking,Customer_0290,Delhi,Professional,23,Smart Watch,Electronics,3499,2309.07
+O01356,2026-02-03,C0110,P009,2,0.0,5998.0,5,Debit Card,Customer_0110,Madurai,Business,51,Webcam,Electronics,2999,727.9
+O01357,2026-03-24,C0043,P006,1,0.0,3999.0,5,Net Banking,Customer_0043,Bengaluru,Business,52,Mechanical Keyboard,Electronics,3999,1085.01
+O01358,2026-04-08,C0233,P007,1,0.15,1359.15,4,Credit Card,Customer_0233,Bengaluru,Professional,46,Laptop Stand,Electronics,1599,222.38
+O01359,2026-09-05,C0083,P001,4,0.0,7996.0,2,Credit Card,Customer_0083,Chennai,Student,33,Wireless Earbuds,Electronics,1999,1859.74
+O01360,2026-02-11,C0069,P026,4,0.15,676.6,4,Credit Card,Customer_0069,Coimbatore,Professional,49,Notebook,Stationery,199,178.83
+O01361,2026-01-31,C0037,P025,3,0.15,3822.45,5,Debit Card,Customer_0037,Pune,Student,26,Perfume,Beauty,1499,526.29
+O01362,2026-08-20,C0154,P025,2,0.1,2698.2,5,Debit Card,Customer_0154,Madurai,Business,37,Perfume,Beauty,1499,708.37
+O01363,2026-05-12,C0299,P008,2,0.15,3908.3,4,Cash,Customer_0299,Mumbai,Professional,38,USB-C Hub,Electronics,2299,1168.09
+O01364,2026-05-02,C0282,P002,3,0.15,6372.45,3,Cash,Customer_0282,Madurai,Business,55,Bluetooth Speaker,Electronics,2499,1860.97
+O01365,2026-07-27,C0215,P013,3,0.05,4272.15,4,Cash,Customer_0215,Bengaluru,Business,31,Backpack,Accessories,1499,902.6
+O01366,2026-01-24,C0295,P026,1,0.1,179.1,5,Credit Card,Customer_0295,Chennai,Student,48,Notebook,Stationery,199,32.04
+O01367,2026-06-15,C0124,P003,2,0.15,5948.3,5,Net Banking,Customer_0124,Bengaluru,Student,27,Smart Watch,Electronics,3499,1630.17
+O01368,2026-01-22,C0222,P009,3,0.15,7647.45,4,Cash,Customer_0222,Bengaluru,Business,37,Webcam,Electronics,2999,2227.25
+O01369,2026-03-18,C0226,P030,2,0.05,5698.1,5,Debit Card,Customer_0226,Pune,Student,44,Travel Bag,Accessories,2999,1287.06
+O01370,2026-08-04,C0070,P025,2,0.15,2548.3,4,UPI,Customer_0070,Coimbatore,Business,26,Perfume,Beauty,1499,369.52
+O01371,2026-05-22,C0142,P010,1,0.0,699.0,5,Net Banking,Customer_0142,Mumbai,Business,52,Phone Case,Accessories,699,182.16
+O01372,2026-04-19,C0237,P023,4,0.0,3196.0,4,Net Banking,Customer_0237,Delhi,Student,40,Moisturizer,Beauty,799,875.75
+O01373,2026-07-28,C0100,P009,3,0.1,8097.3,4,UPI,Customer_0100,Pune,Professional,31,Webcam,Electronics,2999,1759.26
+O01374,2026-07-16,C0093,P020,1,0.0,4499.0,5,Cash,Customer_0093,Delhi,Business,51,Coffee Maker,Home Appliances,4499,1284.04
+O01375,2026-02-15,C0140,P002,2,0.15,4248.3,2,Cash,Customer_0140,Mumbai,Professional,35,Bluetooth Speaker,Electronics,2499,903.57
+O01376,2026-08-13,C0178,P018,3,0.1,3507.3,5,Cash,Customer_0178,Hyderabad,Professional,51,Desk Lamp,Home,1299,597.42
+O01377,2026-07-13,C0229,P027,4,0.1,896.4,4,Credit Card,Customer_0229,Hyderabad,Professional,29,Pen Set,Stationery,249,215.37
+O01378,2026-02-24,C0124,P028,2,0.0,998.0,5,Net Banking,Customer_0124,Bengaluru,Student,27,Calculator,Stationery,499,125.57
+O01379,2026-03-08,C0279,P020,1,0.15,3824.15,5,UPI,Customer_0279,Madurai,Student,32,Coffee Maker,Home Appliances,4499,1099.27
+O01380,2026-04-12,C0006,P025,1,0.0,1499.0,4,Cash,Customer_0006,Coimbatore,Student,50,Perfume,Beauty,1499,256.57
+O01381,2026-04-28,C0213,P004,4,0.15,5096.6,4,Net Banking,Customer_0213,Chennai,Business,27,Power Bank,Electronics,1499,935.65
+O01382,2026-04-03,C0262,P016,4,0.1,32396.4,3,Credit Card,Customer_0262,Madurai,Professional,48,Office Chair,Furniture,8999,7321.83
+O01383,2026-01-04,C0102,P014,2,0.0,1598.0,5,Credit Card,Customer_0102,Mumbai,Student,37,T-Shirt,Fashion,799,418.83
+O01384,2026-08-08,C0017,P014,1,0.05,759.05,4,Credit Card,Customer_0017,Coimbatore,Business,22,T-Shirt,Fashion,799,103.59
+O01385,2026-06-16,C0268,P010,2,0.15,1188.3,5,Net Banking,Customer_0268,Madurai,Student,33,Phone Case,Accessories,699,234.6
+O01386,2026-02-18,C0279,P021,1,0.1,449.1,5,Credit Card,Customer_0279,Madurai,Student,32,Face Wash,Beauty,499,87.45
+O01387,2026-05-02,C0012,P025,4,0.0,5996.0,3,Credit Card,Customer_0012,Bengaluru,Student,42,Perfume,Beauty,1499,947.54
+O01388,2026-07-09,C0254,P011,4,0.15,10196.6,4,Cash,Customer_0254,Delhi,Professional,55,Running Shoes,Fashion,2999,1513.72
+O01389,2026-05-30,C0195,P004,2,0.05,2848.1,4,Cash,Customer_0195,Delhi,Student,40,Power Bank,Electronics,1499,545.24
+O01390,2026-01-14,C0182,P009,3,0.0,8997.0,3,Cash,Customer_0182,Delhi,Professional,33,Webcam,Electronics,2999,2235.49
+O01391,2026-09-08,C0051,P012,4,0.15,8496.6,5,Net Banking,Customer_0051,Chennai,Business,38,Casual Sneakers,Fashion,2499,1495.82
+O01392,2026-07-07,C0202,P017,3,0.0,22497.0,4,Cash,Customer_0202,Chennai,Professional,55,Study Table,Furniture,7499,5484.17
+O01393,2026-05-12,C0096,P023,4,0.05,3036.2,5,Net Banking,Customer_0096,Bengaluru,Business,33,Moisturizer,Beauty,799,429.2
+O01394,2026-01-05,C0001,P028,4,0.1,1796.4,5,Debit Card,Customer_0001,Bengaluru,Student,35,Calculator,Stationery,499,380.43
+O01395,2026-08-17,C0062,P005,4,0.15,4416.6,3,Net Banking,Customer_0062,Delhi,Business,46,Gaming Mouse,Electronics,1299,778.14
+O01396,2026-08-29,C0060,P013,3,0.15,3822.45,5,UPI,Customer_0060,Coimbatore,Business,37,Backpack,Accessories,1499,667.6
+O01397,2026-02-11,C0135,P025,3,0.05,4272.15,4,Cash,Customer_0135,Madurai,Student,24,Perfume,Beauty,1499,1175.94
+O01398,2026-03-01,C0096,P015,2,0.1,3238.2,5,Cash,Customer_0096,Bengaluru,Business,33,Hoodie,Fashion,1799,766.94
+O01399,2026-02-03,C0155,P017,3,0.15,19122.45,5,Debit Card,Customer_0155,Mumbai,Professional,43,Study Table,Furniture,7499,4307.61
+O01400,2026-07-23,C0090,P018,4,0.05,4936.2,5,Debit Card,Customer_0090,Madurai,Student,21,Desk Lamp,Home,1299,661.06
+O01401,2026-06-26,C0292,P030,1,0.15,2549.15,3,Credit Card,Customer_0292,Madurai,Student,23,Travel Bag,Accessories,2999,574.98
+O01402,2026-02-10,C0108,P002,4,0.0,9996.0,5,Cash,Customer_0108,Coimbatore,Professional,36,Bluetooth Speaker,Electronics,2499,2823.04
+O01403,2026-03-19,C0022,P023,2,0.05,1518.1,5,UPI,Customer_0022,Hyderabad,Professional,40,Moisturizer,Beauty,799,353.83
+O01404,2026-04-02,C0091,P019,3,0.1,1887.3,5,Credit Card,Customer_0091,Chennai,Business,38,Water Bottle,Home,699,265.75
+O01405,2026-07-31,C0027,P016,1,0.0,8999.0,4,UPI,Customer_0027,Coimbatore,Business,38,Office Chair,Furniture,8999,2060.46
+O01406,2026-06-08,C0245,P020,2,0.0,8998.0,5,Cash,Customer_0245,Mumbai,Business,33,Coffee Maker,Home Appliances,4499,1723.19
+O01407,2026-03-08,C0120,P012,3,0.1,6747.3,5,Net Banking,Customer_0120,Madurai,Student,18,Casual Sneakers,Fashion,2499,1555.01
+O01408,2026-03-10,C0035,P021,2,0.0,998.0,5,Cash,Customer_0035,Madurai,Business,55,Face Wash,Beauty,499,215.52
+O01409,2026-07-24,C0289,P002,4,0.0,9996.0,5,Net Banking,Customer_0289,Mumbai,Professional,50,Bluetooth Speaker,Electronics,2499,2527.22
+O01410,2026-06-06,C0182,P009,1,0.0,2999.0,4,Credit Card,Customer_0182,Delhi,Professional,33,Webcam,Electronics,2999,493.19
+O01411,2026-06-11,C0297,P023,1,0.05,759.05,5,Credit Card,Customer_0297,Mumbai,Business,49,Moisturizer,Beauty,799,139.57
+O01412,2026-07-06,C0063,P022,3,0.15,1782.45,5,Cash,Customer_0063,Bengaluru,Student,32,Shampoo,Beauty,699,292.06
+O01413,2026-07-07,C0060,P010,1,0.05,664.05,5,Debit Card,Customer_0060,Coimbatore,Business,37,Phone Case,Accessories,699,126.89
+O01414,2026-07-29,C0201,P015,2,0.0,3598.0,5,Cash,Customer_0201,Delhi,Student,52,Hoodie,Fashion,1799,997.42
+O01415,2026-09-06,C0157,P020,4,0.0,17996.0,4,Cash,Customer_0157,Coimbatore,Professional,42,Coffee Maker,Home Appliances,4499,2645.75
+O01416,2026-03-29,C0043,P017,3,0.05,21372.15,3,Debit Card,Customer_0043,Bengaluru,Business,52,Study Table,Furniture,7499,3212.49
+O01417,2026-07-03,C0027,P019,4,0.1,2516.4,5,Credit Card,Customer_0027,Coimbatore,Business,38,Water Bottle,Home,699,566.55
+O01418,2026-02-08,C0060,P019,4,0.05,2656.2,3,Cash,Customer_0060,Coimbatore,Business,37,Water Bottle,Home,699,403.04
+O01419,2026-04-16,C0060,P030,4,0.15,10196.6,5,Net Banking,Customer_0060,Coimbatore,Business,37,Travel Bag,Accessories,2999,2433.47
+O01420,2026-07-23,C0251,P013,3,0.0,4497.0,4,UPI,Customer_0251,Coimbatore,Student,30,Backpack,Accessories,1499,796.63
+O01421,2026-07-03,C0197,P016,1,0.0,8999.0,4,Cash,Customer_0197,Coimbatore,Professional,32,Office Chair,Furniture,8999,1094.05
+O01422,2026-07-17,C0137,P018,2,0.15,2208.3,3,UPI,Customer_0137,Coimbatore,Student,47,Desk Lamp,Home,1299,613.89
+O01423,2026-06-19,C0004,P003,2,0.0,6998.0,5,Net Banking,Customer_0004,Bengaluru,Business,45,Smart Watch,Electronics,3499,1042.7
+O01424,2026-09-07,C0274,P001,3,0.15,5097.45,4,Net Banking,Customer_0274,Coimbatore,Business,31,Wireless Earbuds,Electronics,1999,1354.81
+O01425,2026-08-12,C0008,P009,3,0.1,8097.3,5,UPI,Customer_0008,Mumbai,Student,46,Webcam,Electronics,2999,2154.2
+O01426,2026-07-31,C0071,P008,3,0.05,6552.15,5,Cash,Customer_0071,Delhi,Student,48,USB-C Hub,Electronics,2299,1650.53
+O01427,2026-06-14,C0192,P014,2,0.15,1358.3,5,Cash,Customer_0192,Delhi,Professional,21,T-Shirt,Fashion,799,399.41
+O01428,2026-07-18,C0241,P005,2,0.1,2338.2,3,Net Banking,Customer_0241,Mumbai,Professional,53,Gaming Mouse,Electronics,1299,623.05
+O01429,2026-03-27,C0020,P004,4,0.05,5696.2,5,Net Banking,Customer_0020,Bengaluru,Professional,35,Power Bank,Electronics,1499,728.12
+O01430,2026-03-14,C0046,P016,2,0.0,17998.0,5,Debit Card,Customer_0046,Hyderabad,Professional,18,Office Chair,Furniture,8999,2848.21
+O01431,2026-05-14,C0281,P013,3,0.05,4272.15,2,Net Banking,Customer_0281,Delhi,Student,32,Backpack,Accessories,1499,984.23
+O01432,2026-06-01,C0246,P008,3,0.05,6552.15,5,Debit Card,Customer_0246,Madurai,Business,55,USB-C Hub,Electronics,2299,1296.63
+O01433,2026-07-05,C0113,P013,4,0.0,5996.0,5,Debit Card,Customer_0113,Hyderabad,Professional,25,Backpack,Accessories,1499,910.37
+O01434,2026-03-08,C0088,P030,3,0.0,8997.0,2,UPI,Customer_0088,Delhi,Professional,45,Travel Bag,Accessories,2999,1946.19
+O01435,2026-04-25,C0049,P028,3,0.0,1497.0,4,Credit Card,Customer_0049,Coimbatore,Student,41,Calculator,Stationery,499,234.0
+O01436,2026-07-26,C0122,P011,2,0.1,5398.2,4,Net Banking,Customer_0122,Hyderabad,Business,46,Running Shoes,Fashion,2999,1035.78
+O01437,2026-06-22,C0231,P006,2,0.15,6798.3,5,Credit Card,Customer_0231,Delhi,Professional,45,Mechanical Keyboard,Electronics,3999,1316.06
+O01438,2026-01-27,C0120,P012,3,0.05,7122.15,5,Debit Card,Customer_0120,Madurai,Student,18,Casual Sneakers,Fashion,2499,1728.38
+O01439,2026-04-27,C0085,P016,1,0.05,8549.05,5,Cash,Customer_0085,Delhi,Student,43,Office Chair,Furniture,8999,2074.14
+O01440,2026-01-21,C0030,P001,1,0.0,1999.0,4,Credit Card,Customer_0030,Bengaluru,Student,54,Wireless Earbuds,Electronics,1999,248.15
+O01441,2026-05-02,C0107,P006,2,0.15,6798.3,3,Net Banking,Customer_0107,Hyderabad,Professional,22,Mechanical Keyboard,Electronics,3999,1893.4
+O01442,2026-04-14,C0151,P026,4,0.1,716.4,5,Cash,Customer_0151,Coimbatore,Professional,45,Notebook,Stationery,199,100.01
+O01443,2026-04-23,C0046,P008,4,0.15,7816.6,5,Credit Card,Customer_0046,Hyderabad,Professional,18,USB-C Hub,Electronics,2299,1275.29
+O01444,2026-05-10,C0058,P002,2,0.15,4248.3,5,Credit Card,Customer_0058,Hyderabad,Professional,51,Bluetooth Speaker,Electronics,2499,1004.27
+O01445,2026-09-05,C0234,P013,1,0.05,1424.05,4,UPI,Customer_0234,Coimbatore,Professional,54,Backpack,Accessories,1499,391.46
+O01446,2026-07-11,C0117,P028,2,0.1,898.2,5,UPI,Customer_0117,Coimbatore,Business,34,Calculator,Stationery,499,249.86
+O01447,2026-06-04,C0021,P008,4,0.0,9196.0,3,Net Banking,Customer_0021,Delhi,Business,41,USB-C Hub,Electronics,2299,2447.76
+O01448,2026-03-16,C0004,P006,1,0.05,3799.05,3,Debit Card,Customer_0004,Bengaluru,Business,45,Mechanical Keyboard,Electronics,3999,1092.75
+O01449,2026-04-06,C0263,P015,3,0.1,4857.3,4,Credit Card,Customer_0263,Delhi,Professional,29,Hoodie,Fashion,1799,1406.84
+O01450,2026-02-06,C0202,P014,4,0.0,3196.0,5,Debit Card,Customer_0202,Chennai,Professional,55,T-Shirt,Fashion,799,741.7
+O01451,2026-08-16,C0087,P022,3,0.05,1992.15,4,Cash,Customer_0087,Chennai,Professional,34,Shampoo,Beauty,699,274.81
+O01452,2026-01-01,C0023,P013,1,0.1,1349.1,3,UPI,Customer_0023,Coimbatore,Business,35,Backpack,Accessories,1499,194.08
+O01453,2026-04-17,C0240,P014,4,0.1,2876.4,5,Debit Card,Customer_0240,Coimbatore,Student,33,T-Shirt,Fashion,799,394.86
+O01454,2026-07-20,C0055,P018,4,0.15,4416.6,5,Net Banking,Customer_0055,Bengaluru,Student,49,Desk Lamp,Home,1299,1283.96
+O01455,2026-02-03,C0171,P020,2,0.15,7648.3,5,Cash,Customer_0171,Coimbatore,Business,42,Coffee Maker,Home Appliances,4499,1276.7
+O01456,2026-02-08,C0116,P012,3,0.0,7497.0,5,Net Banking,Customer_0116,Coimbatore,Business,39,Casual Sneakers,Fashion,2499,1668.41
+O01457,2026-04-15,C0238,P023,4,0.05,3036.2,5,Debit Card,Customer_0238,Madurai,Professional,35,Moisturizer,Beauty,799,689.99
+O01458,2026-05-19,C0121,P009,1,0.15,2549.15,5,UPI,Customer_0121,Pune,Student,34,Webcam,Electronics,2999,672.57
+O01459,2026-08-10,C0289,P009,2,0.0,5998.0,5,Debit Card,Customer_0289,Mumbai,Professional,50,Webcam,Electronics,2999,1324.7
+O01460,2026-05-24,C0270,P011,1,0.0,2999.0,4,Net Banking,Customer_0270,Coimbatore,Business,42,Running Shoes,Fashion,2999,767.72
+O01461,2026-05-19,C0062,P027,1,0.05,236.55,5,Net Banking,Customer_0062,Delhi,Business,46,Pen Set,Stationery,249,63.17
+O01462,2026-08-18,C0177,P021,1,0.0,499.0,5,Net Banking,Customer_0177,Coimbatore,Student,47,Face Wash,Beauty,499,125.25
+O01463,2026-02-16,C0159,P015,1,0.1,1619.1,5,Credit Card,Customer_0159,Madurai,Professional,53,Hoodie,Fashion,1799,266.82
+O01464,2026-08-01,C0260,P006,4,0.0,15996.0,5,Net Banking,Customer_0260,Hyderabad,Business,49,Mechanical Keyboard,Electronics,3999,4652.06
+O01465,2026-03-24,C0251,P028,4,0.0,1996.0,4,UPI,Customer_0251,Coimbatore,Student,30,Calculator,Stationery,499,577.47
+O01466,2026-03-29,C0137,P024,4,0.05,2276.2,4,Net Banking,Customer_0137,Coimbatore,Student,47,Sunscreen,Beauty,599,511.45
+O01467,2026-03-23,C0021,P005,4,0.1,4676.4,3,UPI,Customer_0021,Delhi,Business,41,Gaming Mouse,Electronics,1299,1325.99
+O01468,2026-05-19,C0186,P010,2,0.1,1258.2,3,Debit Card,Customer_0186,Coimbatore,Professional,39,Phone Case,Accessories,699,232.36
+O01469,2026-07-16,C0147,P016,1,0.05,8549.05,4,Cash,Customer_0147,Mumbai,Business,50,Office Chair,Furniture,8999,2220.24
+O01470,2026-06-23,C0004,P012,2,0.0,4998.0,5,Debit Card,Customer_0004,Bengaluru,Business,45,Casual Sneakers,Fashion,2499,1187.82
+O01471,2026-02-16,C0167,P010,1,0.0,699.0,4,UPI,Customer_0167,Madurai,Student,30,Phone Case,Accessories,699,86.89
+O01472,2026-03-23,C0021,P023,2,0.15,1358.3,5,Debit Card,Customer_0021,Delhi,Business,41,Moisturizer,Beauty,799,351.06
+O01473,2026-04-07,C0021,P016,1,0.0,8999.0,4,Net Banking,Customer_0021,Delhi,Business,41,Office Chair,Furniture,8999,2274.26
+O01474,2026-05-31,C0085,P025,2,0.15,2548.3,4,Net Banking,Customer_0085,Delhi,Student,43,Perfume,Beauty,1499,394.97
+O01475,2026-04-09,C0235,P027,1,0.1,224.1,3,Cash,Customer_0235,Mumbai,Professional,19,Pen Set,Stationery,249,35.67
+O01476,2026-05-22,C0107,P011,4,0.0,11996.0,4,Cash,Customer_0107,Hyderabad,Professional,22,Running Shoes,Fashion,2999,2734.29
+O01477,2026-06-12,C0190,P027,2,0.0,498.0,4,Net Banking,Customer_0190,Coimbatore,Student,44,Pen Set,Stationery,249,84.65
+O01478,2026-06-22,C0046,P013,1,0.05,1424.05,5,Credit Card,Customer_0046,Hyderabad,Professional,18,Backpack,Accessories,1499,308.02
+O01479,2026-03-19,C0064,P001,4,0.15,6796.6,3,Net Banking,Customer_0064,Bengaluru,Professional,19,Wireless Earbuds,Electronics,1999,1390.54
+O01480,2026-02-22,C0109,P009,2,0.1,5398.2,5,Credit Card,Customer_0109,Hyderabad,Professional,52,Webcam,Electronics,2999,1352.01
+O01481,2026-07-20,C0048,P019,2,0.15,1188.3,5,Net Banking,Customer_0048,Bengaluru,Business,37,Water Bottle,Home,699,311.61
+O01482,2026-04-26,C0117,P001,1,0.0,1999.0,5,Net Banking,Customer_0117,Coimbatore,Business,34,Wireless Earbuds,Electronics,1999,591.87
+O01483,2026-03-16,C0044,P026,2,0.0,398.0,3,Cash,Customer_0044,Madurai,Business,39,Notebook,Stationery,199,81.77
+O01484,2026-03-11,C0070,P025,3,0.15,3822.45,5,Credit Card,Customer_0070,Coimbatore,Business,26,Perfume,Beauty,1499,782.61
+O01485,2026-05-30,C0287,P024,3,0.0,1797.0,4,Net Banking,Customer_0287,Madurai,Professional,25,Sunscreen,Beauty,599,534.29
+O01486,2026-05-25,C0251,P030,1,0.1,2699.1,3,UPI,Customer_0251,Coimbatore,Student,30,Travel Bag,Accessories,2999,426.18
+O01487,2026-08-01,C0050,P009,2,0.1,5398.2,5,Credit Card,Customer_0050,Hyderabad,Business,51,Webcam,Electronics,2999,696.78
+O01488,2026-06-06,C0181,P014,3,0.1,2157.3,5,Cash,Customer_0181,Hyderabad,Business,48,T-Shirt,Fashion,799,582.18
+O01489,2026-03-11,C0106,P001,2,0.1,3598.2,4,Cash,Customer_0106,Coimbatore,Business,34,Wireless Earbuds,Electronics,1999,628.1
+O01490,2026-09-03,C0219,P009,3,0.0,8997.0,5,Credit Card,Customer_0219,Chennai,Professional,54,Webcam,Electronics,2999,2100.23
+O01491,2026-06-15,C0297,P018,1,0.15,1104.15,1,UPI,Customer_0297,Mumbai,Business,49,Desk Lamp,Home,1299,281.08
+O01492,2026-06-22,C0091,P012,2,0.15,4248.3,5,Cash,Customer_0091,Chennai,Business,38,Casual Sneakers,Fashion,2499,1151.26
+O01493,2026-07-15,C0079,P027,4,0.0,996.0,5,UPI,Customer_0079,Delhi,Student,45,Pen Set,Stationery,249,201.09
+O01494,2026-05-18,C0146,P018,1,0.15,1104.15,5,Debit Card,Customer_0146,Mumbai,Professional,38,Desk Lamp,Home,1299,288.73
+O01495,2026-09-06,C0155,P010,4,0.1,2516.4,4,UPI,Customer_0155,Mumbai,Professional,43,Phone Case,Accessories,699,558.03
+O01496,2026-02-01,C0091,P001,4,0.1,7196.4,5,Cash,Customer_0091,Chennai,Business,38,Wireless Earbuds,Electronics,1999,922.49
+O01497,2026-01-03,C0128,P007,2,0.0,3198.0,5,Debit Card,Customer_0128,Chennai,Professional,31,Laptop Stand,Electronics,1599,956.48
+O01498,2026-02-19,C0012,P026,1,0.1,179.1,5,Credit Card,Customer_0012,Bengaluru,Student,42,Notebook,Stationery,199,37.79
+O01499,2026-03-01,C0124,P010,4,0.1,2516.4,2,Cash,Customer_0124,Bengaluru,Student,27,Phone Case,Accessories,699,741.69
+O01500,2026-08-20,C0068,P022,2,0.0,1398.0,4,Cash,Customer_0068,Pune,Student,50,Shampoo,Beauty,699,306.03
